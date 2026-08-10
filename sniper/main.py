@@ -59,6 +59,28 @@ def parse_posted(val):
     return None
 
 
+def write_brief(store, cfg):
+    """Regenerate out/brief.md — everything caught in the last N hours,
+    best first. Refreshed after every poll, so whenever you open the laptop
+    the first wake-up poll (within ~5 min) brings it current."""
+    hours = cfg.get("brief_hours", 48)
+    rows = store.recent(time.time() - hours * 3600)
+    path = os.path.join(ROOT, "out", "brief.md")
+    with open(path, "w") as f:
+        f.write("# Morning brief — new postings, last %dh\n\n" % hours)
+        f.write("_Generated %s. Best-scored first. ✅ = you were pinged, "
+                "👀 = digest-only (below threshold)._\n\n"
+                % time.strftime("%Y-%m-%d %H:%M"))
+        if not rows:
+            f.write("Nothing new in this window.\n")
+        for company, title, url, first_seen, notified, score, posted, locs in rows:
+            age_h = (time.time() - first_seen) / 3600
+            f.write("- %s **[%d]** [%s — %s](%s)%s _(caught %.0fh ago)_\n" % (
+                "✅" if notified else "👀", score, company, title, url,
+                (" — " + locs[:80]) if locs else "", age_h))
+    return path
+
+
 def run_once(cfg, targets, store, matcher, notifier, force_baseline=False):
     t0 = time.time()
     baselined = store.get_meta("baselined") == "1" and not force_baseline
@@ -85,16 +107,16 @@ def run_once(cfg, targets, store, matcher, notifier, force_baseline=False):
     for j in fresh:
         posted = parse_posted(j.get("posted_at"))
         stale = posted is not None and (time.time() - posted) > max_age
+        sc = matcher.score(j)
         if not baselined or stale:
-            store.mark_seen(j, notified=False)
+            store.mark_seen(j, notified=False, score=sc, posted_at=posted)
             quiet += 1
             continue
-        sc = matcher.score(j)
         if sc >= matcher.threshold:
             alerts.append((sc, j))
         else:
             digest_rows.append((sc, j))
-        store.mark_seen(j, notified=sc >= matcher.threshold)
+        store.mark_seen(j, notified=sc >= matcher.threshold, score=sc, posted_at=posted)
 
     for sc, j in sorted(alerts, key=lambda x: -x[0]):
         notifier.alert(j, sc)
@@ -103,6 +125,7 @@ def run_once(cfg, targets, store, matcher, notifier, force_baseline=False):
     if not baselined:
         store.set_meta("baselined", "1")
     store.commit()
+    write_brief(store, cfg)
 
     notifier.summary(
         "poll done in %.1fs: %d targets (%d failed), %d postings, %d matched filters, "

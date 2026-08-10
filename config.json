@@ -34,7 +34,7 @@
     ]
   },
   "scoring": {
-    "notify_threshold": 0,
+    "notify_threshold": 5,
     "keywords": {
       "software|swe|engineer": 5,
       "backend|back-end|full[- ]?stack|platform|infrastructure|infra": 4,

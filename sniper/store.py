@@ -24,18 +24,35 @@ class Store:
         os.makedirs(os.path.dirname(path), exist_ok=True)
         self.db = sqlite3.connect(path)
         self.db.executescript(SCHEMA)
+        # lightweight migrations for columns added after v1
+        for col, typ in (("score", "REAL"), ("posted_at", "REAL"), ("locations", "TEXT")):
+            try:
+                self.db.execute("ALTER TABLE seen ADD COLUMN %s %s" % (col, typ))
+            except sqlite3.OperationalError:
+                pass  # already exists
 
     def is_seen(self, uid):
         cur = self.db.execute("SELECT 1 FROM seen WHERE uid = ?", (uid,))
         return cur.fetchone() is not None
 
-    def mark_seen(self, job, notified):
+    def mark_seen(self, job, notified, score=None, posted_at=None):
         self.db.execute(
-            "INSERT OR IGNORE INTO seen (uid, company, title, url, first_seen, notified)"
-            " VALUES (?,?,?,?,?,?)",
+            "INSERT OR IGNORE INTO seen"
+            " (uid, company, title, url, first_seen, notified, score, posted_at, locations)"
+            " VALUES (?,?,?,?,?,?,?,?,?)",
             (job["uid"], job["company"], job["title"], job["url"],
-             int(time.time()), 1 if notified else 0),
+             int(time.time()), 1 if notified else 0, score, posted_at,
+             ", ".join(job.get("locations") or [])),
         )
+
+    def recent(self, since_epoch):
+        """Rows first observed after `since_epoch`, best-scored first."""
+        cur = self.db.execute(
+            "SELECT company, title, url, first_seen, notified,"
+            "       COALESCE(score, 0), posted_at, COALESCE(locations, '')"
+            " FROM seen WHERE first_seen > ? ORDER BY COALESCE(score, 0) DESC, first_seen DESC",
+            (int(since_epoch),))
+        return cur.fetchall()
 
     def new_jobs(self, jobs):
         """Filter to jobs never seen before (by uid)."""
