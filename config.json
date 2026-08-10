@@ -1,0 +1,56 @@
+{
+  "max_workers": 24,
+  "max_age_days": 7,
+  "simplify_every_n_runs": 4,
+  "filters": {
+    "title_include": [
+      "\\bintern(ship)?\\b",
+      "\\bco[- ]?op\\b"
+    ],
+    "title_exclude": [
+      "\\bunpaid\\b",
+      "\\bMBA\\b",
+      "\\bPhD\\b",
+      "legal intern",
+      "marketing intern",
+      "design intern",
+      "recruiting intern",
+      "\\bHR\\b",
+      "sales intern",
+      "finance intern",
+      "accounting intern"
+    ],
+    "location_include": [],
+    "location_exclude": [
+      "\\bIndia\\b",
+      "\\bChina\\b",
+      "\\bPoland\\b",
+      "\\bBrazil\\b",
+      "\\bMexico City\\b",
+      "\\bSingapore\\b",
+      "\\bJapan\\b",
+      "\\bKorea\\b",
+      "\\bIsrael\\b"
+    ]
+  },
+  "scoring": {
+    "notify_threshold": 0,
+    "keywords": {
+      "software|swe|engineer": 5,
+      "backend|back-end|full[- ]?stack|platform|infrastructure|infra": 4,
+      "machine learning|\\bml\\b|\\bai\\b|agent": 4,
+      "developer tools|devtools|developer experience": 3,
+      "remote": 2,
+      "front[- ]?end|frontend|web": 2,
+      "data eng": 2,
+      "quant": 1,
+      "New York|NYC|San Francisco|Bay Area|Seattle|Austin|Remote": 1
+    },
+    "hot_companies": []
+  },
+  "notify": {
+    "ntfy_topic": "",
+    "discord_webhook": "",
+    "macos": true
+  }
+}

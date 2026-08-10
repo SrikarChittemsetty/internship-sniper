@@ -1,0 +1,43 @@
+name: poll
+# Cloud runner: fires even when your laptop is closed.
+# Note GitHub cron has ~5-15 min real-world jitter; the local launchd poller
+# is the low-latency path, this is the always-on safety net.
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: poll
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: poll
+        env:
+          SNIPER_NTFY_TOPIC: ${{ secrets.SNIPER_NTFY_TOPIC }}
+          SNIPER_DISCORD_WEBHOOK: ${{ secrets.SNIPER_DISCORD_WEBHOOK }}
+        run: python3 -m sniper.main --once
+
+      - name: persist state
+        run: |
+          git config user.name "sniper-bot"
+          git config user.email "sniper-bot@users.noreply.github.com"
+          git add state/ out/ || true
+          git diff --cached --quiet || git commit -m "state: $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin main || true
+          git push || true

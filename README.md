@@ -1,0 +1,78 @@
+# Internship Sniper
+
+Detects new internship postings within minutes of going live and pushes an
+alert to your phone with a direct application link — so you're applying while
+everyone else is still waiting for a newsletter.
+
+## Why this is as fast as it gets
+
+- **Polls the source, not aggregators.** Every 5 minutes it hits the public
+  JSON APIs behind ~400 company career pages (Greenhouse, Lever, Ashby,
+  SmartRecruiters, Workable, Workday) — the same endpoints the career pages
+  themselves load. Aggregators like Simplify scrape these hourly and publish
+  daily; you're reading them directly at 5-minute cadence.
+- **Wide-net backstop.** Every 4th run also diffs SimplifyJobs'
+  machine-readable feed (14k+ listings), so companies outside the direct-poll
+  list still get caught.
+- **Genuine deltas only.** SQLite seen-store: you're alerted once per posting,
+  ever. First run baselines silently; stale postings (>7 days) never alert.
+- **A full sweep of all 394 boards takes ~33 seconds.**
+
+## Quick start
+
+```bash
+# 1. install the every-5-min local poller
+./scripts/install_launchd.sh
+
+# 2. get phone push alerts: install the ntfy app (App Store), subscribe to a
+#    long random topic name, then put that topic in config.json under
+#    notify.ntfy_topic. Done — no account needed.
+
+# 3. (optional) fill in profile.md, then per alert:
+python3 scripts/dossier.py --latest   # tailored bullets + drafted answers
+```
+
+## Layout
+
+| path | what |
+|---|---|
+| `sniper/` | poller package (stdlib only, no deps) |
+| `targets.json` | 394 company boards, seeded from Simplify's feed |
+| `config.json` | filters, scoring keywords, notification channels |
+| `state/seen.sqlite` | dedup store |
+| `out/alerts.log`, `out/digest.md` | high-score alerts / everything else |
+| `scripts/seed_targets.py` | re-mine targets.json (run monthly) |
+| `scripts/dossier.py` | per-posting application prep via Claude |
+| `.github/workflows/poll.yml` | cloud runner every 15 min (laptop-closed safety net) |
+
+## Commands
+
+```bash
+python3 -m sniper.main --once        # single poll
+python3 -m sniper.main --loop 300    # foreground loop, every 5 min
+python3 -m sniper.main --once --baseline   # re-baseline (no alerts)
+python3 scripts/seed_targets.py --max 400  # refresh target list
+```
+
+## Cloud runner (optional but recommended)
+
+Push this repo to GitHub (private is fine) and the included workflow polls
+every 15 min even when your Mac is asleep. Add repo secrets
+`SNIPER_NTFY_TOPIC` / `SNIPER_DISCORD_WEBHOOK` for notifications. Note:
+GitHub cron has 5–15 min jitter — the local launchd poller is the fast path.
+
+## Tuning
+
+- `config.json → filters.title_exclude / location_exclude`: trim noise.
+- `scoring.keywords`: regex → weight. Score ≥ `notify_threshold` ⇒ instant
+  push; below ⇒ `out/digest.md`. Raise the threshold if you get too many
+  pings; keep it at 0 while calibrating.
+- `scoring.hot_companies`: +10 to companies you'd drop everything for.
+
+## What it deliberately does NOT do
+
+No auto-submitting. Auto-apply bots get accounts restricted (LinkedIn now
+flags high-velocity applying) and botch company-specific questions. The edge
+that matters is *knowing in minutes + having materials ready* — the dossier
+script gets you from alert to submitted in ~10 minutes, with a human (you)
+clicking submit.
