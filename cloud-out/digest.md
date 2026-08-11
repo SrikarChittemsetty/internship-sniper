@@ -221,3 +221,14 @@
 - [0] Veolia — Process Innovation Intern (Oakville, ON, ca) — https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000142940939
 - [0] Veolia — Process Innovation Intern (Montréal, QC, ca) — https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000142940889
 - [0] City of Philadelphia — Planning and Development - Communications Intern (Philadelphia, PA, us) — https://jobs.smartrecruiters.com/CityofPhiladelphia/744000142941025
+
+## 2026-08-11 18:35 — 8 new postings
+
+- [0] Royal Bank of Canada — 2026, PCG Fall Intern (Mount Laurel Township, New Jersey, United States of America) — https://rbc.wd3.myworkdayjobs.com/en-US/ExternalPrivatePostingStudents/job/Mount-Laurel-Township-New-Jersey-United-States-of-America/XMLNAME-2026--PCG-Fall-Intern_R-0000183706
+- [0] Royal Bank of Canada — 2026, PCG Fall Intern (Lancaster, Pennsylvania, United States of America) — https://rbc.wd3.myworkdayjobs.com/en-US/ExternalPrivatePostingStudents/job/Lancaster-Pennsylvania-United-States-of-America/XMLNAME-2026--PCG-Fall-Intern_R-0000183714
+- [0] RTX — SkillBridge: AN/ZSQ-2 Electro-Optical Systems Depot Technician Intern (US-KY-FORT CAMPBELL-7228NS-CUST ~ 7228 Nightstalker Wy ~ BLDG 6882, Rm 210 (External Site)) — https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-KY-FORT-CAMPBELL-7228NS-CUST--7228-Nightstalker-Wy--BLDG-6882-Rm-210-External-Site/SkillBridge--AN-ZSQ-2-Electro-Optical-Systems-Depot-Technician-Intern_01865923
+- [0] CNO Financial Group — Summer 2027 Fixed Income Credit Research Intern - ONSITE Carmel, IN (Carmel, IN) — https://cnoinc.wd5.myworkdayjobs.com/en-US/Careers/job/Carmel-IN/Summer-2027-Fixed-Income-Credit-Research-Intern---ONSITE-Carmel--IN_JR170423
+- [0] The Walt Disney Company — Disney+ Hulu Brand Marketing Intern, Fall 2026  (Burbank, CA, USA) — https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Burbank-CA-USA/Disney--Hulu-Brand-Marketing-Intern--Fall-2026-_10157154
+- [0] Continental — Intern - Logistics Analyst, Year-Round (Fort Mill, SC, us) — https://jobs.smartrecruiters.com/Continental/744000142949339
+- [0] Continental — Intern - Marketing - Bicycle Tire, Year-Round (Denver, CO, us) — https://jobs.smartrecruiters.com/Continental/744000142948950
+- [0] AECOM — Planning Intern (Greenville, SC, us) — https://jobs.smartrecruiters.com/AECOM2/744000142943284
