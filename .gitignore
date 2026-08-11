@@ -1,4 +1,7 @@
 __pycache__/
 *.pyc
 err*.log
-out/launchd*.log
+# local poller's state/output — never committed (the cloud runner owns
+# cloud-state/ and cloud-out/, which ARE committed by the workflow)
+state/
+out/

@@ -28,6 +28,20 @@ from .store import Store
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
+def _dir(env_key, default_name):
+    """Resolve a state/output dir; env override may be relative to ROOT.
+
+    The cloud runner sets SNIPER_STATE_DIR=cloud-state / SNIPER_OUT_DIR=cloud-out
+    so the two pollers never touch the same files (local dirs are gitignored,
+    cloud dirs are committed by the workflow)."""
+    val = os.environ.get(env_key) or default_name
+    return val if os.path.isabs(val) else os.path.join(ROOT, val)
+
+
+STATE_DIR = _dir("SNIPER_STATE_DIR", "state")
+OUT_DIR = _dir("SNIPER_OUT_DIR", "out")
+
+
 def load_json(name, default):
     path = os.path.join(ROOT, name)
     if not os.path.exists(path):
@@ -65,7 +79,7 @@ def write_brief(store, cfg):
     the first wake-up poll (within ~5 min) brings it current."""
     hours = cfg.get("brief_hours", 48)
     rows = store.recent(time.time() - hours * 3600)
-    path = os.path.join(ROOT, "out", "brief.md")
+    path = os.path.join(OUT_DIR, "brief.md")
     with open(path, "w") as f:
         f.write("# Morning brief — new postings, last %dh\n\n" % hours)
         f.write("_Generated %s. Best-scored first. ✅ = you were pinged, "
@@ -120,7 +134,7 @@ def run_once(cfg, targets, store, matcher, notifier, force_baseline=False):
 
     for sc, j in sorted(alerts, key=lambda x: -x[0]):
         notifier.alert(j, sc)
-    notifier.digest(digest_rows, os.path.join(ROOT, "out", "digest.md"))
+    notifier.digest(digest_rows, os.path.join(OUT_DIR, "digest.md"))
 
     if not baselined:
         store.set_meta("baselined", "1")
@@ -154,9 +168,9 @@ def main():
         print("targets.json is empty — run scripts/seed_targets.py first", file=sys.stderr)
         sys.exit(1)
 
-    store = Store(os.path.join(ROOT, "state", "seen.sqlite"))
+    store = Store(os.path.join(STATE_DIR, "seen.sqlite"))
     matcher = Matcher(cfg)
-    notifier = Notifier(cfg, os.path.join(ROOT, "out"))
+    notifier = Notifier(cfg, OUT_DIR)
 
     try:
         if args.loop:

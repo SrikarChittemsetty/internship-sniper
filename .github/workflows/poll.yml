@@ -31,13 +31,16 @@ jobs:
         env:
           SNIPER_NTFY_TOPIC: ${{ secrets.SNIPER_NTFY_TOPIC }}
           SNIPER_DISCORD_WEBHOOK: ${{ secrets.SNIPER_DISCORD_WEBHOOK }}
+          # cloud keeps its own state so it never collides with the local poller
+          SNIPER_STATE_DIR: cloud-state
+          SNIPER_OUT_DIR: cloud-out
         run: python3 -m sniper.main --once
 
       - name: persist state
         run: |
           git config user.name "sniper-bot"
           git config user.email "sniper-bot@users.noreply.github.com"
-          git add state/ out/ || true
+          git add cloud-state/ cloud-out/ || true
           git diff --cached --quiet || git commit -m "state: $(date -u +%Y-%m-%dT%H:%MZ)"
           git pull --rebase origin main || true
           git push || true
