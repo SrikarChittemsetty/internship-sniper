@@ -214,3 +214,10 @@
 - [0] Northrop Grumman — 2027 Intern Global Supply Chain (United States-California-Palmdale) — https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Global-Supply-Chain_R10244591
 - [0] Smiths Detection Group — Apprentice Training & Learning Management System Administrator (Birmingham, England, gb) — https://jobs.smartrecruiters.com/SmithsGroup2/744000142923224
 - [0] Veolia — Process Innovation Intern (Oakville, ON, ca) — https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000142929560
+
+## 2026-08-11 17:41 — 4 new postings
+
+- [0] Truist Bank — 2027 Truist Securities - Investment Grade Debt Capital Markets (Capital Markets) - Analyst Program (INTERN CONVERSION) (Atlanta, GA) — https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Investment-Grade-Debt-Capital-Markets--Capital-Markets----Analyst-Program--INTERN-CONVERSION-_R0117758-1
+- [0] Veolia — Process Innovation Intern (Oakville, ON, ca) — https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000142940939
+- [0] Veolia — Process Innovation Intern (Montréal, QC, ca) — https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000142940889
+- [0] City of Philadelphia — Planning and Development - Communications Intern (Philadelphia, PA, us) — https://jobs.smartrecruiters.com/CityofPhiladelphia/744000142941025
