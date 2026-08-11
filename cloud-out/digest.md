@@ -184,3 +184,7 @@
 - [4] TikTok — AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams (San Jose, CA) — https://lifeattiktok.com/search/7670529537944766773
 - [0] SpaceX — Controls Technician Apprentice - 2nd Shift (McGregor, TX) — https://boards.greenhouse.io/spacex/jobs/8683682002
 - [0] BlueLabs Analytics — Strategic Analytics Fellow (Washington, DC) — https://job-boards.greenhouse.io/bluelabsanalyticsinc/jobs/5208171007
+
+## 2026-08-11 12:11 — 1 new postings
+
+- [0] Johnson Controls — HVAC Service Technician Apprentice (union) (Charlottesville-Virginia-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Charlottesville-Virginia-United-States-of-America/HVAC-Service-Technician-Apprentice--union-_WD30271201-1
