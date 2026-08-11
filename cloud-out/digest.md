@@ -178,3 +178,9 @@
 - [0] Bosch Home Comfort — Mandatory Internship Global Communication and Brand - Bosch Global Real Estate (Gerlingen, BW, de) — https://jobs.smartrecruiters.com/BoschGroup/744000142840459
 - [0] Bosch Home Comfort — Internship 2026, Project Management, Power Solutions (PS/EAZ) (T.Mabyangporn, Pluak Daeng Amata City Rayong Industrial Estate, th) — https://jobs.smartrecruiters.com/BoschGroup/744000142838168
 - [0] Bosch Home Comfort — 2026 Internship, SAP S/4HANA Transformation Project Coordinator (AmaP/ICO) (Amata City Rayong Industrial Estate, Amata City Rayong Industrial Estate, th) — https://jobs.smartrecruiters.com/BoschGroup/744000142837878
+
+## 2026-08-11 11:30 — 3 new postings
+
+- [4] TikTok — AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams (San Jose, CA) — https://lifeattiktok.com/search/7670529537944766773
+- [0] SpaceX — Controls Technician Apprentice - 2nd Shift (McGregor, TX) — https://boards.greenhouse.io/spacex/jobs/8683682002
+- [0] BlueLabs Analytics — Strategic Analytics Fellow (Washington, DC) — https://job-boards.greenhouse.io/bluelabsanalyticsinc/jobs/5208171007
