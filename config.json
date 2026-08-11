@@ -5,7 +5,14 @@
   "filters": {
     "title_include": [
       "\\bintern(ship)?\\b",
-      "\\bco[- ]?op\\b"
+      "\\bco[- ]?op\\b",
+      "\\bfellow(ship)?s?\\b",
+      "\\b(sophomore|freshman|first[- ]?year|underclassmen)\\b",
+      "insights? (day|week|program|event|series|summit)",
+      "(discovery|discover|explore|emerging talent|early (career|talent|insight)) (day|week|program|event|series|summit)",
+      "\\bextern(ship)?s?\\b",
+      "\\bapprentice(ship)?s?\\b",
+      "(scholars?|launch|pathways?|propel|ignite|step) (program|internship)"
     ],
     "title_exclude": [
       "\\bunpaid\\b",
@@ -18,7 +25,14 @@
       "\\bHR\\b",
       "sales intern",
       "finance intern",
-      "accounting intern"
+      "accounting intern",
+      "postdoc",
+      "post[- ]doctoral",
+      "clinical",
+      "medical fellow",
+      "faculty",
+      "\\bnurse\\b",
+      "law fellow"
     ],
     "location_include": [
       ", [A-Z]{2}(?![A-Za-z])",
@@ -63,7 +77,8 @@
       "front[- ]?end|frontend|web": 2,
       "data eng": 2,
       "quant": 1,
-      "New York|NYC|San Francisco|Bay Area|Seattle|Austin|Remote": 1
+      "New York|NYC|San Francisco|Bay Area|Seattle|Austin|Remote": 1,
+      "fellowship|insight (day|week|program)|discovery program|sophomore|freshman|first[- ]?year|underclassmen|early career|externship|apprenticeship": 5
     },
     "hot_companies": []
   },

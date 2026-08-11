@@ -111,6 +111,12 @@ def run_once(cfg, targets, store, matcher, notifier, force_baseline=False):
             jobs += fetch_simplify()
         except Exception as e:
             failures.append(({"ats": "simplify", "slug": "-"}, str(e)))
+        # program-page watcher rides the same slow cadence
+        try:
+            from .pages import check_pages
+            check_pages(ROOT, store, notifier)
+        except Exception as e:
+            failures.append(({"ats": "pages", "slug": "-"}, str(e)))
 
     # ------------------------------------------------------- delta + alerting
     matched = [j for j in jobs if matcher.matches(j)]
