@@ -254,3 +254,13 @@
 ## 2026-08-11 21:14 — 1 new postings
 
 - [0] Amentum — Intern - Structural Optimization Design Graduate Intern (US-AL-Huntsville) — https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Intern---Structural-Optimization-Design-Graduate-Intern_R0168006
+
+## 2026-08-11 23:02 — 7 new postings
+
+- [0] Hewlett Packard (HP) — Enterprise Operations Business Internship (Spring, Texas, United States of America) — https://hp.wd5.myworkdayjobs.com/en-US/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Business-Internship_3166959-1
+- [0] Blue Origin — Apprentice Machinist Program (Huntsville, AL) — https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Huntsville-AL/Apprentice-Machinist-Program_R70147
+- [0] Ankura Consulting Group — Fellow, McLarty Associates - Middle East and North Africa Practice (USA Washington DC 900 17th Street (McLarty)) — https://ankura.wd5.myworkdayjobs.com/en-US/ankura/job/USA-Washington-DC-900-17th-Street-McLarty/Fellow--McLarty-Associates---Middle-East-and-North-Africa-Practice_R104875
+- [0] Wabtec — Intern, Legal (São Paulo, SP, br) — https://jobs.smartrecruiters.com/Wabtec/3743990014551776
+- [0] ConocoPhillips — Trading Analytics Intern (Houston, TX) — https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429
+- [0] Motorola — Supply Chain Data Analyst Intern (Chicago, IL) — https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489
+- [0]  CCC Intelligent Solutions — Data Science Intern - R&D (Chicago, IL) — https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841
