@@ -171,3 +171,10 @@
 - [0] Xcel Energy — Apprentice/Journeyman Electric Distribution Systems Operator - Skypark Service Center - Eau Claire, WI (Eau Claire, WI, 54702) — https://xcelenergy.wd1.myworkdayjobs.com/en-US/External/job/Eau-Claire-WI-54702/Apprentice-Journeyman-Electric-Distribution-Systems-Operator---Skypark-Service-Center---Eau-Claire--WI_JR115511-1
 - [0] Société Générale de Surveillance (SGS) — Machinist (Journeyman or Apprentice) (Edmonton, AB, ca) — https://jobs.smartrecruiters.com/SGS/744000141999049
 - [0] Creative Artists Agency — Motion Pictures Marketing - Apprentice (Los Angeles, CA) — https://caa.wd1.myworkdayjobs.com/en-US/Careers/job/Los-Angeles-CA/Motion-Pictures-Marketing---Apprentice_JR9098
+
+## 2026-08-11 10:33 — 4 new postings
+
+- [0] Smiths Detection Group — Apprentice Training & Learning Management System Administrator (Birmingham, England, gb) — https://jobs.smartrecruiters.com/SmithsGroup2/744000142834703
+- [0] Bosch Home Comfort — Mandatory Internship Global Communication and Brand - Bosch Global Real Estate (Gerlingen, BW, de) — https://jobs.smartrecruiters.com/BoschGroup/744000142840459
+- [0] Bosch Home Comfort — Internship 2026, Project Management, Power Solutions (PS/EAZ) (T.Mabyangporn, Pluak Daeng Amata City Rayong Industrial Estate, th) — https://jobs.smartrecruiters.com/BoschGroup/744000142838168
+- [0] Bosch Home Comfort — 2026 Internship, SAP S/4HANA Transformation Project Coordinator (AmaP/ICO) (Amata City Rayong Industrial Estate, Amata City Rayong Industrial Estate, th) — https://jobs.smartrecruiters.com/BoschGroup/744000142837878
