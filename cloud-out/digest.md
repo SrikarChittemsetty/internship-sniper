@@ -201,3 +201,9 @@
 - [0] Johnson & Johnson — Supplier Operations Spring Co-op (Titusville, New Jersey, United States of America) — https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Supplier-Operations-Spring-Co-op_R-091274
 - [0] ABB — Quality Intern -Fall 2026 (USA, GA, Athens) — https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-GA-Athens/Quality-Intern--Fall-2026_JR00035228
 - [0] Société Générale de Surveillance (SGS) — Apprentice Valve Technician  (Immingham, England, gb) — https://jobs.smartrecruiters.com/SGS/744000142892597
+
+## 2026-08-11 15:40 — 3 new postings
+
+- [0] ConocoPhillips — Intern, Trading Analytics 2027 (Houston, TX) — https://conocophillips.wd1.myworkdayjobs.com/en-US/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429
+- [0] General Dynamics UK — Co-op Fall 2026 - Human Resources - 4-12 Months (Ottawa, ON, ca) — https://jobs.smartrecruiters.com/GDMSI/744000142913237
+- [0] University System of New Hampshire — Robotics Intern (Durham, NH) — https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Intern_JR8972
