@@ -232,3 +232,16 @@
 - [0] Continental — Intern - Logistics Analyst, Year-Round (Fort Mill, SC, us) — https://jobs.smartrecruiters.com/Continental/744000142949339
 - [0] Continental — Intern - Marketing - Bicycle Tire, Year-Round (Denver, CO, us) — https://jobs.smartrecruiters.com/Continental/744000142948950
 - [0] AECOM — Planning Intern (Greenville, SC, us) — https://jobs.smartrecruiters.com/AECOM2/744000142943284
+
+## 2026-08-11 19:45 — 10 new postings
+
+- [3] United Parcel Service (UPS) — Public Relations Intern - Remote (US - THE UPS STORE SOLUTIONS AND SUPPORT (CADGO)) — https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---THE-UPS-STORE-SOLUTIONS-AND-SUPPORT-CADGO/Public-Relations-Intern---Remote_R26026815
+- [2] Quantbot Technologies — Quantitative Developer Intern (NYC) — https://www.quantbot.com/careers/4341038009?gh_jid=4341038009
+- [2] Quantbot Technologies — Quantitative Researcher Intern (NYC) — https://www.quantbot.com/careers/4299496009?gh_jid=4299496009
+- [1] Quantbot Technologies — Data Trading Analyst Intern (NYC) — https://www.quantbot.com/careers/4299767009?gh_jid=4299767009
+- [1] RTX — Enterprise Extended Reality Intern (NYC) — https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-NY-REMOTE/Enterprise-Extended-Reality--XR--Intern--Summer-2027---Remote-_01865894
+- [0] Continental — Intern - Sales, Summer 2027 - Truck Tire (Fort Mill, SC, us) — https://jobs.smartrecruiters.com/Continental/744000142951649
+- [0] Continental — Intern - Sales, Summer 2027 - PLT (Fort Mill, SC, us) — https://jobs.smartrecruiters.com/Continental/744000142950629
+- [0] New Balance — Footwear Rapid Prototyping Intern (Lawrence, MA Corp) — https://newbalance.wd1.myworkdayjobs.com/en-US/careers/job/Lawrence-MA-Corp/Footwear-Rapid-Prototyping-Intern_R40741
+- [0] City of Manhattan Kansas — GIS Planning Intern (Manhattan, KS) — https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377573
+- [0] Commence — Health Data Analyst Intern (Virginia Beach, VA) — https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408640
