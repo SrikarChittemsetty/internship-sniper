@@ -4,10 +4,9 @@ name: poll
 # is the low-latency path, this is the always-on safety net.
 on:
   schedule:
-    # every 30 min: keeps a private repo inside GitHub's 2,000 free
-    # Actions-min/month (15-min cadence would exhaust quota by week 3).
+    # every 15 min — free at any volume on a public repo.
     # The local 5-min launchd poller remains the fast path.
-    - cron: "*/30 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch: {}
 
 permissions:

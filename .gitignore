@@ -5,3 +5,4 @@ err*.log
 # cloud-state/ and cloud-out/, which ARE committed by the workflow)
 state/
 out/
+profile.md
