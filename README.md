@@ -7,16 +7,16 @@ everyone else is still waiting for a newsletter.
 ## Why this is as fast as it gets
 
 - **Polls the source, not aggregators.** Every 5 minutes it hits the public
-  JSON APIs behind ~400 company career pages (Greenhouse, Lever, Ashby,
+  JSON APIs behind ~1,500 company career pages (Greenhouse, Lever, Ashby,
   SmartRecruiters, Workable, Workday) — the same endpoints the career pages
   themselves load. Aggregators like Simplify scrape these hourly and publish
   daily; you're reading them directly at 5-minute cadence.
 - **Wide-net backstop.** Every 4th run also diffs SimplifyJobs'
-  machine-readable feed (14k+ listings), so companies outside the direct-poll
+  machine-readable feed (14k+ listings, two independent community feeds), so companies outside the direct-poll
   list still get caught.
 - **Genuine deltas only.** SQLite seen-store: you're alerted once per posting,
   ever. First run baselines silently; stale postings (>7 days) never alert.
-- **A full sweep of all 394 boards takes ~33 seconds.**
+- **A full sweep of all ~1,500 boards takes ~90 seconds.**
 
 ## Quick start
 
@@ -37,7 +37,7 @@ python3 scripts/dossier.py --latest   # tailored bullets + drafted answers
 | path | what |
 |---|---|
 | `sniper/` | poller package (stdlib only, no deps) |
-| `targets.json` | 394 company boards, seeded from Simplify's feed |
+| `targets.json` | ~1,500 company boards, seeded from community feeds |
 | `config.json` | filters, scoring keywords, notification channels |
 | `state/seen.sqlite` | dedup store |
 | `out/alerts.log`, `out/digest.md` | high-score alerts / everything else |
@@ -51,7 +51,7 @@ python3 scripts/dossier.py --latest   # tailored bullets + drafted answers
 python3 -m sniper.main --once        # single poll
 python3 -m sniper.main --loop 300    # foreground loop, every 5 min
 python3 -m sniper.main --once --baseline   # re-baseline (no alerts)
-python3 scripts/seed_targets.py --max 400  # refresh target list
+python3 scripts/seed_targets.py --max 1500 # refresh target list
 ```
 
 ## Cloud runner (optional but recommended)

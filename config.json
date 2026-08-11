@@ -20,7 +20,15 @@
       "finance intern",
       "accounting intern"
     ],
-    "location_include": [],
+    "location_include": [
+      ", [A-Z]{2}(?![A-Za-z])",
+      "United States",
+      "\\bUSA?\\b",
+      "\\bU\\.S\\.",
+      "Remote",
+      "Canada",
+      "New York|NYC|San Francisco|Bay Area|Seattle|Austin|Boston|Chicago"
+    ],
     "location_exclude": [
       "\\bIndia\\b",
       "\\bChina\\b",
@@ -30,7 +38,18 @@
       "\\bSingapore\\b",
       "\\bJapan\\b",
       "\\bKorea\\b",
-      "\\bIsrael\\b"
+      "\\bIsrael\\b",
+      "\\bUK\\b",
+      "United Kingdom",
+      "Netherlands",
+      "Taiwan",
+      "Germany",
+      "Ireland",
+      "\\bEU\\b",
+      "Europe",
+      "Vietnam",
+      "Philippines",
+      "Malaysia"
     ]
   },
   "scoring": {
