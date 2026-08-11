@@ -137,3 +137,12 @@
 - [0] City of Philadelphia — Citizens Planning Institute Intern (Philadelphia, PA, us) — https://jobs.smartrecruiters.com/CityofPhiladelphia/744000141975029
 - [0] Erickson Senior Living — IT Intern – Enterprise Applications (Baltimore, MD) — https://erickson.wd108.myworkdayjobs.com/en-US/external/job/Baltimore-MD/IT-Intern_R0101964-1
 - [0] STCU — Community Impact Intern (Liberty Lake, WA, us) — https://jobs.smartrecruiters.com/STCU1/744000142161459
+
+## 2026-08-11 08:39 — 6 new postings
+
+- [3] Microsoft — Product Manager Intern (Remote) — https://apply.careers.microsoft.com/careers/job/1970393556953113
+- [3] CNO Financial Group — Cyber Security IT Intern (Remote, Carmel, IN) — https://cnoinc.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419?jr_id=6a70f504e2b7476e7b20bfd4
+- [1] Truist Bank — Analyst Intern - Equity Research - Sales, Trading & Research (NYC, Atlanta, GA) — https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1
+- [1] Truist Bank — Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program (NYC) — https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Fixed-Income-Loans-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117765-1
+- [1] Truist Bank — Analyst Intern Conversion - Multiple Teams (NYC) — https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Equity-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117763-1
+- [1] Boeing — Data Analytics Intern (Everett, WA, Saint Charles, MO, Huntsville, AL, Charleston, SC, Oklahoma City, OK, Berkeley, MO, Huntington Beach, CA, H) — https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/details/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1?q=JR2026520976
