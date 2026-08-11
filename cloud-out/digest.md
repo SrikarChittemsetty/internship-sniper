@@ -146,3 +146,28 @@
 - [1] Truist Bank — Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program (NYC) — https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Fixed-Income-Loans-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117765-1
 - [1] Truist Bank — Analyst Intern Conversion - Multiple Teams (NYC) — https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Equity-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117763-1
 - [1] Boeing — Data Analytics Intern (Everett, WA, Saint Charles, MO, Huntsville, AL, Charleston, SC, Oklahoma City, OK, Berkeley, MO, Huntington Beach, CA, H) — https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/details/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1?q=JR2026520976
+
+## 2026-08-11 08:53 — 22 new postings
+
+- [3] BlueLabs Analytics — Strategic Analytics Fellow  (Remote or Washington D.C.) — https://job-boards.greenhouse.io/bluelabsanalyticsinc/jobs/5208171007
+- [0] Nationwide Children's Hospital — Psychology Fellow-2 (195 W Schrock Road, Westerville, OH) — https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/195-W-Schrock-Road-Westerville-OH/Psychology-Fellow-2_R-27353-2
+- [0] SpaceX — Apprentice Controls Technician - 2nd Shift (McGregor, TX) — https://boards.greenhouse.io/spacex/jobs/8683682002?gh_jid=8683682002
+- [0] SpaceX — Apprentice Fabrication Technician - 2nd Shift (McGregor, TX) — https://boards.greenhouse.io/spacex/jobs/8685947002?gh_jid=8685947002
+- [0] SpaceX — Apprentice Instrumentation Fitter - 2nd Shift (McGregor, TX) — https://boards.greenhouse.io/spacex/jobs/8686064002?gh_jid=8686064002
+- [0] Vizient — Healthcare Analytics Fellow (Chicago, IL 60607) — https://vizient.wd1.myworkdayjobs.com/en-US/Vizient_Careers/job/Chicago-IL-60607/Data-and-Analytic-Fellow_34534R-1
+- [0] Smiths Detection Group — Apprentice Online Training Designer - 24 Months FTC (Hemel Hempstead, England, gb) — https://jobs.smartrecruiters.com/SmithsGroup2/744000141532557
+- [0] Sika — Manufacturing and Business Support Apprentice (Wishaw, Scotland, gb) — https://jobs.smartrecruiters.com/SikaAG/744000141493008
+- [0] Arkansas Children's — Administrative Fellow — https://archildrens.wd1.myworkdayjobs.com/en-US/external_career_site/job/Little-Rock/Administrative-Fellow_R0024171
+- [0] Bosch Home Comfort — Foreign Trade Operations Apprentice (Worcester, England, gb) — https://jobs.smartrecruiters.com/BoschGroup/744000142559809
+- [0] Johnson Controls — Electrician Apprentice (San Antonio-Texas-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/San-Antonio-Texas-United-States-of-America/Electrician-Apprentice_WD30275612-1
+- [0] Johnson Controls — Fitter Welder Apprentice, 2nd Shift (San Antonio-Texas-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/San-Antonio-Texas-United-States-of-America/Fitter-Welder-Apprentice--2nd-Shift_WD30276648
+- [0] Johnson Controls — Fitter Welder Apprentice, 1st Shift (San Antonio-Texas-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/San-Antonio-Texas-United-States-of-America/Fitter-Welder-Apprentice--1st-Shift_WD30276647-1
+- [0] Johnson Controls — Fitter Welder Apprentice, 1st Shift (San Antonio-Texas-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/San-Antonio-Texas-United-States-of-America/Fitter-Welder-Apprentice--1st-Shift_WD30276646
+- [0] Johnson Controls — Fitter Welder Apprentice, 2nd Shift (San Antonio-Texas-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/San-Antonio-Texas-United-States-of-America/Fitter-Welder-Apprentice--2nd-Shift_WD30276634
+- [0] Johnson Controls — HVAC Operations & Maintenance Mechanic Apprentice  (union) (Metairie-Louisiana-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Metairie-Louisiana-United-States-of-America/HVAC-Operations---Maintenance-Mechanic-Apprentice---union-_WD30275450
+- [0] Johnson Controls — HVAC Truck Based Chiller Apprentice (union) (San Antonio-Texas-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/San-Antonio-Texas-United-States-of-America/HVAC-Truck-Based-Chiller-Mechanic-Apprentice--union-_WD30276350
+- [0] Egis Group — Apprentice Building Surveyor (London, England, gb) — https://jobs.smartrecruiters.com/EgisGroup/744000142099630
+- [0] Egis Group — Trainee / Apprentice Building Surveyor (Edinburgh, Scotland, gb) — https://jobs.smartrecruiters.com/EgisGroup/744000141758099
+- [0] Xcel Energy — Apprentice/Journeyman Electric Distribution Systems Operator - Skypark Service Center - Eau Claire, WI (Eau Claire, WI, 54702) — https://xcelenergy.wd1.myworkdayjobs.com/en-US/External/job/Eau-Claire-WI-54702/Apprentice-Journeyman-Electric-Distribution-Systems-Operator---Skypark-Service-Center---Eau-Claire--WI_JR115511-1
+- [0] Société Générale de Surveillance (SGS) — Machinist (Journeyman or Apprentice) (Edmonton, AB, ca) — https://jobs.smartrecruiters.com/SGS/744000141999049
+- [0] Creative Artists Agency — Motion Pictures Marketing - Apprentice (Los Angeles, CA) — https://caa.wd1.myworkdayjobs.com/en-US/Careers/job/Los-Angeles-CA/Motion-Pictures-Marketing---Apprentice_JR9098
