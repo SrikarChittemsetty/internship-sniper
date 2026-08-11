@@ -188,3 +188,10 @@
 ## 2026-08-11 12:11 — 1 new postings
 
 - [0] Johnson Controls — HVAC Service Technician Apprentice (union) (Charlottesville-Virginia-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Charlottesville-Virginia-United-States-of-America/HVAC-Service-Technician-Apprentice--union-_WD30271201-1
+
+## 2026-08-11 13:41 — 4 new postings
+
+- [1] Marriott Vacations Worldwide — Fall 2026 Customer Service/Admin Internship (Marketing Department) - NYC (New York City M&S) — https://mymvw.wd5.myworkdayjobs.com/en-US/mvw/job/New-York-City-MS/Summer-2026-Customer-Service-Admin-Internship--Marketing-Department----NYC_JR93115
+- [0] Johnson & Johnson — R&D Spring Co-op (Titusville, New Jersey, United States of America) — https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/R-D-Spring-Co-op_R-093202
+- [0] CACI — Finance & Accounting Shared Service Center Intern - Summer 2027 (Oklahoma City, OK, US) — https://caci.wd1.myworkdayjobs.com/en-US/external/job/Oklahoma-City-OK-US/Finance---Accounting-Shared-Service-Center-Intern---Summer-2027_330407
+- [0] AbbVie — Intern (Guarulhos, SP, br) — https://jobs.smartrecruiters.com/AbbVie/3743990014534535
