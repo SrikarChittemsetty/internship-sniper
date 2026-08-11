@@ -207,3 +207,10 @@
 - [0] ConocoPhillips — Intern, Trading Analytics 2027 (Houston, TX) — https://conocophillips.wd1.myworkdayjobs.com/en-US/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429
 - [0] General Dynamics UK — Co-op Fall 2026 - Human Resources - 4-12 Months (Ottawa, ON, ca) — https://jobs.smartrecruiters.com/GDMSI/744000142913237
 - [0] University System of New Hampshire — Robotics Intern (Durham, NH) — https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Intern_JR8972
+
+## 2026-08-11 16:35 — 4 new postings
+
+- [0] American Electric Power — Telecomms Apprentice III - I (Lima, OH) — https://aep.wd1.myworkdayjobs.com/en-US/AEPCareerSite/job/Lima-OH/Telecomms-Apprentice-III---I_R17406
+- [0] Northrop Grumman — 2027 Intern Global Supply Chain (United States-California-Palmdale) — https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Global-Supply-Chain_R10244591
+- [0] Smiths Detection Group — Apprentice Training & Learning Management System Administrator (Birmingham, England, gb) — https://jobs.smartrecruiters.com/SmithsGroup2/744000142923224
+- [0] Veolia — Process Innovation Intern (Oakville, ON, ca) — https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000142929560
