@@ -7,5 +7,4 @@ set -e
 cd "$(dirname "$0")/.."
 git pull -q --rebase origin main || echo "(git pull failed — showing local data only)"
 python3 -m sniper.main --once
-open cloud-out/brief.md 2>/dev/null || true
-open out/brief.md
+open "http://localhost:8777"

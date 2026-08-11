@@ -18,6 +18,13 @@ everyone else is still waiting for a newsletter.
   ever. First run baselines silently; stale postings (>7 days) never alert.
 - **A full sweep of all ~1,500 boards takes ~90 seconds.**
 
+## Dashboard & application tracking
+
+`http://localhost:8777` — always-on local dashboard (launchd-managed):
+pipeline stat tiles, search/filter/sort over every tracked posting, per-row
+application status (interested → applied → OA → interview → offer) and notes,
+CSV export. Statuses live in the gitignored local store — never pushed.
+
 ## Quick start
 
 ```bash
@@ -30,6 +37,9 @@ everyone else is still waiting for a newsletter.
 
 # 3. (optional) fill in profile.md, then per alert:
 python3 scripts/dossier.py --latest   # tailored bullets + drafted answers
+
+# morning routine: pull overnight cloud catches, fresh poll, open dashboard
+./scripts/morning.sh
 ```
 
 ## Layout
@@ -43,6 +53,8 @@ python3 scripts/dossier.py --latest   # tailored bullets + drafted answers
 | `out/alerts.log`, `out/digest.md` | high-score alerts / everything else |
 | `scripts/seed_targets.py` | re-mine targets.json (run monthly) |
 | `scripts/dossier.py` | per-posting application prep via Claude |
+| `scripts/dashboard.py` | localhost:8777 dashboard + application tracker |
+| `pages.json` + `sniper/pages.py` | program-page change watcher (STEP, Explore…) |
 | `.github/workflows/poll.yml` | cloud runner every 15 min (laptop-closed safety net) |
 
 ## Commands

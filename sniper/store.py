@@ -25,7 +25,8 @@ class Store:
         self.db = sqlite3.connect(path)
         self.db.executescript(SCHEMA)
         # lightweight migrations for columns added after v1
-        for col, typ in (("score", "REAL"), ("posted_at", "REAL"), ("locations", "TEXT")):
+        for col, typ in (("score", "REAL"), ("posted_at", "REAL"), ("locations", "TEXT"),
+                         ("app_status", "TEXT"), ("status_updated", "INTEGER"), ("notes", "TEXT")):
             try:
                 self.db.execute("ALTER TABLE seen ADD COLUMN %s %s" % (col, typ))
             except sqlite3.OperationalError:
