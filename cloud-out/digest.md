@@ -195,3 +195,9 @@
 - [0] Johnson & Johnson — R&D Spring Co-op (Titusville, New Jersey, United States of America) — https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/R-D-Spring-Co-op_R-093202
 - [0] CACI — Finance & Accounting Shared Service Center Intern - Summer 2027 (Oklahoma City, OK, US) — https://caci.wd1.myworkdayjobs.com/en-US/external/job/Oklahoma-City-OK-US/Finance---Accounting-Shared-Service-Center-Intern---Summer-2027_330407
 - [0] AbbVie — Intern (Guarulhos, SP, br) — https://jobs.smartrecruiters.com/AbbVie/3743990014534535
+
+## 2026-08-11 14:44 — 3 new postings
+
+- [0] Johnson & Johnson — Supplier Operations Spring Co-op (Titusville, New Jersey, United States of America) — https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Supplier-Operations-Spring-Co-op_R-091274
+- [0] ABB — Quality Intern -Fall 2026 (USA, GA, Athens) — https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-GA-Athens/Quality-Intern--Fall-2026_JR00035228
+- [0] Société Générale de Surveillance (SGS) — Apprentice Valve Technician  (Immingham, England, gb) — https://jobs.smartrecruiters.com/SGS/744000142892597
