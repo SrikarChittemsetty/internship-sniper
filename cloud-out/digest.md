@@ -250,3 +250,7 @@
 
 - [0] University of Virginia — IT Business Analyst Intern (Student Wage) (Charlottesville, VA) — https://uva.wd1.myworkdayjobs.com/en-US/uvastudentjobs/job/Charlottesville-VA/IT-Business-Analyst-Intern--Student-Wage-_R0086232
 - [0] CCC Intelligent Solutions — R&D & Data Science Internship Fall 2026 (Chicago (Green St), IL) — https://cccis.wd1.myworkdayjobs.com/en-US/broadbean_external/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841
+
+## 2026-08-11 21:14 — 1 new postings
+
+- [0] Amentum — Intern - Structural Optimization Design Graduate Intern (US-AL-Huntsville) — https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Intern---Structural-Optimization-Design-Graduate-Intern_R0168006
