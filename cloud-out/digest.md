@@ -19,3 +19,12 @@
 - [1] LPL Financial Holdings — Product Intern - Product (Austin, TX, Fort Mill, SC) — https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Product_R-052918
 - [0] Motorola — Business Support Intern (Penang, Malaysia) — https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Penang-Malaysia/Business-Support-Intern_R67353
 - [0] OceanComm — Electronics Technician Intern (Chicago, IL) — https://apply.workable.com/oceancomm/j/AB7EE4F02B/apply
+
+## 2026-08-11 07:44 — 6 new postings
+
+- [0] Micron Technology — Intern (2 Locations) — https://micron.wd1.myworkdayjobs.com/en-US/External/job/Hyderabad---Phoenix-Aquila-India/Intern_JR108596
+- [0] The Coca-Cola Company — Coca-Cola Ignite Intern - Marketing (United Kingdom - London) — https://coke.wd1.myworkdayjobs.com/en-US/coca-cola-careers/job/United-Kingdom---London/Coca-Cola-Ignite-Intern---Marketing_R-144853
+- [0] Amgen — Intern (Malaysia - Kuala Lumpur) — https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/Malaysia---Kuala-Lumpur/Intern_R-252308
+- [0] Bosch Home Comfort — Internship in Logistics (Mechelen, Vlaanderen, be) — https://jobs.smartrecruiters.com/BoschGroup/744000142802869
+- [0] Bosch Home Comfort — Internship in Business Mobility (Petaling Jaya, Selangor, my) — https://jobs.smartrecruiters.com/BoschGroup/744000142799890
+- [0] Bosch Home Comfort — Internship in International Mobility - Digitalization & Analytics (Bayan Lepas, Penang, my) — https://jobs.smartrecruiters.com/BoschGroup/744000142797840
