@@ -245,3 +245,8 @@
 - [0] New Balance — Footwear Rapid Prototyping Intern (Lawrence, MA Corp) — https://newbalance.wd1.myworkdayjobs.com/en-US/careers/job/Lawrence-MA-Corp/Footwear-Rapid-Prototyping-Intern_R40741
 - [0] City of Manhattan Kansas — GIS Planning Intern (Manhattan, KS) — https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377573
 - [0] Commence — Health Data Analyst Intern (Virginia Beach, VA) — https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408640
+
+## 2026-08-11 20:26 — 2 new postings
+
+- [0] University of Virginia — IT Business Analyst Intern (Student Wage) (Charlottesville, VA) — https://uva.wd1.myworkdayjobs.com/en-US/uvastudentjobs/job/Charlottesville-VA/IT-Business-Analyst-Intern--Student-Wage-_R0086232
+- [0] CCC Intelligent Solutions — R&D & Data Science Internship Fall 2026 (Chicago (Green St), IL) — https://cccis.wd1.myworkdayjobs.com/en-US/broadbean_external/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841
