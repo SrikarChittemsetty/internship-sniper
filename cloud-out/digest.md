@@ -275,3 +275,11 @@
 - [0] Bosch Home Comfort — [FCM] Operation Admin Intern (Ho Chi Minh, Tan Binh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143019039
 - [0] Freudenberg Group — Intern (Baldwin Park, CA) — https://freudenberg.wd3.myworkdayjobs.com/en-US/freudenberg-group/job/Baldwin-Park-CA/Intern_R_00098334
 - [0] Magna International — Data Annotation Intern (Changning, Shanghai, CN) — https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Changning-Shanghai-CN/Data-Annotation-Intern_R00253810
+
+## 2026-08-12 05:26 — 5 new postings
+
+- [1] Metropolitan Transportation Authority — Data Analyst Intern (NYC) — https://jobs.jobvite.com/metropolitantransportationauthority/job/oecDAfwn?nl=1&nl=1&fr=false
+- [0] GE Appliances — Job Posting Title Intern - Intellectual Property (IND, Bangalore, KA) — https://haier.wd3.myworkdayjobs.com/en-US/ge_appliances/job/IND-Bangalore-KA/Job-Posting-Title-Intern---Intellectual-Property_REQ-26480
+- [0] UHY — Data Operations Intern (Kansas City, MO) — https://uhyus.wd12.myworkdayjobs.com/uhy/job/Kansas-City-MO/XMLNAME-2027-Data-Operations-Winter-Internship---Kansas-City_JR102226
+- [0] RTX — Electro-Optical Systems Technician Intern - AN/ZSQ-2 (Fort Campbell, KY) — https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-KY-FORT-CAMPBELL-7228NS-CUST--7228-Nightstalker-Wy--BLDG-6882-Rm-210-External-Site/SkillBridge--AN-ZSQ-2-Electro-Optical-Systems-Depot-Technician-Intern_01865923
+- [0] Léger — Research Intern (Toronto, ON, Canada) — https://jobs.smartrecruiters.com/Leger2/744000141569336
