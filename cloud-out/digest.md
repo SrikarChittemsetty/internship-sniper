@@ -382,3 +382,7 @@
 - [0] Northwestern Mutual — Public Investments - Credit Investment Intern, Summer 2027 (Milwaukee, WI Corporate) — https://northwesternmutual.wd5.myworkdayjobs.com/en-US/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments---Credit-Investment-Intern--Summer-2027_JR-45802
 - [0] ABB — Operation Digitalization and Quality Intern-Fall 2026 (Saint-Laurent, Quebec, Canada) — https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Saint-Laurent-Quebec-Canada/Operation-Digitalization-and-Quality-Intern-Fall-2026_JR00032023
 - [0] Daimler Truck — Facilities Maintenance Technician Intern (Portland, OR US) — https://dtna.wd5.myworkdayjobs.com/en-US/dtna_affiliate/job/Portland-OR-US/Facilities-Maintenance-Technician-Intern_DT-19127
+
+## 2026-08-12 20:42 — 1 new postings
+
+- [0] Ameren — CAD Technician Co-op (St. Louis, MO) — https://ameren.wd1.myworkdayjobs.com/en-US/External/job/St-Louis-MO/CAD-Technician-Co-op_033920-1
