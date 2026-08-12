@@ -111,10 +111,11 @@ def run_once(cfg, targets, store, matcher, notifier, force_baseline=False):
             jobs += fetch_simplify()
         except Exception as e:
             failures.append(({"ats": "simplify", "slug": "-"}, str(e)))
-        # program-page watcher rides the same slow cadence
+        # program-page watcher rides the same slow cadence; its signals are
+        # heuristic, so they land in out/watch.md — never the phone
         try:
             from .pages import check_pages
-            check_pages(ROOT, store, notifier)
+            check_pages(ROOT, store, OUT_DIR)
         except Exception as e:
             failures.append(({"ats": "pages", "slug": "-"}, str(e)))
 
