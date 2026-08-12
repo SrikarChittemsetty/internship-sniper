@@ -291,3 +291,9 @@
 ## 2026-08-12 08:11 — 1 new postings
 
 - [0] Continental — Internship - Test Stand Development for Tire Manufacturing (m/f/d) - REF98008V (Hannover, NDS, de) — https://jobs.smartrecruiters.com/Continental/744000143038466
+
+## 2026-08-12 09:32 — 3 new postings
+
+- [0] Sika — Technical Services Apprentice (Preston, England, gb) — https://jobs.smartrecruiters.com/SikaAG/744000143053519
+- [0] Bosch Home Comfort — [EJV] Marketing & Communications Intern (6-month fulltime internship) (Ho Chi Minh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143058779
+- [0] Société Générale de Surveillance (SGS) — Apprentice Valve Technician  (Immingham, England, gb) — https://jobs.smartrecruiters.com/SGS/744000143058309
