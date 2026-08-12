@@ -297,3 +297,12 @@
 - [0] Sika — Technical Services Apprentice (Preston, England, gb) — https://jobs.smartrecruiters.com/SikaAG/744000143053519
 - [0] Bosch Home Comfort — [EJV] Marketing & Communications Intern (6-month fulltime internship) (Ho Chi Minh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143058779
 - [0] Société Générale de Surveillance (SGS) — Apprentice Valve Technician  (Immingham, England, gb) — https://jobs.smartrecruiters.com/SGS/744000143058309
+
+## 2026-08-12 10:43 — 6 new postings
+
+- [2] Felix Magazine — Web Developer/Programmer Intern (Chicago, IL) — https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967
+- [2] Felix Magazine — Web Developer/Programmer Intern (Chicago, IL) — https://jobs.smartrecruiters.com/LuxeMediaLLC/89098193
+- [0] Motorola — Supply Chain Data Analyst Internship 2027 (Chicago, IL) — https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489
+- [0] NielsenIQ — Retail Customer Success - Intern (Bucharest, B, ro) — https://jobs.smartrecruiters.com/NielsenIQ/744000143069889
+- [0] Continental — Internship - Test Stand Development for Tire Manufacturing (m/f/d) - REF98008V (Hannover, NDS, de) — https://jobs.smartrecruiters.com/Continental/744000143069009
+- [0] Felix Magazine — Database Coordinator Volunteer/Intern (Chicago, IL) — https://jobs.smartrecruiters.com/LuxeMediaLLC/83121944
