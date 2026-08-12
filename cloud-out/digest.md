@@ -315,3 +315,14 @@
 
 - [4] Bosch Home Comfort — Internship AI Automation and Data Analysis (Kusterdingen, BW, de) — https://jobs.smartrecruiters.com/BoschGroup/744000143087740
 - [0] Bosch Home Comfort — C# Developer - Internship (Ovar, pt) — https://jobs.smartrecruiters.com/BoschGroup/744000143082839
+
+## 2026-08-12 13:47 — 8 new postings
+
+- [4] TMEIC Corporation Americas — Intern - Applications, AI and Machine Learning (Spring 2027) (ET26075) (Roanoke, Virginia, United States) — https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/
+- [4] Marmon Holdings — AI Project Management Intern (Chicago, IL) — https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_Careers/job/Chicago-IL/AI-Project-Management-Intern_JR0000045089-1
+- [0] Capital One — Analyst Early Internship Program - Summer 2027 (McLean, VA) — https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Analyst-Early-Internship-Program---Summer-2027_R244231
+- [0] Ivy Tech Community College — Human Resources Intern (Federal Work-Study) (Indianapolis, IN) — https://ivytech.wd1.myworkdayjobs.com/en-US/ivy_tech_careers/job/Indianapolis-IN/Human-Resources-Intern--Federal-Work-Study-_JR0000109299
+- [0] Sika — EUN IT Digital Solutions Apprentice (Preston, gb) — https://jobs.smartrecruiters.com/SikaAG/744000143105795
+- [0] Sika — EUN IT Support Apprentice (Welwyn Garden City, England, gb) — https://jobs.smartrecruiters.com/SikaAG/744000143104349
+- [0] Advocate Health Care — Pearl Innovation District Intern (Charlotte, NC - 915 Pearl Park Way) — https://aah.wd5.myworkdayjobs.com/en-US/External/job/Charlotte-NC---915-Pearl-Park-Way/Pearl-Innovation-District-Intern_R247321
+- [0] Advocate Health Care — Pearl Innovation District Intern (Charlotte, NC - 915 Pearl Park Way) — https://aah.wd5.myworkdayjobs.com/en-US/External/job/Charlotte-NC---915-Pearl-Park-Way/Pearl-Innovation-District-Intern_R247322
