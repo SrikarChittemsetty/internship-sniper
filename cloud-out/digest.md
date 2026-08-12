@@ -264,3 +264,7 @@
 - [0] ConocoPhillips — Trading Analytics Intern (Houston, TX) — https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429
 - [0] Motorola — Supply Chain Data Analyst Intern (Chicago, IL) — https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489
 - [0]  CCC Intelligent Solutions — Data Science Intern - R&D (Chicago, IL) — https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841
+
+## 2026-08-12 01:44 — 1 new postings
+
+- [1] DreamWorks Animation — NBC Bay Area - Community Engagement Internship  – Fall 2026 (San Jose, CALIFORNIA, us) — https://jobs.smartrecruiters.com/NBCUniversal3/744000142991949
