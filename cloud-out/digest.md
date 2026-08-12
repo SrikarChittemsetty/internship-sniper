@@ -365,3 +365,13 @@
 - [0] Mass General Brigham — Central Pharmacy Intern (Boston-MA) — https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal/job/Boston-MA/Central-Pharmacy-Intern_RQ4070539
 - [0] Heidelberg Materials — Environmental Intern (Irving, TX) — https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Irving-TX/Environmental-Intern_JR10017975
 - [0] MultiCare Health System — RN Resident/Fellow ICU Deaconess October 5th cohort — https://multicare.wd1.myworkdayjobs.com/en-US/multicare/job/Spokane-Washington/RN-Resident-Fellow-ICU-Deaconess-October-5th-cohort_JR78794-1
+
+## 2026-08-12 18:52 — 7 new postings
+
+- [4] TikTok — Product Manager Intern - Ads Interface and Platform (San Jose, CA) — https://lifeattiktok.com/search/7672562486917286149
+- [0] State of Nebraska — Public Health Internship (Spring 2027) (Lincoln, NE) — https://son.wd108.myworkdayjobs.com/en-US/NebraskaStateCareers/job/Lincoln-NE/Public-Health-Internship--Spring-2027-_JR2026-00028643
+- [0] Nelnet — Intern - Finance & Accounting (Lincoln, NE) — https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Intern---Finance---Accounting_R22956
+- [0] Advocate Health Care — Student Intern _GA (Atrium Health Navicent The Medical Center - 777 Hemlock St, Macon, GA) — https://aah.wd5.myworkdayjobs.com/en-US/External/job/Atrium-Health-Navicent-The-Medical-Center---777-Hemlock-St-Macon-GA/Student-Intern--GA_R261422
+- [0] TikTok — Product Manager Intern - Signal and Identity Product (San Jose, CA) — https://lifeattiktok.com/search/7672554809555192117
+- [0] TikTok — Product Manager Intern - Commerce Ads (San Jose, CA) — https://lifeattiktok.com/search/7672557943224961333
+- [0] University System of New Hampshire — Robotics Intern (Durham, NH) — https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Intern_JR8497
