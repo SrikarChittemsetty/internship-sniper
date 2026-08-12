@@ -375,3 +375,10 @@
 - [0] TikTok — Product Manager Intern - Signal and Identity Product (San Jose, CA) — https://lifeattiktok.com/search/7672554809555192117
 - [0] TikTok — Product Manager Intern - Commerce Ads (San Jose, CA) — https://lifeattiktok.com/search/7672557943224961333
 - [0] University System of New Hampshire — Robotics Intern (Durham, NH) — https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Intern_JR8497
+
+## 2026-08-12 19:58 — 4 new postings
+
+- [1] Northwestern Mutual — Public Investments Quantitative Analyst Intern, Summer 2027 (Milwaukee, WI Corporate) — https://northwesternmutual.wd5.myworkdayjobs.com/en-US/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807
+- [0] Northwestern Mutual — Public Investments - Credit Investment Intern, Summer 2027 (Milwaukee, WI Corporate) — https://northwesternmutual.wd5.myworkdayjobs.com/en-US/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments---Credit-Investment-Intern--Summer-2027_JR-45802
+- [0] ABB — Operation Digitalization and Quality Intern-Fall 2026 (Saint-Laurent, Quebec, Canada) — https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Saint-Laurent-Quebec-Canada/Operation-Digitalization-and-Quality-Intern-Fall-2026_JR00032023
+- [0] Daimler Truck — Facilities Maintenance Technician Intern (Portland, OR US) — https://dtna.wd5.myworkdayjobs.com/en-US/dtna_affiliate/job/Portland-OR-US/Facilities-Maintenance-Technician-Intern_DT-19127
