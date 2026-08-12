@@ -355,3 +355,13 @@
 - [0] Advocate Health Care — Student Intern _GA (Atrium Health Navicent The Medical Center - 777 Hemlock St, Macon, GA) — https://aah.wd5.myworkdayjobs.com/en-US/External/job/Atrium-Health-Navicent-The-Medical-Center---777-Hemlock-St-Macon-GA/Student-Intern--GA_R261338
 - [0] Nissan Global — R&D HRBP Intern (Farmington Hills, Michigan - United States of America) — https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Farmington-Hills-Michigan---United-States-of-America/R-D-HRBP-Intern_R00212816
 - [0] Heidelberg Materials — Master Data Intern (Irving, TX) — https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Irving-TX/Master-Data-Intern_JR10017954-1
+
+## 2026-08-12 17:54 — 7 new postings
+
+- [0] Motorola — Outbound Sales Representative (2027 Internship) (Allen, TX (TX139)) — https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Allen-TX-TX139/Outbound-Sales-Representative--2027-Internship-_R67607
+- [0] American University — PCD Fellow - GOVT 352 TA (Student) (Main Campus (Washington, DC)) — https://american.wd1.myworkdayjobs.com/en-US/au/job/Main-Campus-Washington-DC/PCD-Fellow---GOVT-352-TA--Student-_R4609-1
+- [0] ABB — Procurement Specialist Intern - Fall 2026 (USA, MS, Senatobia) — https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-MS-Senatobia/Procurement-Specialist-Intern---Fall-2026_JR00038667
+- [0] Advocate Health Care — Student Intern _GA (Atrium Health Navicent The Medical Center - 777 Hemlock St, Macon, GA) — https://aah.wd5.myworkdayjobs.com/en-US/External/job/Atrium-Health-Navicent-The-Medical-Center---777-Hemlock-St-Macon-GA/Student-Intern--GA_R261372
+- [0] Mass General Brigham — Central Pharmacy Intern (Boston-MA) — https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal/job/Boston-MA/Central-Pharmacy-Intern_RQ4070539
+- [0] Heidelberg Materials — Environmental Intern (Irving, TX) — https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Irving-TX/Environmental-Intern_JR10017975
+- [0] MultiCare Health System — RN Resident/Fellow ICU Deaconess October 5th cohort — https://multicare.wd1.myworkdayjobs.com/en-US/multicare/job/Spokane-Washington/RN-Resident-Fellow-ICU-Deaconess-October-5th-cohort_JR78794-1
