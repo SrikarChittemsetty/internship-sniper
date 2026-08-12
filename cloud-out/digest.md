@@ -283,3 +283,7 @@
 - [0] UHY — Data Operations Intern (Kansas City, MO) — https://uhyus.wd12.myworkdayjobs.com/uhy/job/Kansas-City-MO/XMLNAME-2027-Data-Operations-Winter-Internship---Kansas-City_JR102226
 - [0] RTX — Electro-Optical Systems Technician Intern - AN/ZSQ-2 (Fort Campbell, KY) — https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-KY-FORT-CAMPBELL-7228NS-CUST--7228-Nightstalker-Wy--BLDG-6882-Rm-210-External-Site/SkillBridge--AN-ZSQ-2-Electro-Optical-Systems-Depot-Technician-Intern_01865923
 - [0] Léger — Research Intern (Toronto, ON, Canada) — https://jobs.smartrecruiters.com/Leger2/744000141569336
+
+## 2026-08-12 06:53 — 1 new postings
+
+- [0] Bosch Home Comfort — Paid Internship – Junior Developer (macOS) (f/m) (Łódź, województwo łódzkie, pl) — https://jobs.smartrecruiters.com/BoschGroup/744000143033029
