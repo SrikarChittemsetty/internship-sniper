@@ -287,3 +287,7 @@
 ## 2026-08-12 06:53 — 1 new postings
 
 - [0] Bosch Home Comfort — Paid Internship – Junior Developer (macOS) (f/m) (Łódź, województwo łódzkie, pl) — https://jobs.smartrecruiters.com/BoschGroup/744000143033029
+
+## 2026-08-12 08:11 — 1 new postings
+
+- [0] Continental — Internship - Test Stand Development for Tire Manufacturing (m/f/d) - REF98008V (Hannover, NDS, de) — https://jobs.smartrecruiters.com/Continental/744000143038466
