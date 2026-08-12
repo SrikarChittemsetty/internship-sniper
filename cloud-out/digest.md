@@ -386,3 +386,11 @@
 ## 2026-08-12 20:42 — 1 new postings
 
 - [0] Ameren — CAD Technician Co-op (St. Louis, MO) — https://ameren.wd1.myworkdayjobs.com/en-US/External/job/St-Louis-MO/CAD-Technician-Co-op_033920-1
+
+## 2026-08-12 22:12 — 5 new postings
+
+- [4] TMEIC Corporation Americas — Applications Intern - AI and Machine Learning (Roanoke, VA) — https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply
+- [1] Northwestern Mutual — Quantitative Analyst Intern - Public Investments (Milwaukee, WI) — https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807
+- [0] Vertiv — IT Systems Product Management Intern - Summer 2027 (Westerville, OH) — https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239
+- [0] Vertiv — Product Management Intern (Delaware, OH) — https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958
+- [0] Micron Technology — Surface Scientist Intern - Corporate Labs (Boise, ID) — https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Corporate-Labs_JR108442
