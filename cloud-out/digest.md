@@ -326,3 +326,11 @@
 - [0] Sika — EUN IT Support Apprentice (Welwyn Garden City, England, gb) — https://jobs.smartrecruiters.com/SikaAG/744000143104349
 - [0] Advocate Health Care — Pearl Innovation District Intern (Charlotte, NC - 915 Pearl Park Way) — https://aah.wd5.myworkdayjobs.com/en-US/External/job/Charlotte-NC---915-Pearl-Park-Way/Pearl-Innovation-District-Intern_R247321
 - [0] Advocate Health Care — Pearl Innovation District Intern (Charlotte, NC - 915 Pearl Park Way) — https://aah.wd5.myworkdayjobs.com/en-US/External/job/Charlotte-NC---915-Pearl-Park-Way/Pearl-Innovation-District-Intern_R247322
+
+## 2026-08-12 14:52 — 5 new postings
+
+- [0] Truist Bank — 2027 Enterprise Corporate Functions Full-Time Program (Intern Conversion) (Charlotte, NC) — https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Enterprise-Corporate-Functions-Full-Time-Program--Intern-Conversion-_R0117777
+- [0] Truist Bank — 2027 Enterprise CSBB Track Full-Time Program (Internship Conversion) (Charlotte, NC) — https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Enterprise-CSBB-Track-Full-Time-Program--Internship-Conversion-_R0117776
+- [0] Bosch Home Comfort — Trade Marketing & Communication Internship (Brussels, be) — https://jobs.smartrecruiters.com/BoschGroup/744000143107854
+- [0] Continental — Intern - Purchasing, Year-Round (Fort Mill, SC, us) — https://jobs.smartrecruiters.com/Continental/744000143117139
+- [0] Experian — Accounting High School Internship (Heredia, Heredia, cr) — https://jobs.smartrecruiters.com/Experian/744000143116439
