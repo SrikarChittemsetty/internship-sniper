@@ -306,3 +306,7 @@
 - [0] NielsenIQ — Retail Customer Success - Intern (Bucharest, B, ro) — https://jobs.smartrecruiters.com/NielsenIQ/744000143069889
 - [0] Continental — Internship - Test Stand Development for Tire Manufacturing (m/f/d) - REF98008V (Hannover, NDS, de) — https://jobs.smartrecruiters.com/Continental/744000143069009
 - [0] Felix Magazine — Database Coordinator Volunteer/Intern (Chicago, IL) — https://jobs.smartrecruiters.com/LuxeMediaLLC/83121944
+
+## 2026-08-12 11:30 — 1 new postings
+
+- [0] Bosch Home Comfort —  Internship in Project Management Support - Bosch Diagnostics Solutions Framework (Plochingen, BW, de) — https://jobs.smartrecruiters.com/BoschGroup/744000143080999
