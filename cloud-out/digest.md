@@ -310,3 +310,8 @@
 ## 2026-08-12 11:30 — 1 new postings
 
 - [0] Bosch Home Comfort —  Internship in Project Management Support - Bosch Diagnostics Solutions Framework (Plochingen, BW, de) — https://jobs.smartrecruiters.com/BoschGroup/744000143080999
+
+## 2026-08-12 12:13 — 2 new postings
+
+- [4] Bosch Home Comfort — Internship AI Automation and Data Analysis (Kusterdingen, BW, de) — https://jobs.smartrecruiters.com/BoschGroup/744000143087740
+- [0] Bosch Home Comfort — C# Developer - Internship (Ovar, pt) — https://jobs.smartrecruiters.com/BoschGroup/744000143082839
