@@ -394,3 +394,8 @@
 - [0] Vertiv — IT Systems Product Management Intern - Summer 2027 (Westerville, OH) — https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239
 - [0] Vertiv — Product Management Intern (Delaware, OH) — https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958
 - [0] Micron Technology — Surface Scientist Intern - Corporate Labs (Boise, ID) — https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Corporate-Labs_JR108442
+
+## 2026-08-12 23:44 — 2 new postings
+
+- [1] Progyny — Corporate Events Intern (New York, New York) — https://progyny.wd5.myworkdayjobs.com/en-US/progyny/job/New-York-New-York/Corporate-Events-Intern_JR101130
+- [0] nVent — SHE Intern (Matamoros, MX) — https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Matamoros-MX/SHE-Intern_R22867
