@@ -346,3 +346,12 @@
 - [0] Bosch Home Comfort — C# Developer - Internship (Ovar, pt) — https://jobs.smartrecruiters.com/BoschGroup/744000143129049
 - [0] Johnson Controls — HVAC Mechanical Systems Apprentice Technician (Union) (Huntington Beach-California-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Huntington-Beach-California-United-States-of-America/HVAC-Mechanical-Systems-Apprentice-Technician--Union-_WD30276938
 - [0] Carrier Global — Homestead High School Career Internship program – Fall (CAI19: UTEC-Huntington, 111 East Wayne Street, Fort Wayne, IN, 46802 USA) — https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Homestead-High-School-Career-Internship-program---Fall_30214589
+
+## 2026-08-12 16:50 — 6 new postings
+
+- [0] Nationwide Children's Hospital — Research Intern - RI CHEOR Davenport (431 S 18th St, Columbus, OH) — https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/431-S-18th-St-Columbus-OH/Research-Intern---RI-CHEOR-Davenport_R-24930-2
+- [0] Advocate Health Care — Student Intern _GA (Atrium Health Navicent The Medical Center - 777 Hemlock St, Macon, GA) — https://aah.wd5.myworkdayjobs.com/en-US/External/job/Atrium-Health-Navicent-The-Medical-Center---777-Hemlock-St-Macon-GA/Student-Intern--GA_R261367
+- [0] Advocate Health Care — Student Intern _GA (Atrium Health Navicent The Medical Center - 777 Hemlock St, Macon, GA) — https://aah.wd5.myworkdayjobs.com/en-US/External/job/Atrium-Health-Navicent-The-Medical-Center---777-Hemlock-St-Macon-GA/Student-Intern--GA_R261346
+- [0] Advocate Health Care — Student Intern _GA (Atrium Health Navicent The Medical Center - 777 Hemlock St, Macon, GA) — https://aah.wd5.myworkdayjobs.com/en-US/External/job/Atrium-Health-Navicent-The-Medical-Center---777-Hemlock-St-Macon-GA/Student-Intern--GA_R261338
+- [0] Nissan Global — R&D HRBP Intern (Farmington Hills, Michigan - United States of America) — https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Farmington-Hills-Michigan---United-States-of-America/R-D-HRBP-Intern_R00212816
+- [0] Heidelberg Materials — Master Data Intern (Irving, TX) — https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Irving-TX/Master-Data-Intern_JR10017954-1
