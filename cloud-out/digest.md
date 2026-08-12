@@ -334,3 +334,15 @@
 - [0] Bosch Home Comfort — Trade Marketing & Communication Internship (Brussels, be) — https://jobs.smartrecruiters.com/BoschGroup/744000143107854
 - [0] Continental — Intern - Purchasing, Year-Round (Fort Mill, SC, us) — https://jobs.smartrecruiters.com/Continental/744000143117139
 - [0] Experian — Accounting High School Internship (Heredia, Heredia, cr) — https://jobs.smartrecruiters.com/Experian/744000143116439
+
+## 2026-08-12 15:53 — 9 new postings
+
+- [3] Defense Unicorns — SkillBridge Intern - Technical Product Marketing Manager (SMM192) (Remote) — https://job-boards.greenhouse.io/defenseunicorns/jobs/5210327007
+- [0] Micron Technology — Intern - Corporate Labs (Boise, ID - Main Site) — https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Corporate-Labs_JR108442
+- [0] University of Arkansas — Intern - Corporate and Foundation Relations (Fayetteville, AR) — https://uasys.wd5.myworkdayjobs.com/en-US/uasys/job/Fayetteville-AR/Intern---Corporate-and-Foundation-Relations_R0089676-1
+- [0] Conagra Brands — R&D Intern - Summer 2027 (Chicago) (Chicago, Illinois) — https://conagrabrands.wd1.myworkdayjobs.com/en-US/Careers_US/job/Chicago-Illinois/R-D-Intern---Summer-2027--Chicago-_Req-039361
+- [0] Northwestern Mutual — Actuarial Intern, Summer 2027 (Milwaukee, WI Corporate) — https://northwesternmutual.wd5.myworkdayjobs.com/en-US/corporate-careers/job/Milwaukee-WI-Corporate/Actuarial-Intern--Summer-2027_JR-45580-1
+- [0] Smiths Detection Group — Planning Intern Operations (Cuautitlán Izcalli, ESTADO DE MÉXICO, mx) — https://jobs.smartrecruiters.com/SmithsGroup2/744000143132390
+- [0] Bosch Home Comfort — C# Developer - Internship (Ovar, pt) — https://jobs.smartrecruiters.com/BoschGroup/744000143129049
+- [0] Johnson Controls — HVAC Mechanical Systems Apprentice Technician (Union) (Huntington Beach-California-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Huntington-Beach-California-United-States-of-America/HVAC-Mechanical-Systems-Apprentice-Technician--Union-_WD30276938
+- [0] Carrier Global — Homestead High School Career Internship program – Fall (CAI19: UTEC-Huntington, 111 East Wayne Street, Fort Wayne, IN, 46802 USA) — https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Homestead-High-School-Career-Internship-program---Fall_30214589
