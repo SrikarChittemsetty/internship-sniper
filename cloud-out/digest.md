@@ -268,3 +268,10 @@
 ## 2026-08-12 01:44 — 1 new postings
 
 - [1] DreamWorks Animation — NBC Bay Area - Community Engagement Internship  – Fall 2026 (San Jose, CALIFORNIA, us) — https://jobs.smartrecruiters.com/NBCUniversal3/744000142991949
+
+## 2026-08-12 03:52 — 4 new postings
+
+- [0] Bosch Home Comfort — [SX/EIT-MM] UI/UX Designer Intern (Tân Bình, Thành phố Hồ Chí Minh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143019399
+- [0] Bosch Home Comfort — [FCM] Operation Admin Intern (Ho Chi Minh, Tan Binh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143019039
+- [0] Freudenberg Group — Intern (Baldwin Park, CA) — https://freudenberg.wd3.myworkdayjobs.com/en-US/freudenberg-group/job/Baldwin-Park-CA/Intern_R_00098334
+- [0] Magna International — Data Annotation Intern (Changning, Shanghai, CN) — https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Changning-Shanghai-CN/Data-Annotation-Intern_R00253810
