@@ -399,3 +399,16 @@
 
 - [1] Progyny — Corporate Events Intern (New York, New York) — https://progyny.wd5.myworkdayjobs.com/en-US/progyny/job/New-York-New-York/Corporate-Events-Intern_JR101130
 - [0] nVent — SHE Intern (Matamoros, MX) — https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Matamoros-MX/SHE-Intern_R22867
+
+## 2026-08-13 03:16 — 10 new postings
+
+- [1] Business Insider — Data Graphics Fellow - August 2026 (NYC) — https://www.businessinsider.com/work-at-business-insider?gh_jid=5837048004
+- [1] TikTok — Product Operations Intern - TikTok Shop Apps and API (Seattle, WA) — https://lifeattiktok.com/search/7669705525866383621
+- [0] Continental — Internship Student (Supply Chain APAC) - นักศึกษาฝึกงาน (Tambon Thapma, จ.ระยอง, th) — https://jobs.smartrecruiters.com/Continental/744000143203767
+- [0] Bosch Home Comfort — [BD] Internship - SAP Developer (JS, Java, ABAP, Fiori, BTP) (Ho Chi Minh city, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143222859
+- [0] Bosch Home Comfort — [FCM] Operation Admin Intern (Non-Tech Background) (Ho Chi Minh, Tan Binh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143216983
+- [0] Eurofins — [Tan Phu, HCM] SL - Intern Lab Assistant / Thực tập sinh Phòng thí nghiệm  (Ho Chi Minh, Tan Phu, vn) — https://jobs.smartrecruiters.com/Eurofins/744000143221199
+- [0] Navy Federal — Data Scientist Intern (Pensacola, FL, Vienna, VA) — https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/31873
+- [0] Heidelberg Materials — Master Data Intern - Service & Support (Irving, TX) — https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Master-Data-Intern_JR10017954-1
+- [0] IES Holdings — Data Analytics Intern (Manitowoc, WI) — https://joinus.ies-co.com/jobs/24176?icims=1
+- [0] Epic Games — Gameplay Programmer Intern (Cary, NC) — https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004
