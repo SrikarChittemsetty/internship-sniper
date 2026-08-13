@@ -451,3 +451,9 @@
 ## 2026-08-13 10:44 — 1 new postings
 
 - [4] Bosch Home Comfort — IT Internship (BackEnd, Java) (f/m) (Warszawa, Województwo mazowieckie, pl) — https://jobs.smartrecruiters.com/BoschGroup/744000143272044
+
+## 2026-08-13 11:29 — 3 new postings
+
+- [2] InfiniteQuant — Quantitative Researcher - Internship - Summer 2027 (New York, NY, us) — https://jobs.smartrecruiters.com/InfiniteQuant/744000143291679
+- [2] InfiniteQuant — Quantitative Developer - Internship - Summer 2027 (New York, New York, us) — https://jobs.smartrecruiters.com/InfiniteQuant/744000143290959
+- [0] NielsenIQ — Apprentice - Data Operations Analyst (Vadodara, GJ, in) — https://jobs.smartrecruiters.com/NielsenIQ/744000143291269
