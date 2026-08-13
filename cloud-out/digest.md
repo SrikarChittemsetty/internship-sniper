@@ -412,3 +412,7 @@
 - [0] Heidelberg Materials — Master Data Intern - Service & Support (Irving, TX) — https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Master-Data-Intern_JR10017954-1
 - [0] IES Holdings — Data Analytics Intern (Manitowoc, WI) — https://joinus.ies-co.com/jobs/24176?icims=1
 - [0] Epic Games — Gameplay Programmer Intern (Cary, NC) — https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004
+
+## 2026-08-13 05:08 — 1 new postings
+
+- [0] ConnectPrep — Data Analyst Internship (Washington, District of Columbia, United States) — https://apply.workable.com/connectprep/j/D1C67258C0/
