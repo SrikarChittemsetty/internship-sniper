@@ -500,3 +500,9 @@
 - [0] Veolia — Wastewater Operator Intern (Discovery Bay, CA, us) — https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000143361009
 - [0] RR Donnelley — Intern (Logan, UT, us) — https://jobs.smartrecruiters.com/RRDonnelley/744000143359845
 - [0] Delta Dental — Knowledge Science Intern (Okemos, MI) — https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Knowledge-Science_JR101405
+
+## 2026-08-13 18:37 — 3 new postings
+
+- [3] CNO Financial Group — Internal Audit Intern 2027 - REMOTE (Carmel, IN) — https://cnoinc.wd5.myworkdayjobs.com/en-US/Careers/job/Carmel-IN/Internal-Audit-Intern-2027---REMOTE_JR170431
+- [3] Ohio State University — Graduate External Fellow (T&L) (Remote Location) — https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Remote-Location/Graduate-External-Fellow--T-L-_R157206-1
+- [1] EisnerAmper — 2027 Assurance Summer Intern (New York) — https://eisneramper.wd1.myworkdayjobs.com/en-US/EisnerAmperEarlyCareers/job/New-York/XMLNAME-2027-Assurance-Summer-Intern_Req-8536
