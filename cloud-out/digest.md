@@ -416,3 +416,7 @@
 ## 2026-08-13 05:08 — 1 new postings
 
 - [0] ConnectPrep — Data Analyst Internship (Washington, District of Columbia, United States) — https://apply.workable.com/connectprep/j/D1C67258C0/
+
+## 2026-08-13 08:06 — 1 new postings
+
+- [0] Eurofins — Internship - Field Work (Johor Bahru, Johor, my) — https://jobs.smartrecruiters.com/Eurofins/744000143249559
