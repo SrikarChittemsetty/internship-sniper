@@ -511,3 +511,11 @@
 
 - [0] National Laboratory of the Rockies — Graduate (Year-Round) Intern - Transportation Systems Analysis (Golden, CO) — https://nrel.wd5.myworkdayjobs.com/en-US/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14385
 - [0] Dexterra Group — Organizational Development CO-OP Student (Mississauga, Ontario, ca) — https://jobs.smartrecruiters.com/Dexterra/744000143383669
+
+## 2026-08-13 20:21 — 5 new postings
+
+- [4] Johnson & Johnson — AI & Digital Co-Op (Toronto, Ontario, Canada) — https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Toronto-Ontario-Canada/AI---Digital-Co-Op_R-092243
+- [1] GlobalFoundries — Global Supply Chain & Sourcing Intern (Summer 2027) (USA - New York - Malta) — https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Global-Supply-Chain---Sourcing-Intern--Summer-2027-_JR-2604471
+- [0] Nationwide Children's Hospital — Marketing-Email Intern (255 E. Main St, Columbus, OH) — https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/255-E-Main-St-Columbus-OH/Marketing-Email-Intern_R-26990-1
+- [0] Johnson & Johnson — Strategy & Execution, Prostate Co-op (Toronto, Ontario, Canada) — https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Toronto-Ontario-Canada/Strategy---Execution--Prostate-Co-op_R-092218
+- [0] DreamWorks Animation — NBC Chicago Community Relations and Special Events Intern - Academic Year 2026-2027 (Chicago, ILLINOIS, us) — https://jobs.smartrecruiters.com/NBCUniversal3/744000143385279
