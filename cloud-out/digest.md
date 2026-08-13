@@ -519,3 +519,10 @@
 - [0] Nationwide Children's Hospital — Marketing-Email Intern (255 E. Main St, Columbus, OH) — https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/255-E-Main-St-Columbus-OH/Marketing-Email-Intern_R-26990-1
 - [0] Johnson & Johnson — Strategy & Execution, Prostate Co-op (Toronto, Ontario, Canada) — https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Toronto-Ontario-Canada/Strategy---Execution--Prostate-Co-op_R-092218
 - [0] DreamWorks Animation — NBC Chicago Community Relations and Special Events Intern - Academic Year 2026-2027 (Chicago, ILLINOIS, us) — https://jobs.smartrecruiters.com/NBCUniversal3/744000143385279
+
+## 2026-08-13 21:13 — 4 new postings
+
+- [4] Crowe — AI Functional Intern - Consulting Practice (Chicago, IL) — https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-71008
+- [0] Nationwide Children's Hospital — Content Intern (255 E. Main St, Columbus, OH) — https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/255-E-Main-St-Columbus-OH/Content-Intern_R-27393
+- [0] University of Virginia — Federal Work-Study Internship:  Digital Production Group Student Assistant (Student Wage) (Charlottesville, VA) — https://uva.wd1.myworkdayjobs.com/en-US/uvastudentjobs/job/Charlottesville-VA/Federal-Work-Study-Internship---Digital-Production-Group-Student-Assistant--Student-Wage-_R0086293
+- [0] Valeo — Human Resources Intern (Reno, NV) — https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Reno-NV/Human-Resources-Intern_REQ2026079685
