@@ -490,3 +490,13 @@
 - [0] Royal Bank of Canada — Wealth Management Intern (Fort Collins, Colorado, United States of America) — https://rbc.wd3.myworkdayjobs.com/en-US/ExternalPrivatePostingStudents/job/Fort-Collins-Colorado-United-States-of-America/Wealth-Management-Intern_R-0000184095
 - [0] Altera Corporation — Embedded Solutions Intern (Toronto, Ontario, Canada) — https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R02832
 - [0] Advocate Health Care — Student Intern (Atrium Health Mercy - 2001 Vail Ave, Charlotte, NC) — https://aah.wd5.myworkdayjobs.com/en-US/External/job/Atrium-Health-Mercy---2001-Vail-Ave-Charlotte-NC/Student-Intern_R259616
+
+## 2026-08-13 17:41 — 7 new postings
+
+- [2] InfiniteQuant — Quantitative Developer Intern - Summer 2027 (Dubai - United Arab Emirates, NYC) — https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594
+- [0] Micron Technology — Intern - DRAM Process Integration (Boise, ID - Main Site) — https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Process-Integration_JR108075
+- [0] Micron Technology — Intern - Wafer Bonding Process Development (Boise, ID - Main Site) — https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Wafer-Bonding-Process-Development_JR108074
+- [0] Micron Technology — Intern - Process Pathfinding, DRAM Dry Etch (Boise, ID - Main Site) — https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Pathfinding--DRAM-Dry-Etch_JR107347
+- [0] Veolia — Wastewater Operator Intern (Discovery Bay, CA, us) — https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000143361009
+- [0] RR Donnelley — Intern (Logan, UT, us) — https://jobs.smartrecruiters.com/RRDonnelley/744000143359845
+- [0] Delta Dental — Knowledge Science Intern (Okemos, MI) — https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Knowledge-Science_JR101405
