@@ -462,3 +462,14 @@
 
 - [2] InfiniteQuant — Quantitative Developer - Internship - Summer 2027 (New York, New York, us) — https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594
 - [2] InfiniteQuant — Quantitative Researcher - Internship - Summer 2027 (New York, NY, us) — https://jobs.smartrecruiters.com/InfiniteQuant/744000143292044
+
+## 2026-08-13 13:45 — 8 new postings
+
+- [2] InfiniteQuant — Quantitative Researcher - Internship - Summer 2027 (New York, NY, us) — https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421
+- [0] Delta Dental — Internship - Knowledge Science (Okemos, MI) — https://rhsc.wd5.myworkdayjobs.com/en-US/delta_dental_of_michigan/job/Okemos-MI/Internship---Knowledge-Science_JR101405
+- [0] Avery Dennison — Internship: Procurement Finance (Oegstgeest, ZH, nl) — https://jobs.smartrecruiters.com/AveryDennison/744000143306623
+- [0] University Health Network — Pharmacy Technician Intern - TWH OP (Toronto, ON, ca) — https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000143316769
+- [0] DreamWorks Animation — Publicity Intern (m/w/d) (Frankfurt, de) — https://jobs.smartrecruiters.com/NBCUniversal3/744000143300160
+- [0] Prysmian Cables & Systems — Accounts Payable Internship (Vaughan, Canada) — https://prysmiangroup.wd3.myworkdayjobs.com/en-US/careers/job/Vaughan-Canada/Accounts-Payable-Internship_R-33765-1
+- [0] RTX — Modeling, Simulation & Analysis Intern (Tucson, AZ) — https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254
+- [0] General Dynamics — Tester Apprentice (Colchester, VT) — https://careers-gd-ots.icims.com/jobs/36775/job?mobile=true&needsRedirect=false
