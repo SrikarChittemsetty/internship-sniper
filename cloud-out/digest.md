@@ -420,3 +420,30 @@
 ## 2026-08-13 08:06 — 1 new postings
 
 - [0] Eurofins — Internship - Field Work (Johor Bahru, Johor, my) — https://jobs.smartrecruiters.com/Eurofins/744000143249559
+
+## 2026-08-13 09:33 — 24 new postings
+
+- [4] Specter Aerospace — Full Stack Developer Co-op (Boston, MA, Peabody, MA) — https://specteraerospace.bamboohr.com/careers/122/
+- [3] ConnectPrep — Data Analyst Intern (Washington, DC, Remote in USA) — https://apply.workable.com/connectprep/j/D1C67258C0/apply
+- [2] Inbulks — Junior Front End Developer Intern (Long Island City, Queens, NY) — https://jobs.smartrecruiters.com/InbulksCorp/743999750129753
+- [2] Mapjects — PHP or Drupal Web Developer Intern (Washington, DC) — https://jobs.smartrecruiters.com/Mapjectscom/79253426
+- [2] Mapjects — Java Developer Intern - Web Application Developer (Washington, DC) — https://jobs.smartrecruiters.com/Mapjectscom/78913939
+- [1] VWH Capital Management — Quantitative Researcher Intern (Dallas, TX) — https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801
+- [1] Picton Mahoney Asset Management — Quantitative Research & Risk Intern (Toronto, ON, Canada) — https://pictonmahoney.bamboohr.com/careers/350/
+- [1] Wells Fargo — Quantitative Analytics Intern - Multiple Teams (Charlotte, NC) — https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--PhD----Early-Careers_R-568279
+- [1] Wells Fargo — Quantitative Analytics Intern - Capital Markets - Masters (Charlotte, NC) — https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270
+- [1] Wells Fargo — Quantitative Analytics Intern - Multiple Teams (Charlotte, NC) — https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--Masters----Early-Careers_R-568259
+- [0] Parsons — Mechanical Eng. Intern (UAE National) — https://parsons.wd5.myworkdayjobs.com/en-US/search/job/AE---Dubai/Mechanical-Eng-Intern--UAE-National-_R184678
+- [0] Société Générale de Surveillance (SGS) — Analytical Chemistry Intern (Rustenburg, NW, za) — https://jobs.smartrecruiters.com/SGS/744000143265791
+- [0] Société Générale de Surveillance (SGS) — Quality Intern (Johannesburg, Gauteng, za) — https://jobs.smartrecruiters.com/SGS/744000143259932
+- [0] Mapjects — Oracle Database Administrator Intern (New Orleans, LA) — https://jobs.smartrecruiters.com/Mapjectscom/79183345
+- [0] Mapjects — Java Developer Intern - Salary (College Park, MD) — https://jobs.smartrecruiters.com/Mapjectscom/79183538
+- [0] Mapjects — PHP Developer Intern (Washington, DC) — https://jobs.smartrecruiters.com/Mapjectscom/78665247
+- [0] Mapjects — C# ASP.NET C Intern (Arlington County, Arlington, VA) — https://jobs.smartrecruiters.com/Mapjectscom/79400823
+- [0] Mapjects — Java Developer Intern (Washington, DC) — https://jobs.smartrecruiters.com/Mapjectscom/79770294
+- [0] Gartner — Data Analyst Intern (Irving, TX) — https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297
+- [0] Tuckernuck — Product Management Intern (Washington, DC) — https://tnuck.bamboohr.com/careers/273/
+- [0] BowerGroupAsia — Research Intern (Washington, DC) — https://bga.bamboohr.com/careers/152/
+- [0] Picton Mahoney Asset Management — Business Data Analyst Intern (Toronto, ON, Canada) — https://pictonmahoney.bamboohr.com/careers/356/
+- [0] Specter Aerospace — Image Processing Co-op (Boston, MA) — https://specteraerospace.bamboohr.com/careers/121/
+- [0] TikTok — Data Science Intern - Advertisement Team (San Jose, CA) — https://lifeattiktok.com/search/7673226686054107445
