@@ -477,3 +477,10 @@
 ## 2026-08-13 14:46 — 1 new postings
 
 - [0] Avery Dennison — Internship: Procurement Finance (Oegstgeest, ZH, nl) — https://jobs.smartrecruiters.com/AveryDennison/744000143328245
+
+## 2026-08-13 15:41 — 4 new postings
+
+- [3] Analytical Mechanics Associates — Graduate Research Scientist intern (Remote - New Jersey) — https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1
+- [0] American University — PCD Fellow - GOVT 352 TA (Student) (Main Campus (Washington, DC)) — https://american.wd1.myworkdayjobs.com/en-US/au/job/Main-Campus-Washington-DC/PCD-Student-Fellow---GOVT-352-TA--Student-_R4611
+- [0] Loblaw Companies — Article Analyst, Data Operations - Co-op Student (2 Fraser Ave, Toronto, ON) — https://myview.wd3.myworkdayjobs.com/en-US/paradox_careers/job/2-Fraser-Ave-Toronto-ON/Article-Analyst--Data-Operations---Co-op-Student_R2000692769
+- [0] EarnIn — IT Apprentice (Mountain View, US) — https://job-boards.greenhouse.io/earnin/jobs/8125855
