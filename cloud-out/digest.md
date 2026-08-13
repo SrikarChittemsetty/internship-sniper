@@ -457,3 +457,8 @@
 - [2] InfiniteQuant — Quantitative Researcher - Internship - Summer 2027 (New York, NY, us) — https://jobs.smartrecruiters.com/InfiniteQuant/744000143291679
 - [2] InfiniteQuant — Quantitative Developer - Internship - Summer 2027 (New York, New York, us) — https://jobs.smartrecruiters.com/InfiniteQuant/744000143290959
 - [0] NielsenIQ — Apprentice - Data Operations Analyst (Vadodara, GJ, in) — https://jobs.smartrecruiters.com/NielsenIQ/744000143291269
+
+## 2026-08-13 12:11 — 2 new postings
+
+- [2] InfiniteQuant — Quantitative Developer - Internship - Summer 2027 (New York, New York, us) — https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594
+- [2] InfiniteQuant — Quantitative Researcher - Internship - Summer 2027 (New York, NY, us) — https://jobs.smartrecruiters.com/InfiniteQuant/744000143292044
