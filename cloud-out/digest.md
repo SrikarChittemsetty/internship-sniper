@@ -526,3 +526,7 @@
 - [0] Nationwide Children's Hospital — Content Intern (255 E. Main St, Columbus, OH) — https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/255-E-Main-St-Columbus-OH/Content-Intern_R-27393
 - [0] University of Virginia — Federal Work-Study Internship:  Digital Production Group Student Assistant (Student Wage) (Charlottesville, VA) — https://uva.wd1.myworkdayjobs.com/en-US/uvastudentjobs/job/Charlottesville-VA/Federal-Work-Study-Internship---Digital-Production-Group-Student-Assistant--Student-Wage-_R0086293
 - [0] Valeo — Human Resources Intern (Reno, NV) — https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Reno-NV/Human-Resources-Intern_REQ2026079685
+
+## 2026-08-13 23:01 — 1 new postings
+
+- [0] JINGDONG — JD Young Human Resources Internship (USA-Georgia-Atlanta) — https://jd.wd103.myworkdayjobs.com/en-US/Campus_Career_Site/job/USA-Georgia-Atlanta/JD-Young-Human-Resources-Internship_JR103101
