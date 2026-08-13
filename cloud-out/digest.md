@@ -447,3 +447,7 @@
 - [0] Picton Mahoney Asset Management — Business Data Analyst Intern (Toronto, ON, Canada) — https://pictonmahoney.bamboohr.com/careers/356/
 - [0] Specter Aerospace — Image Processing Co-op (Boston, MA) — https://specteraerospace.bamboohr.com/careers/121/
 - [0] TikTok — Data Science Intern - Advertisement Team (San Jose, CA) — https://lifeattiktok.com/search/7673226686054107445
+
+## 2026-08-13 10:44 — 1 new postings
+
+- [4] Bosch Home Comfort — IT Internship (BackEnd, Java) (f/m) (Warszawa, Województwo mazowieckie, pl) — https://jobs.smartrecruiters.com/BoschGroup/744000143272044
