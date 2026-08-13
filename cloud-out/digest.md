@@ -484,3 +484,9 @@
 - [0] American University — PCD Fellow - GOVT 352 TA (Student) (Main Campus (Washington, DC)) — https://american.wd1.myworkdayjobs.com/en-US/au/job/Main-Campus-Washington-DC/PCD-Student-Fellow---GOVT-352-TA--Student-_R4611
 - [0] Loblaw Companies — Article Analyst, Data Operations - Co-op Student (2 Fraser Ave, Toronto, ON) — https://myview.wd3.myworkdayjobs.com/en-US/paradox_careers/job/2-Fraser-Ave-Toronto-ON/Article-Analyst--Data-Operations---Co-op-Student_R2000692769
 - [0] EarnIn — IT Apprentice (Mountain View, US) — https://job-boards.greenhouse.io/earnin/jobs/8125855
+
+## 2026-08-13 16:34 — 3 new postings
+
+- [0] Royal Bank of Canada — Wealth Management Intern (Fort Collins, Colorado, United States of America) — https://rbc.wd3.myworkdayjobs.com/en-US/ExternalPrivatePostingStudents/job/Fort-Collins-Colorado-United-States-of-America/Wealth-Management-Intern_R-0000184095
+- [0] Altera Corporation — Embedded Solutions Intern (Toronto, Ontario, Canada) — https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R02832
+- [0] Advocate Health Care — Student Intern (Atrium Health Mercy - 2001 Vail Ave, Charlotte, NC) — https://aah.wd5.myworkdayjobs.com/en-US/External/job/Atrium-Health-Mercy---2001-Vail-Ave-Charlotte-NC/Student-Intern_R259616
