@@ -473,3 +473,7 @@
 - [0] Prysmian Cables & Systems — Accounts Payable Internship (Vaughan, Canada) — https://prysmiangroup.wd3.myworkdayjobs.com/en-US/careers/job/Vaughan-Canada/Accounts-Payable-Internship_R-33765-1
 - [0] RTX — Modeling, Simulation & Analysis Intern (Tucson, AZ) — https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254
 - [0] General Dynamics — Tester Apprentice (Colchester, VT) — https://careers-gd-ots.icims.com/jobs/36775/job?mobile=true&needsRedirect=false
+
+## 2026-08-13 14:46 — 1 new postings
+
+- [0] Avery Dennison — Internship: Procurement Finance (Oegstgeest, ZH, nl) — https://jobs.smartrecruiters.com/AveryDennison/744000143328245
