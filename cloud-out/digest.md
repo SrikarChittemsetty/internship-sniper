@@ -530,3 +530,14 @@
 ## 2026-08-13 23:01 — 1 new postings
 
 - [0] JINGDONG — JD Young Human Resources Internship (USA-Georgia-Atlanta) — https://jd.wd103.myworkdayjobs.com/en-US/Campus_Career_Site/job/USA-Georgia-Atlanta/JD-Young-Human-Resources-Internship_JR103101
+
+## 2026-08-14 01:15 — 8 new postings
+
+- [4] Johnson & Johnson — AI & Digital Co-op (Toronto, ON, Canada) — https://jj.wd5.myworkdayjobs.com/JJ/job/Toronto-Ontario-Canada/AI---Digital-Co-Op_R-092243
+- [2] InfiniteQuant — Quantitative Researcher Intern - Summer 2027 (Dubai - United Arab Emirates, NYC) — https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421
+- [0] SchoolMint — Marketing Technology & Analytics Intern (Lafayette, LA) — https://job-boards.greenhouse.io/schoolmint/jobs/8697562002
+- [0] Altera Corporation — Embedded Solutions Intern (Toronto, ON, Canada) — https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R02832
+- [0] National Laboratory of the Rockies — Transportation Systems Analysis Intern - Year-Round (Golden, CO) — https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14385
+- [0] Vertiv — Sales Data Analytics Intern - Summer 2027 (Westerville, OH) — https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293
+- [0] Vertiv — Sales Data Analytics Intern (Westerville, OH) — https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279291
+- [0] Vertiv — Operations Intern - Summer 2027 (Westerville, OH) — https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279223
