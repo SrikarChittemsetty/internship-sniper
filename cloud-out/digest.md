@@ -623,3 +623,13 @@
 - [0] Fidelity Investments — Developing Investors Student Experience Internship - Summer 2027 (Boston, MA) — https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Developing-Investors-Student-Experience-Internship---Summer-2027_2126946
 - [0] DreamWorks Animation — NBCU Local Chicago News Intern – Academic Year 2026-2027 (Chicago, ILLINOIS, us) — https://jobs.smartrecruiters.com/NBCUniversal3/744000143548059
 - [0] New Balance — Numeric Footwear Design Apprentice (Long Beach, CA) — https://newbalance.wd1.myworkdayjobs.com/en-US/careers/job/Long-Beach-CA/Numeric-Footwear-Design-Apprentice_R39666
+
+## 2026-08-14 17:26 — 7 new postings
+
+- [3] Two Six Technologies — Skillbridge Intern  (Remote, USA) — https://job-boards.greenhouse.io/twosixtechnologies/jobs/6144258004
+- [1] New York Post Holdings — Page Six Column Intern, Fall 2026 (10 weeks, 24 hours a week) (NYC - 1211 Ave of the Americas) — https://dowjones.wd1.myworkdayjobs.com/en-US/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/Page-Six-Column-Intern--Fall-2026--10-weeks--24-hours-a-week-_Job_Req_54716
+- [0] Johnson Controls — Electrician Apprentice - 1st Shift (San Antonio-Texas-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/San-Antonio-Texas-United-States-of-America/Electrician-Apprentice---1st-Shift_WD30277192
+- [0] AECOM — Inspection Intern (Hartford, CT, us) — https://jobs.smartrecruiters.com/AECOM2/744000143561548
+- [0] AECOM — Inspection Intern (Springfield, MA, us) — https://jobs.smartrecruiters.com/AECOM2/744000143560665
+- [0] AECOM — Inspection Intern (New Haven, CT, us) — https://jobs.smartrecruiters.com/AECOM2/744000143560894
+- [0] AECOM — Inspection Intern (Rocky Hill, CT, us) — https://jobs.smartrecruiters.com/AECOM2/744000143560500
