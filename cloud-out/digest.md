@@ -594,3 +594,11 @@
 - [0] TikTok — Product Manager Intern - Content and Services (San Jose, CA) — https://lifeattiktok.com/search/7673337777708550405
 - [0] TikTok — Product Manager Intern - Scaled Growth (San Jose, CA) — https://lifeattiktok.com/search/7673559305519794437
 - [0] TikTok — Product Solutions and Operations Intern - Commerce Ads (San Jose, CA) — https://lifeattiktok.com/search/7673340525029673221
+
+## 2026-08-14 13:40 — 5 new postings
+
+- [0] Loblaw Companies — Pharmacy Intern (200 Grant Carman Dr, Nepean, ON) — https://myview.wd3.myworkdayjobs.com/en-US/paradox_careers/job/200-Grant-Carman-Dr-Nepean-ON/Pharmacy-Intern_R2000693321-1
+- [0] Loblaw Companies — Pharmacy Intern (5200 Hwhy 69 N, Gloucester, ON) — https://myview.wd3.myworkdayjobs.com/en-US/paradox_careers/job/5200-Hwhy-69-N-Gloucester-ON/Pharmacy-Intern_R2000693333-1
+- [0] Johnson Controls — HVAC Truck Based Apprentice (un) (Rockville-Virginia-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Rockville-Virginia-United-States-of-America/HVAC-Truck-Based-Apprentice--un-_WD30277093
+- [0] Wabtec — Intern, Finance (Contagem, MG, br) — https://jobs.smartrecruiters.com/Wabtec/3743990014600799
+- [0] MSX International — Warranty Assessor Apprentice (Colchester, gb) — https://jobs.smartrecruiters.com/MSXInternational/3743990014600236
