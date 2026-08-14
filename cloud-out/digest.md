@@ -541,3 +541,13 @@
 - [0] Vertiv — Sales Data Analytics Intern - Summer 2027 (Westerville, OH) — https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293
 - [0] Vertiv — Sales Data Analytics Intern (Westerville, OH) — https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279291
 - [0] Vertiv — Operations Intern - Summer 2027 (Westerville, OH) — https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279223
+
+## 2026-08-14 05:20 — 7 new postings
+
+- [1] KeyBank — 2027 Summer Analytics and Quantitative Modeling Internship- Cleveland (Cleveland, OH) — https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380
+- [0] KeyBank — 2027 Summer Risk Management Internship Program- Cleveland (Cleveland, OH) — https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Risk-Management-Internship-Program--Cleveland_R-41378
+- [0] NielsenIQ — Apprentice - Data Operations Analyst (Vadodara, GJ, in) — https://jobs.smartrecruiters.com/NielsenIQ/744000143438839
+- [0] Bosch Home Comfort — [Internship] Logistics Cost Clearance (Thu Duc City, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143439189
+- [0] Bosch Home Comfort — [Internship] IT Support Intern (Đồng Nai, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143439069
+- [0] Bosch Home Comfort — Internship in Quality Management (Penang, my) — https://jobs.smartrecruiters.com/BoschGroup/744000143434864
+- [0] ServiceNow — Intern - Marketing Associate (Sydney, au) — https://jobs.smartrecruiters.com/ServiceNow/744000143436369
