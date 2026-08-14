@@ -655,3 +655,8 @@
 - [0] Bank of Montreal — Commercial Banking Credit Analyst Internship, Summer 2027 (Co-op/Internship) - 4 months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Commercial-Banking-Credit-Analyst-Internship--Summer-2027--Co-op-Internship----4-months_R260022353
 - [0] Heidelberg Materials — Corporate Controller Intern (Irving, TX) — https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Irving-TX/Corporate-Controller-Intern_JR10018017
 - [0] Corewell Health — RN OR Intern — https://spectrumhealth.wd5.myworkdayjobs.com/en-US/CorewellHealthCareers/job/Royal-Oak-MI/RN-OR-Intern_R222155
+
+## 2026-08-14 20:57 — 2 new postings
+
+- [4] The Nuclear Company — Spring 2027 AI Applied Research Internship (Washington, DC) — https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008
+- [0] GenScript — Payroll Tax Intern (Piscataway, New Jersey, United States) — https://job-boards.greenhouse.io/genscript/jobs/5212805007

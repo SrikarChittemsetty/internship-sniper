@@ -1,55 +1,55 @@
 # Morning brief — new postings, last 48h
 
-_Generated 2026-08-14 20:29. Best-scored first. ✅ = you were pinged, 👀 = digest-only (below threshold)._
+_Generated 2026-08-14 20:57. Best-scored first. ✅ = you were pinged, 👀 = digest-only (below threshold)._
 
-- ✅ **[10]** [ByteDance — Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7673608499872827701/detail) — Seattle, WA _(caught 8h ago)_
-- ✅ **[10]** [Dick's Sporting Goods — Data Engineer Co-op](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/06083-GameChanger/Data-Engineering-Co-Op_202630722) — Remote in USA _(caught 41h ago)_
-- ✅ **[9]** [ByteDance — Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7673617571165620533/detail) — San Jose, CA _(caught 8h ago)_
-- ✅ **[9]** [Crowe — AI Engineering Intern](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782) — Chicago, IL _(caught 19h ago)_
+- ✅ **[10]** [ByteDance — Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7673608499872827701/detail) — Seattle, WA _(caught 9h ago)_
+- ✅ **[10]** [Dick's Sporting Goods — Data Engineer Co-op](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/06083-GameChanger/Data-Engineering-Co-Op_202630722) — Remote in USA _(caught 42h ago)_
+- ✅ **[9]** [ByteDance — Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7673617571165620533/detail) — San Jose, CA _(caught 9h ago)_
+- ✅ **[9]** [Crowe — AI Engineering Intern](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782) — Chicago, IL _(caught 20h ago)_
 - ✅ **[9]** [Copart — AV Engineer Intern](https://copart.wd12.myworkdayjobs.com/en-US/copart/job/US-Tech-InfraOps-729/AV-Engineer-Intern_JR110509) — US Tech Infra/Ops 729 _(caught 30h ago)_
 - ✅ **[9]** [Bosch Home Comfort — Internship in the Field of Full Stack Engineering](https://jobs.smartrecruiters.com/BoschGroup/744000143271509) — Ulm, BW, de _(caught 34h ago)_
 - ✅ **[9]** [Calpion/Plutus Health — AI Engineering Intern - Python & Agentic AI](https://calpionplutus.bamboohr.com/careers/310/) — Dallas, TX _(caught 35h ago)_
-- ✅ **[9]** [Oracle — Platform Software Engineer 1 Intern - Full-time Intern Conversion](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415) — United States _(caught 41h ago)_
-- ✅ **[9]** [Schweitzer Engineering Laboratories — Software Engineer Intern - AI Focus](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineering-Intern--AI-Focus-_2026-22601) — Pullman, WA _(caught 41h ago)_
-- ✅ **[9]** [ByteDance — Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7670364362450733317/detail) — San Jose, CA _(caught 41h ago)_
-- ✅ **[7]** [Thales — Data Engineer Intern - Student](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa/Data-Engineer---student_R0337006-1) — Ottawa, ON, Canada _(caught 23h ago)_
+- ✅ **[9]** [Oracle — Platform Software Engineer 1 Intern - Full-time Intern Conversion](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415) — United States _(caught 42h ago)_
+- ✅ **[9]** [Schweitzer Engineering Laboratories — Software Engineer Intern - AI Focus](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineering-Intern--AI-Focus-_2026-22601) — Pullman, WA _(caught 42h ago)_
+- ✅ **[9]** [ByteDance — Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7670364362450733317/detail) — San Jose, CA _(caught 42h ago)_
+- ✅ **[7]** [Thales — Data Engineer Intern - Student](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa/Data-Engineer---student_R0337006-1) — Ottawa, ON, Canada _(caught 24h ago)_
 - ✅ **[7]** [Specter Aerospace — Front-End Software Developer Co-op](https://specteraerospace.bamboohr.com/careers/120/) — Boston, MA, Peabody, MA _(caught 35h ago)_
-- 👀 **[7]** [Navy Federal — Frontend Application Engineer Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29776) — Pensacola, FL, Vienna, VA _(caught 41h ago)_
-- ✅ **[7]** [Navy Federal — Data Engineering Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29792) — Vienna, VA _(caught 41h ago)_
-- ✅ **[7]** [Cotiviti — Agentic AI Research Intern](https://careers-cotiviti.icims.com/jobs/19480/job?mobile=true&needsRedirect=false) — Remote in USA _(caught 41h ago)_
-- ✅ **[6]** [Notion — Software Engineer Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8) — San Francisco, California, New York, New York _(caught 1h ago)_
-- ✅ **[6]** [Notion — Software Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) — San Francisco, California, New York, New York _(caught 1h ago)_
+- 👀 **[7]** [Navy Federal — Frontend Application Engineer Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29776) — Pensacola, FL, Vienna, VA _(caught 42h ago)_
+- ✅ **[7]** [Navy Federal — Data Engineering Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29792) — Vienna, VA _(caught 42h ago)_
+- ✅ **[7]** [Cotiviti — Agentic AI Research Intern](https://careers-cotiviti.icims.com/jobs/19480/job?mobile=true&needsRedirect=false) — Remote in USA _(caught 42h ago)_
+- ✅ **[6]** [Notion — Software Engineer Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8) — San Francisco, California, New York, New York _(caught 2h ago)_
+- ✅ **[6]** [Notion — Software Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) — San Francisco, California, New York, New York _(caught 2h ago)_
 - 👀 **[6]** [GE Aerospace — Embedded Systems Engineer Co-op](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bohemia/Embedded-Systems-Engineer-Co-op--Bohemia--NY----Spring-2027_R5035583-1) — Long Island, New York _(caught 27h ago)_
-- ✅ **[6]** [Assured Guaranty — Product Software Developer Intern](https://boards.greenhouse.io/assuredguaranty/jobs/8700953002) — NYC _(caught 46h ago)_
+- ✅ **[6]** [Assured Guaranty — Product Software Developer Intern](https://boards.greenhouse.io/assuredguaranty/jobs/8700953002) — NYC _(caught 47h ago)_
 - ✅ **[5]** [Schweitzer Engineering Laboratories — Test Engineer Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-22411) — Pullman, WA _(caught 1h ago)_
-- ✅ **[5]** [RTX — Material/Process Engineering Intern (Summer 2027)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01866166) — US-CA-SANTA FE SPRINGS-11120 ~ 11120 South Norwalk Blvd ~ NORWALK _(caught 1h ago)_
-- ✅ **[5]** [Generac — Intern- Electrical Engineering](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern--Electrical-Engineering_JR16148) — Reno, NV - USA _(caught 1h ago)_
-- ✅ **[5]** [Valeo — Software Engineer Intern](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575) — Troy, MI _(caught 1h ago)_
-- ✅ **[5]** [GlobalFoundries — US Advanced Manufacturing Equipment Engineering Intern, Junior (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656) — USA - Vermont - Essex Junction _(caught 2h ago)_
-- ✅ **[5]** [Generac — Intern Firmware Engineering](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149) — Reno, NV - USA _(caught 3h ago)_
-- ✅ **[5]** [Wabtec — Wabtec Diversity & Inclusion Legal Fellowship Program](https://jobs.smartrecruiters.com/Wabtec/3743990014604466) — Pittsburgh, PA, us _(caught 4h ago)_
+- ✅ **[5]** [RTX — Material/Process Engineering Intern (Summer 2027)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01866166) — US-CA-SANTA FE SPRINGS-11120 ~ 11120 South Norwalk Blvd ~ NORWALK _(caught 2h ago)_
+- ✅ **[5]** [Generac — Intern- Electrical Engineering](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern--Electrical-Engineering_JR16148) — Reno, NV - USA _(caught 2h ago)_
+- ✅ **[5]** [Valeo — Software Engineer Intern](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575) — Troy, MI _(caught 2h ago)_
+- ✅ **[5]** [GlobalFoundries — US Advanced Manufacturing Equipment Engineering Intern, Junior (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656) — USA - Vermont - Essex Junction _(caught 3h ago)_
+- ✅ **[5]** [Generac — Intern Firmware Engineering](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149) — Reno, NV - USA _(caught 4h ago)_
+- ✅ **[5]** [Wabtec — Wabtec Diversity & Inclusion Legal Fellowship Program](https://jobs.smartrecruiters.com/Wabtec/3743990014604466) — Pittsburgh, PA, us _(caught 5h ago)_
 - ✅ **[5]** [TransMarket Group — Software Engineering Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007) — Chicago, Illinois, United States _(caught 5h ago)_
 - ✅ **[5]** [American University — Visiting Artist Teaching Fellowship In Residence](https://american.wd1.myworkdayjobs.com/en-US/au/job/Main-Campus-Washington-DC/Visiting-Artist-Teaching-Fellowship-In-Residence_R4694) — Main Campus (Washington, DC) _(caught 5h ago)_
 - ✅ **[5]** [Sierra Space — Fall 2026 Mechanical Engineering Intern](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/Fall-2026-Mechanical-Engineering-Intern_R26120) — Centennial, CO _(caught 5h ago)_
 - ✅ **[5]** [Bosch Home Comfort — Manufacturing Engineering/Operations Co-op - Fall 2026](https://jobs.smartrecruiters.com/BoschGroup/744000143527019) — Pineville, NC, us _(caught 6h ago)_
-- ✅ **[5]** [TikTok — Mobile Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7673663349758675205) — San Jose, CA _(caught 8h ago)_
-- ✅ **[5]** [ByteDance — ASIC Design Engineer Intern - Video Silicon IP](https://jobs.bytedance.com/en/position/7673638856678279429/detail) — San Jose, CA _(caught 8h ago)_
+- ✅ **[5]** [TikTok — Mobile Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7673663349758675205) — San Jose, CA _(caught 9h ago)_
+- ✅ **[5]** [ByteDance — ASIC Design Engineer Intern - Video Silicon IP](https://jobs.bytedance.com/en/position/7673638856678279429/detail) — San Jose, CA _(caught 9h ago)_
 - ✅ **[5]** [Bosch Home Comfort — Internship in Product Engineering](https://jobs.smartrecruiters.com/BoschGroup/744000143477919) — Batu Kawan, Penang, my _(caught 10h ago)_
-- ✅ **[5]** [NielsenIQ — NIQ Early Career Program: Werkstudent Marktforschung Analytics (m/w/d)](https://jobs.smartrecruiters.com/NielsenIQ/744000143469850) — Frankfurt, HE, de _(caught 11h ago)_
-- ✅ **[5]** [Bosch Home Comfort — DevOps Engineer - Internship (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000143455469) — Ovar, pt _(caught 12h ago)_
-- ✅ **[5]** [KPMG — Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer](https://careers.kpmg.ca/jobs/33306?icims=1) — Toronto, ON, Canada _(caught 12h ago)_
-- ✅ **[5]** [Teledyne — Software Engineer Intern - NHRC](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) — Huntsville, AL _(caught 12h ago)_
-- ✅ **[5]** [Teledyne — Software Engineer Intern - NHRC](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2) — Huntsville, AL _(caught 12h ago)_
-- ✅ **[5]** [True Anomaly — GSE Engineering Intern](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007) — Long Beach, CA, Denver, CO _(caught 12h ago)_
-- ✅ **[5]** [MSA Safety — Software Engineer Co-op - Product Development](https://careers.msasafety.com/jobs/9992?icims=1) — Cranberry Township, PA _(caught 12h ago)_
-- ✅ **[5]** [MPR Associates — Engineer Co-op - Multiple Teams](https://careers-mpr.icims.com/jobs/1524/job?mobile=true&needsRedirect=false) — Salt Lake City, UT, Alexandria, VA, Burlington, MA, East Lyme, CT _(caught 12h ago)_
-- ✅ **[5]** [Field AI — Electrical Engineer, Robotics Hardware- Part-time Internship](https://jobs.lever.co/field-ai/1049e3e1-b4ca-4996-96a5-14e933f35b44) — Irvine, CA _(caught 19h ago)_
-- ✅ **[5]** [Schweitzer Engineering Laboratories — Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Florida---Wesley-Chapel/Engineering-Intern_2026-22361) — Wesley Chapel, FL _(caught 19h ago)_
-- ✅ **[5]** [Interco — Software Development Intern - React](https://jobs.smartrecruiters.com/Interco/744000143346169) — St. Louis, MO _(caught 19h ago)_
-- ✅ **[5]** [Micron Technology — Digital IP Design Engineer Intern - DRAM](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) — Boise, ID _(caught 19h ago)_
-- ✅ **[5]** [RTX — Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864400) — Annapolis, MD _(caught 19h ago)_
-- ✅ **[5]** [RTX — Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864370) — Annapolis, MD _(caught 19h ago)_
-- ✅ **[5]** [Ivy Tech Community College — Apprenticeship Program Coordinator](https://ivytech.wd1.myworkdayjobs.com/en-US/ivy_tech_careers/job/Kokomo-IN/Apprenticeship-Program-Coordinator_JR0000109334) — Kokomo, IN _(caught 23h ago)_
+- ✅ **[5]** [NielsenIQ — NIQ Early Career Program: Werkstudent Marktforschung Analytics (m/w/d)](https://jobs.smartrecruiters.com/NielsenIQ/744000143469850) — Frankfurt, HE, de _(caught 12h ago)_
+- ✅ **[5]** [Bosch Home Comfort — DevOps Engineer - Internship (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000143455469) — Ovar, pt _(caught 13h ago)_
+- ✅ **[5]** [KPMG — Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer](https://careers.kpmg.ca/jobs/33306?icims=1) — Toronto, ON, Canada _(caught 13h ago)_
+- ✅ **[5]** [Teledyne — Software Engineer Intern - NHRC](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) — Huntsville, AL _(caught 13h ago)_
+- ✅ **[5]** [Teledyne — Software Engineer Intern - NHRC](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2) — Huntsville, AL _(caught 13h ago)_
+- ✅ **[5]** [True Anomaly — GSE Engineering Intern](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007) — Long Beach, CA, Denver, CO _(caught 13h ago)_
+- ✅ **[5]** [MSA Safety — Software Engineer Co-op - Product Development](https://careers.msasafety.com/jobs/9992?icims=1) — Cranberry Township, PA _(caught 13h ago)_
+- ✅ **[5]** [MPR Associates — Engineer Co-op - Multiple Teams](https://careers-mpr.icims.com/jobs/1524/job?mobile=true&needsRedirect=false) — Salt Lake City, UT, Alexandria, VA, Burlington, MA, East Lyme, CT _(caught 13h ago)_
+- ✅ **[5]** [Field AI — Electrical Engineer, Robotics Hardware- Part-time Internship](https://jobs.lever.co/field-ai/1049e3e1-b4ca-4996-96a5-14e933f35b44) — Irvine, CA _(caught 20h ago)_
+- ✅ **[5]** [Schweitzer Engineering Laboratories — Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Florida---Wesley-Chapel/Engineering-Intern_2026-22361) — Wesley Chapel, FL _(caught 20h ago)_
+- ✅ **[5]** [Interco — Software Development Intern - React](https://jobs.smartrecruiters.com/Interco/744000143346169) — St. Louis, MO _(caught 20h ago)_
+- ✅ **[5]** [Micron Technology — Digital IP Design Engineer Intern - DRAM](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) — Boise, ID _(caught 20h ago)_
+- ✅ **[5]** [RTX — Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864400) — Annapolis, MD _(caught 20h ago)_
+- ✅ **[5]** [RTX — Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864370) — Annapolis, MD _(caught 20h ago)_
+- ✅ **[5]** [Ivy Tech Community College — Apprenticeship Program Coordinator](https://ivytech.wd1.myworkdayjobs.com/en-US/ivy_tech_careers/job/Kokomo-IN/Apprenticeship-Program-Coordinator_JR0000109334) — Kokomo, IN _(caught 24h ago)_
 - ✅ **[5]** [Micron Technology — Intern - Digital IP Design Engineer, DRAM](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) — Boise, ID - Main Site _(caught 26h ago)_
 - ✅ **[5]** [Micron Technology — Intern - Process Development Engineer, Planar DRAM CMP](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Planar-DRAM-CMP_JR108060) — Boise, ID - Main Site _(caught 26h ago)_
 - ✅ **[5]** [Teledyne — NHRC Software Engineering Internship (Summer 2027)](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) — US - Huntsville, AL _(caught 26h ago)_
@@ -69,58 +69,59 @@ _Generated 2026-08-14 20:29. Best-scored first. ✅ = you were pinged, 👀 = di
 - ✅ **[5]** [Parsons — Computer Engineering Intern (UAE National)](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/AE---Dubai/Computer-Engineering-Intern--UAE-National-_R184681) _(caught 35h ago)_
 - ✅ **[5]** [Specter Aerospace — Embedded Software Co-op](https://specteraerospace.bamboohr.com/careers/119/) — Boston, MA _(caught 35h ago)_
 - ✅ **[5]** [Tesla — Firmware Engineer Intern - New Programs Engineering](https://www.tesla.com/careers/search/job/279991) — Fremont, CA _(caught 35h ago)_
-- ✅ **[5]** [Western Digital — Intern - Equipment Engineer](https://jobs.smartrecruiters.com/WesternDigital/744000143229539) — Johor, my _(caught 39h ago)_
-- ✅ **[5]** [Western Digital — Intern - Process Engineer](https://jobs.smartrecruiters.com/WesternDigital/744000143229125) — Johor, my _(caught 39h ago)_
-- ✅ **[5]** [Bosch Home Comfort — [Internship Program Q4] Embedded Software Intern (C/C++/Linux)](https://jobs.smartrecruiters.com/BoschGroup/744000143206979) — Ho Chi Minh, vn _(caught 41h ago)_
-- ✅ **[5]** [Howmet Aerospace — Engineering Intern](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118908) — Laval, QC, Canada _(caught 41h ago)_
-- ✅ **[5]** [American Fidelity — Software Development Intern](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005) — Oklahoma City, OK _(caught 41h ago)_
-- ✅ **[5]** [New Balance — Sports Research Engineer Intern](https://newbalance.wd1.myworkdayjobs.com/careers/job/Sports-Research-Lab-Brighton-MA/Sports-Research-Engineer-Intern_R40740) — Brighton, Boston, MA _(caught 41h ago)_
-- ✅ **[5]** [RTX — Software Engineering Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875) — Cedar Rapids, IA _(caught 41h ago)_
-- ✅ **[5]** [GE Vernova — Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2) — Niskayuna, NY _(caught 41h ago)_
-- ✅ **[5]** [GE Vernova — Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1) — Niskayuna, NY _(caught 41h ago)_
-- ✅ **[5]** [RTX — Validation Engineer Intern - Product Safety - Certification & Validation](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Validation-Engineering---Product-Safety--Certification---Validation---Onsite-_01864406) — East Hartford, CT _(caught 41h ago)_
-- ✅ **[5]** [Northrop Grumman — Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255) — Melbourne, FL _(caught 41h ago)_
-- 👀 **[5]** [General Dynamics Information Technology — Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) — Annapolis Junction, MD _(caught 46h ago)_
-- ✅ **[5]** [TMEIC Corporation Americas — Engineer Intern - Spring 2027](https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/apply) — Houston, TX _(caught 46h ago)_
-- ✅ **[5]** [TMEIC Corporation Americas — Engineer Intern - Spring 2027 - Eis](https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply) — Roanoke, VA _(caught 46h ago)_
+- ✅ **[5]** [Western Digital — Intern - Equipment Engineer](https://jobs.smartrecruiters.com/WesternDigital/744000143229539) — Johor, my _(caught 40h ago)_
+- ✅ **[5]** [Western Digital — Intern - Process Engineer](https://jobs.smartrecruiters.com/WesternDigital/744000143229125) — Johor, my _(caught 40h ago)_
+- ✅ **[5]** [Bosch Home Comfort — [Internship Program Q4] Embedded Software Intern (C/C++/Linux)](https://jobs.smartrecruiters.com/BoschGroup/744000143206979) — Ho Chi Minh, vn _(caught 42h ago)_
+- ✅ **[5]** [Howmet Aerospace — Engineering Intern](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118908) — Laval, QC, Canada _(caught 42h ago)_
+- ✅ **[5]** [American Fidelity — Software Development Intern](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005) — Oklahoma City, OK _(caught 42h ago)_
+- ✅ **[5]** [New Balance — Sports Research Engineer Intern](https://newbalance.wd1.myworkdayjobs.com/careers/job/Sports-Research-Lab-Brighton-MA/Sports-Research-Engineer-Intern_R40740) — Brighton, Boston, MA _(caught 42h ago)_
+- ✅ **[5]** [RTX — Software Engineering Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875) — Cedar Rapids, IA _(caught 42h ago)_
+- ✅ **[5]** [GE Vernova — Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2) — Niskayuna, NY _(caught 42h ago)_
+- ✅ **[5]** [GE Vernova — Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1) — Niskayuna, NY _(caught 42h ago)_
+- ✅ **[5]** [RTX — Validation Engineer Intern - Product Safety - Certification & Validation](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Validation-Engineering---Product-Safety--Certification---Validation---Onsite-_01864406) — East Hartford, CT _(caught 42h ago)_
+- ✅ **[5]** [Northrop Grumman — Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255) — Melbourne, FL _(caught 42h ago)_
+- 👀 **[5]** [General Dynamics Information Technology — Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) — Annapolis Junction, MD _(caught 47h ago)_
+- ✅ **[5]** [TMEIC Corporation Americas — Engineer Intern - Spring 2027](https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/apply) — Houston, TX _(caught 47h ago)_
+- ✅ **[5]** [TMEIC Corporation Americas — Engineer Intern - Spring 2027 - Eis](https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply) — Roanoke, VA _(caught 47h ago)_
 - ✅ **[5]** [Smiths Detection Group — Engineering Intern](https://jobs.smartrecruiters.com/SmithsGroup2/744000143183289) — Tlalnepantla, ESTADO DE MÉXICO, mx _(caught 47h ago)_
+- 👀 **[4]** [The Nuclear Company — Spring 2027 AI Applied Research Internship](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008) — Washington, DC _(caught 0h ago)_
 - 👀 **[4]** [CCC Intelligent Solutions — AI Enablement Intern](https://cccis.wd1.myworkdayjobs.com/en-US/broadbean_external/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014851) — Chicago (Green St), IL _(caught 1h ago)_
-- 👀 **[4]** [MaxLinear — AI Intern](https://careersus-maxlinear.icims.com/jobs/3049/job?mobile=true&needsRedirect=false) — Carlsbad, CA _(caught 12h ago)_
-- 👀 **[4]** [GSK — AI Commercial Strategy & Activation Co-op - AI Strike Team](https://gsk-us-earlytalent.icims.com/jobs/10444/job?mobile=true&needsRedirect=false) — Durham, NC _(caught 12h ago)_
-- 👀 **[4]** [Johnson & Johnson — AI & Digital Co-op](https://jj.wd5.myworkdayjobs.com/JJ/job/Toronto-Ontario-Canada/AI---Digital-Co-Op_R-092243) — Toronto, ON, Canada _(caught 19h ago)_
-- 👀 **[4]** [Mercedes-Benz — ​​AI Program Manager Intern​](https://jobs.lever.co/MBRDNA/a5501534-a21b-4e47-a249-37dac374210f) — San Jose, CA _(caught 22h ago)_
-- 👀 **[4]** [Crowe — AI Functional Intern - Consulting Practice](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-71008) — Chicago, IL _(caught 23h ago)_
-- 👀 **[4]** [Johnson & Johnson — AI & Digital Co-Op](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Toronto-Ontario-Canada/AI---Digital-Co-Op_R-092243) — Toronto, Ontario, Canada _(caught 24h ago)_
+- 👀 **[4]** [MaxLinear — AI Intern](https://careersus-maxlinear.icims.com/jobs/3049/job?mobile=true&needsRedirect=false) — Carlsbad, CA _(caught 13h ago)_
+- 👀 **[4]** [GSK — AI Commercial Strategy & Activation Co-op - AI Strike Team](https://gsk-us-earlytalent.icims.com/jobs/10444/job?mobile=true&needsRedirect=false) — Durham, NC _(caught 13h ago)_
+- 👀 **[4]** [Johnson & Johnson — AI & Digital Co-op](https://jj.wd5.myworkdayjobs.com/JJ/job/Toronto-Ontario-Canada/AI---Digital-Co-Op_R-092243) — Toronto, ON, Canada _(caught 20h ago)_
+- 👀 **[4]** [Mercedes-Benz — ​​AI Program Manager Intern​](https://jobs.lever.co/MBRDNA/a5501534-a21b-4e47-a249-37dac374210f) — San Jose, CA _(caught 23h ago)_
+- 👀 **[4]** [Crowe — AI Functional Intern - Consulting Practice](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-71008) — Chicago, IL _(caught 24h ago)_
+- 👀 **[4]** [Johnson & Johnson — AI & Digital Co-Op](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Toronto-Ontario-Canada/AI---Digital-Co-Op_R-092243) — Toronto, Ontario, Canada _(caught 25h ago)_
 - 👀 **[4]** [Bosch Home Comfort — IT Internship (BackEnd, Java) (f/m)](https://jobs.smartrecruiters.com/BoschGroup/744000143272044) — Warszawa, Województwo mazowieckie, pl _(caught 34h ago)_
 - 👀 **[4]** [Specter Aerospace — Full Stack Developer Co-op](https://specteraerospace.bamboohr.com/careers/122/) — Boston, MA, Peabody, MA _(caught 35h ago)_
-- 👀 **[4]** [TMEIC Corporation Americas — Applications Intern - AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply) — Roanoke, VA _(caught 46h ago)_
-- 👀 **[3]** [Two Six Technologies — Skillbridge Intern ](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6144258004) — Remote, USA _(caught 3h ago)_
+- 👀 **[4]** [TMEIC Corporation Americas — Applications Intern - AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply) — Roanoke, VA _(caught 47h ago)_
+- 👀 **[3]** [Two Six Technologies — Skillbridge Intern ](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6144258004) — Remote, USA _(caught 4h ago)_
 - 👀 **[3]** [GE Healthcare — Client Service Technician Apprentice](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043136-1) — Remote _(caught 6h ago)_
-- 👀 **[3]** [Allstate Insurance Company — Pricing Actuarial Analyst Intern](https://allstate.wd5.myworkdayjobs.com/en-US/sourcing_event/job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1) — USA - IL (Remote) _(caught 8h ago)_
+- 👀 **[3]** [Allstate Insurance Company — Pricing Actuarial Analyst Intern](https://allstate.wd5.myworkdayjobs.com/en-US/sourcing_event/job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1) — USA - IL (Remote) _(caught 9h ago)_
 - 👀 **[3]** [CNO Financial Group — Internal Audit Intern 2027 - REMOTE](https://cnoinc.wd5.myworkdayjobs.com/en-US/Careers/job/Carmel-IN/Internal-Audit-Intern-2027---REMOTE_JR170431) — Carmel, IN _(caught 26h ago)_
 - 👀 **[3]** [Ohio State University — Graduate External Fellow (T&L)](https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Remote-Location/Graduate-External-Fellow--T-L-_R157206-1) — Remote Location _(caught 26h ago)_
 - 👀 **[3]** [Analytical Mechanics Associates — Graduate Research Scientist intern](https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1) — Remote - New Jersey _(caught 29h ago)_
 - 👀 **[3]** [ConnectPrep — Data Analyst Intern](https://apply.workable.com/connectprep/j/D1C67258C0/apply) — Washington, DC, Remote in USA _(caught 35h ago)_
-- 👀 **[2]** [InfiniteQuant — Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421) — Dubai - United Arab Emirates, NYC _(caught 19h ago)_
+- 👀 **[2]** [InfiniteQuant — Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421) — Dubai - United Arab Emirates, NYC _(caught 20h ago)_
 - 👀 **[2]** [InfiniteQuant — Quantitative Developer Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) — Dubai - United Arab Emirates, NYC _(caught 27h ago)_
 - 👀 **[2]** [InfiniteQuant — Quantitative Researcher - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421) — New York, NY, us _(caught 31h ago)_
 - 👀 **[2]** [Tower Research Capital — Quantitative Trader Intern](https://www.tower-research.com/open-positions/?gh_jid=8024128) — Chicago, IL, NYC _(caught 31h ago)_
-- 👀 **[2]** [InfiniteQuant — Quantitative Developer - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) — New York, New York, us _(caught 32h ago)_
-- 👀 **[2]** [InfiniteQuant — Quantitative Researcher - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143292044) — New York, NY, us _(caught 32h ago)_
+- 👀 **[2]** [InfiniteQuant — Quantitative Developer - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) — New York, New York, us _(caught 33h ago)_
+- 👀 **[2]** [InfiniteQuant — Quantitative Researcher - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143292044) — New York, NY, us _(caught 33h ago)_
 - 👀 **[2]** [InfiniteQuant — Quantitative Researcher - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143291679) — New York, NY, us _(caught 33h ago)_
 - 👀 **[2]** [InfiniteQuant — Quantitative Developer - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143290959) — New York, New York, us _(caught 33h ago)_
 - 👀 **[2]** [Inbulks — Junior Front End Developer Intern](https://jobs.smartrecruiters.com/InbulksCorp/743999750129753) — Long Island City, Queens, NY _(caught 35h ago)_
 - 👀 **[2]** [Mapjects — PHP or Drupal Web Developer Intern](https://jobs.smartrecruiters.com/Mapjectscom/79253426) — Washington, DC _(caught 35h ago)_
 - 👀 **[2]** [Mapjects — Java Developer Intern - Web Application Developer](https://jobs.smartrecruiters.com/Mapjectscom/78913939) — Washington, DC _(caught 35h ago)_
-- 👀 **[1]** [New York Post Holdings — Page Six Column Intern, Fall 2026 (10 weeks, 24 hours a week)](https://dowjones.wd1.myworkdayjobs.com/en-US/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/Page-Six-Column-Intern--Fall-2026--10-weeks--24-hours-a-week-_Job_Req_54716) — NYC - 1211 Ave of the Americas _(caught 3h ago)_
-- 👀 **[1]** [TD Bank — 2027 Intern](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Intern_R_1504375) — New York, New York _(caught 4h ago)_
-- 👀 **[1]** [Vendelux — Fall Data Intern](https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd) — New York, NY _(caught 4h ago)_
-- 👀 **[1]** [Bank of China USA — Data Analytics Audit Intern](https://careers-bocusa.icims.com/jobs/4114/job?mobile=true&needsRedirect=false) — NYC _(caught 12h ago)_
-- 👀 **[1]** [Bank of China USA — Enterprise Risk Management Risk Data Aggregation Intern](https://careers-bocusa.icims.com/jobs/4326/job?mobile=true&needsRedirect=false) — NYC _(caught 12h ago)_
-- 👀 **[1]** [Bank of China USA — Risk Data Aggregation Intern - Enterprise Risk Management Department](https://careers-bocusa.icims.com/jobs/4470/job?mobile=true&needsRedirect=false) — NYC _(caught 12h ago)_
-- 👀 **[1]** [KeyBank — Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380) — Cleveland, OH _(caught 12h ago)_
-- 👀 **[1]** [KeyBank — 2027 Summer Analytics and Quantitative Modeling Internship- Cleveland](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380) — Cleveland, OH _(caught 15h ago)_
-- 👀 **[1]** [GlobalFoundries — Global Supply Chain & Sourcing Intern (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Global-Supply-Chain---Sourcing-Intern--Summer-2027-_JR-2604471) — USA - New York - Malta _(caught 24h ago)_
+- 👀 **[1]** [New York Post Holdings — Page Six Column Intern, Fall 2026 (10 weeks, 24 hours a week)](https://dowjones.wd1.myworkdayjobs.com/en-US/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/Page-Six-Column-Intern--Fall-2026--10-weeks--24-hours-a-week-_Job_Req_54716) — NYC - 1211 Ave of the Americas _(caught 4h ago)_
+- 👀 **[1]** [TD Bank — 2027 Intern](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Intern_R_1504375) — New York, New York _(caught 5h ago)_
+- 👀 **[1]** [Vendelux — Fall Data Intern](https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd) — New York, NY _(caught 5h ago)_
+- 👀 **[1]** [Bank of China USA — Data Analytics Audit Intern](https://careers-bocusa.icims.com/jobs/4114/job?mobile=true&needsRedirect=false) — NYC _(caught 13h ago)_
+- 👀 **[1]** [Bank of China USA — Enterprise Risk Management Risk Data Aggregation Intern](https://careers-bocusa.icims.com/jobs/4326/job?mobile=true&needsRedirect=false) — NYC _(caught 13h ago)_
+- 👀 **[1]** [Bank of China USA — Risk Data Aggregation Intern - Enterprise Risk Management Department](https://careers-bocusa.icims.com/jobs/4470/job?mobile=true&needsRedirect=false) — NYC _(caught 13h ago)_
+- 👀 **[1]** [KeyBank — Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380) — Cleveland, OH _(caught 13h ago)_
+- 👀 **[1]** [KeyBank — 2027 Summer Analytics and Quantitative Modeling Internship- Cleveland](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380) — Cleveland, OH _(caught 16h ago)_
+- 👀 **[1]** [GlobalFoundries — Global Supply Chain & Sourcing Intern (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Global-Supply-Chain---Sourcing-Intern--Summer-2027-_JR-2604471) — USA - New York - Malta _(caught 25h ago)_
 - 👀 **[1]** [EisnerAmper — 2027 Assurance Summer Intern](https://eisneramper.wd1.myworkdayjobs.com/en-US/EisnerAmperEarlyCareers/job/New-York/XMLNAME-2027-Assurance-Summer-Intern_Req-8536) — New York _(caught 26h ago)_
 - 👀 **[1]** [University of Texas at Austin — Shera Eichler Legislative Internship](https://utaustin.wd1.myworkdayjobs.com/en-US/utstudent/job/AUSTIN-TX/Shera-Eichler-Legislative-Internship_R_00046830) — AUSTIN, TX _(caught 30h ago)_
 - 👀 **[1]** [VWH Capital Management — Quantitative Researcher Intern](https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801) — Dallas, TX _(caught 35h ago)_
@@ -128,30 +129,31 @@ _Generated 2026-08-14 20:29. Best-scored first. ✅ = you were pinged, 👀 = di
 - 👀 **[1]** [Wells Fargo — Quantitative Analytics Intern - Multiple Teams](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--PhD----Early-Careers_R-568279) — Charlotte, NC _(caught 35h ago)_
 - 👀 **[1]** [Wells Fargo — Quantitative Analytics Intern - Capital Markets - Masters](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270) — Charlotte, NC _(caught 35h ago)_
 - 👀 **[1]** [Wells Fargo — Quantitative Analytics Intern - Multiple Teams](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--Masters----Early-Careers_R-568259) — Charlotte, NC _(caught 35h ago)_
-- 👀 **[1]** [Business Insider — Data Graphics Fellow - August 2026](https://www.businessinsider.com/work-at-business-insider?gh_jid=5837048004) — NYC _(caught 41h ago)_
-- 👀 **[1]** [TikTok — Product Operations Intern - TikTok Shop Apps and API](https://lifeattiktok.com/search/7669705525866383621) — Seattle, WA _(caught 41h ago)_
+- 👀 **[1]** [Business Insider — Data Graphics Fellow - August 2026](https://www.businessinsider.com/work-at-business-insider?gh_jid=5837048004) — NYC _(caught 42h ago)_
+- 👀 **[1]** [TikTok — Product Operations Intern - TikTok Shop Apps and API](https://lifeattiktok.com/search/7669705525866383621) — Seattle, WA _(caught 42h ago)_
 - 👀 **[1]** [Progyny — Corporate Events Intern](https://progyny.wd5.myworkdayjobs.com/en-US/progyny/job/New-York-New-York/Corporate-Events-Intern_JR101130) — New York, New York _(caught 45h ago)_
-- 👀 **[1]** [Northwestern Mutual — Quantitative Analyst Intern - Public Investments](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807) — Milwaukee, WI _(caught 46h ago)_
+- 👀 **[1]** [Northwestern Mutual — Quantitative Analyst Intern - Public Investments](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807) — Milwaukee, WI _(caught 47h ago)_
+- 👀 **[0]** [GenScript — Payroll Tax Intern](https://job-boards.greenhouse.io/genscript/jobs/5212805007) — Piscataway, New Jersey, United States _(caught 0h ago)_
 - 👀 **[0]** [Bank of Montreal — Commercial Banking Credit Analyst Internship, Summer 2027 (Co-op/Internship) - 4 months](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Commercial-Banking-Credit-Analyst-Internship--Summer-2027--Co-op-Internship----4-months_R260022353) — Toronto, ON, CAN _(caught 0h ago)_
 - 👀 **[0]** [Heidelberg Materials — Corporate Controller Intern](https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Irving-TX/Corporate-Controller-Intern_JR10018017) — Irving, TX _(caught 0h ago)_
 - 👀 **[0]** [Corewell Health — RN OR Intern](https://spectrumhealth.wd5.myworkdayjobs.com/en-US/CorewellHealthCareers/job/Royal-Oak-MI/RN-OR-Intern_R222155) _(caught 0h ago)_
 - 👀 **[0]** [Mass General Brigham — Coop - Administrative Support](https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal/job/Boston-MA/Coop---Administrative-Support_RQ4062413) — Boston-MA _(caught 1h ago)_
 - 👀 **[0]** [University of Pikeville — Economic Development and Tourism Assistant Intern](https://upike.bamboohr.com/careers/491/) — Pikeville, KY _(caught 1h ago)_
 - 👀 **[0]** [PGIM — Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835) — Newark, NJ _(caught 1h ago)_
-- 👀 **[0]** [Red Bull — 2026 Internship, Fall - Game Presentation & Entertainment](https://jobs.smartrecruiters.com/RedBull/744000143582954) — Harrison, NJ, us _(caught 1h ago)_
-- 👀 **[0]** [Red Bull — 2026 Internship, Fall - Youth Programs Marketing](https://jobs.smartrecruiters.com/RedBull/744000143581479) — Harrison, NJ, us _(caught 1h ago)_
-- 👀 **[0]** [Boston Medical Center — Student Intern High School](https://bmc.wd1.myworkdayjobs.com/en-US/BMC/job/Boston/Student-Intern-High-School_50672) — Boston _(caught 1h ago)_
-- 👀 **[0]** [EisnerAmper — 2027 Assurance Summer Intern](https://eisneramper.wd1.myworkdayjobs.com/en-US/EisnerAmperEarlyCareers/job/Boston/XMLNAME-2027-Assurance-Summer-Intern_Req-8560) — Boston _(caught 2h ago)_
-- 👀 **[0]** [Johnson Controls — Electrician Apprentice - 1st Shift](https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/San-Antonio-Texas-United-States-of-America/Electrician-Apprentice---1st-Shift_WD30277192) — San Antonio-Texas-United States of America _(caught 3h ago)_
-- 👀 **[0]** [AECOM — Inspection Intern](https://jobs.smartrecruiters.com/AECOM2/744000143561548) — Hartford, CT, us _(caught 3h ago)_
-- 👀 **[0]** [AECOM — Inspection Intern](https://jobs.smartrecruiters.com/AECOM2/744000143560665) — Springfield, MA, us _(caught 3h ago)_
-- 👀 **[0]** [AECOM — Inspection Intern](https://jobs.smartrecruiters.com/AECOM2/744000143560894) — New Haven, CT, us _(caught 3h ago)_
-- 👀 **[0]** [AECOM — Inspection Intern](https://jobs.smartrecruiters.com/AECOM2/744000143560500) — Rocky Hill, CT, us _(caught 3h ago)_
-- 👀 **[0]** [CNO Financial Group — Summer 2027 Commercial Mortgage and Real Estate Intern - ONSITE Carmel, IN](https://cnoinc.wd5.myworkdayjobs.com/en-US/Careers/job/Carmel-IN/Summer-2027-Commercial-Mortgage-and-Real-Estate-Intern---ONSITE-Carmel--IN_JR170427) — Carmel, IN _(caught 4h ago)_
-- 👀 **[0]** [Carnegie Mellon University — Gilman Archive Intern (Non-CMU student) - Archives Department - UEIS](https://cmu.wd5.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/Gilman-Archive-Intern--Non-CMU-student----Archives-Department---UEIS_2024942) — Pittsburgh, PA _(caught 4h ago)_
-- 👀 **[0]** [Fidelity Investments — Developing Investors Student Experience Internship - Summer 2027](https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Developing-Investors-Student-Experience-Internship---Summer-2027_2126946) — Boston, MA _(caught 4h ago)_
-- 👀 **[0]** [DreamWorks Animation — NBCU Local Chicago News Intern – Academic Year 2026-2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000143548059) — Chicago, ILLINOIS, us _(caught 4h ago)_
-- 👀 **[0]** [New Balance — Numeric Footwear Design Apprentice](https://newbalance.wd1.myworkdayjobs.com/en-US/careers/job/Long-Beach-CA/Numeric-Footwear-Design-Apprentice_R39666) — Long Beach, CA _(caught 4h ago)_
+- 👀 **[0]** [Red Bull — 2026 Internship, Fall - Game Presentation & Entertainment](https://jobs.smartrecruiters.com/RedBull/744000143582954) — Harrison, NJ, us _(caught 2h ago)_
+- 👀 **[0]** [Red Bull — 2026 Internship, Fall - Youth Programs Marketing](https://jobs.smartrecruiters.com/RedBull/744000143581479) — Harrison, NJ, us _(caught 2h ago)_
+- 👀 **[0]** [Boston Medical Center — Student Intern High School](https://bmc.wd1.myworkdayjobs.com/en-US/BMC/job/Boston/Student-Intern-High-School_50672) — Boston _(caught 2h ago)_
+- 👀 **[0]** [EisnerAmper — 2027 Assurance Summer Intern](https://eisneramper.wd1.myworkdayjobs.com/en-US/EisnerAmperEarlyCareers/job/Boston/XMLNAME-2027-Assurance-Summer-Intern_Req-8560) — Boston _(caught 3h ago)_
+- 👀 **[0]** [Johnson Controls — Electrician Apprentice - 1st Shift](https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/San-Antonio-Texas-United-States-of-America/Electrician-Apprentice---1st-Shift_WD30277192) — San Antonio-Texas-United States of America _(caught 4h ago)_
+- 👀 **[0]** [AECOM — Inspection Intern](https://jobs.smartrecruiters.com/AECOM2/744000143561548) — Hartford, CT, us _(caught 4h ago)_
+- 👀 **[0]** [AECOM — Inspection Intern](https://jobs.smartrecruiters.com/AECOM2/744000143560665) — Springfield, MA, us _(caught 4h ago)_
+- 👀 **[0]** [AECOM — Inspection Intern](https://jobs.smartrecruiters.com/AECOM2/744000143560894) — New Haven, CT, us _(caught 4h ago)_
+- 👀 **[0]** [AECOM — Inspection Intern](https://jobs.smartrecruiters.com/AECOM2/744000143560500) — Rocky Hill, CT, us _(caught 4h ago)_
+- 👀 **[0]** [CNO Financial Group — Summer 2027 Commercial Mortgage and Real Estate Intern - ONSITE Carmel, IN](https://cnoinc.wd5.myworkdayjobs.com/en-US/Careers/job/Carmel-IN/Summer-2027-Commercial-Mortgage-and-Real-Estate-Intern---ONSITE-Carmel--IN_JR170427) — Carmel, IN _(caught 5h ago)_
+- 👀 **[0]** [Carnegie Mellon University — Gilman Archive Intern (Non-CMU student) - Archives Department - UEIS](https://cmu.wd5.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/Gilman-Archive-Intern--Non-CMU-student----Archives-Department---UEIS_2024942) — Pittsburgh, PA _(caught 5h ago)_
+- 👀 **[0]** [Fidelity Investments — Developing Investors Student Experience Internship - Summer 2027](https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Developing-Investors-Student-Experience-Internship---Summer-2027_2126946) — Boston, MA _(caught 5h ago)_
+- 👀 **[0]** [DreamWorks Animation — NBCU Local Chicago News Intern – Academic Year 2026-2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000143548059) — Chicago, ILLINOIS, us _(caught 5h ago)_
+- 👀 **[0]** [New Balance — Numeric Footwear Design Apprentice](https://newbalance.wd1.myworkdayjobs.com/en-US/careers/job/Long-Beach-CA/Numeric-Footwear-Design-Apprentice_R39666) — Long Beach, CA _(caught 5h ago)_
 - 👀 **[0]** [Société Générale de Surveillance (SGS) — Summer Internship - Lab Technician](https://jobs.smartrecruiters.com/SGS/744000143536639) — Appleton, WI, us _(caught 5h ago)_
 - 👀 **[0]** [Autodesk — Intern, Research Associate (HCI)](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--Research-Associate--HCI-_26WD100593-1) — Toronto, ON, CAN _(caught 6h ago)_
 - 👀 **[0]** [Nationwide Children's Hospital — Marketing Fall Intern-Population Health](https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/255-E-Main-St-Columbus-OH/Marketing-Fall-Intern-Population-Health_R-27485-1) — 255 E. Main St, Columbus, OH _(caught 6h ago)_
@@ -162,50 +164,50 @@ _Generated 2026-08-14 20:29. Best-scored first. ✅ = you were pinged, 👀 = di
 - 👀 **[0]** [Johnson Controls — HVAC Truck Based Apprentice (un)](https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Rockville-Virginia-United-States-of-America/HVAC-Truck-Based-Apprentice--un-_WD30277093) — Rockville-Virginia-United States of America _(caught 7h ago)_
 - 👀 **[0]** [Wabtec — Intern, Finance](https://jobs.smartrecruiters.com/Wabtec/3743990014600799) — Contagem, MG, br _(caught 7h ago)_
 - 👀 **[0]** [MSX International — Warranty Assessor Apprentice](https://jobs.smartrecruiters.com/MSXInternational/3743990014600236) — Colchester, gb _(caught 7h ago)_
-- 👀 **[0]** [MSX International — Warranty Assessor Apprentice](https://jobs.smartrecruiters.com/MSXInternational/3743990014600006) — Colchester, gb _(caught 8h ago)_
-- 👀 **[0]** [TikTok — Product Manager Intern - Content and Services](https://lifeattiktok.com/search/7673337777708550405) — San Jose, CA _(caught 8h ago)_
-- 👀 **[0]** [TikTok — Product Manager Intern - Scaled Growth](https://lifeattiktok.com/search/7673559305519794437) — San Jose, CA _(caught 8h ago)_
-- 👀 **[0]** [TikTok — Product Solutions and Operations Intern - Commerce Ads](https://lifeattiktok.com/search/7673340525029673221) — San Jose, CA _(caught 8h ago)_
-- 👀 **[0]** [SciTec — Intern - Multiple Teams](https://apply.workable.com/scitec/j/3650732037/apply) — Princeton, NJ _(caught 8h ago)_
+- 👀 **[0]** [MSX International — Warranty Assessor Apprentice](https://jobs.smartrecruiters.com/MSXInternational/3743990014600006) — Colchester, gb _(caught 9h ago)_
+- 👀 **[0]** [TikTok — Product Manager Intern - Content and Services](https://lifeattiktok.com/search/7673337777708550405) — San Jose, CA _(caught 9h ago)_
+- 👀 **[0]** [TikTok — Product Manager Intern - Scaled Growth](https://lifeattiktok.com/search/7673559305519794437) — San Jose, CA _(caught 9h ago)_
+- 👀 **[0]** [TikTok — Product Solutions and Operations Intern - Commerce Ads](https://lifeattiktok.com/search/7673340525029673221) — San Jose, CA _(caught 9h ago)_
+- 👀 **[0]** [SciTec — Intern - Multiple Teams](https://apply.workable.com/scitec/j/3650732037/apply) — Princeton, NJ _(caught 9h ago)_
 - 👀 **[0]** [Bosch Home Comfort — Internship Sales Development Europe](https://jobs.smartrecruiters.com/BoschGroup/744000143491499) — Stuttgart, BW, de _(caught 9h ago)_
 - 👀 **[0]** [Accenture — Workplace Support Intern (part-time for students)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bratislava/Workplace-Support-Intern--part-time-for-students-_R00351141-1) _(caught 10h ago)_
-- 👀 **[0]** [CSL — Intern (m/f/x) - Marketing Analytics & Forecasting HUB, International I&A](https://csl.wd1.myworkdayjobs.com/en-US/CSL_External/job/EMEA-PL-Warsaw-CSL-Behring/Intern--m-f-x----Marketing-Analytics---Forecasting-HUB--International-I-A_R-283209) — EMEA, PL, Warsaw, CSL Behring _(caught 12h ago)_
-- 👀 **[0]** [Bosch Home Comfort — C# Developer - Internship (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000143454572) — Ovar, pt _(caught 12h ago)_
-- 👀 **[0]** [KPMG — Product Specialist Intern Co-op - Asset Management Digital Solutions](https://careers.kpmg.ca/jobs/33301?icims=1) — Toronto, ON, Canada _(caught 12h ago)_
-- 👀 **[0]** [KPMG — Technical Consultant Intern Co-op - Global Compliance and Transformation](https://careers.kpmg.ca/jobs/33307?icims=1) — Toronto, ON, Canada _(caught 12h ago)_
-- 👀 **[0]** [PIMCO — Client Solutions & Analytics Analyst Intern](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605) — Newport Beach, CA _(caught 12h ago)_
-- 👀 **[0]** [Reyes Beverage Group — Commercial Analytics Intern - Beverage Alliance Support](https://jobportal.reyesbeveragegroup.com/jobs/34578?icims=1) — Irvine, CA _(caught 12h ago)_
-- 👀 **[0]** [Magnera — Data Analyst Intern - Information Technology](https://careers-magnera.icims.com/jobs/27241/job?mobile=true&needsRedirect=false) — Evansville, IN _(caught 12h ago)_
-- 👀 **[0]** [FAST Enterprises — Implementation Intern](https://careers.fastenterprises.com/jobs/1594?icims=1) — United States _(caught 12h ago)_
-- 👀 **[0]** [Analysis Group — Research Professional Intern - Generalist](https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false) — Montreal, QC, Canada, Toronto, ON, Canada _(caught 12h ago)_
-- 👀 **[0]** [Arlington County VA — Business Intelligence Intern](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1727) — Arlington County, Arlington, VA _(caught 12h ago)_
-- 👀 **[0]** [SAM — Geomatics Technician Apprentice - Survey and Mapping](https://careers.sam.biz/jobs/7674?icims=1) — Knoxville, TN _(caught 12h ago)_
-- 👀 **[0]** [SAM — Geomatics Technician Apprentice - Survey and Mapping](https://careers.sam.biz/jobs/7782?icims=1) — Atlanta, GA _(caught 12h ago)_
-- 👀 **[0]** [SAM — Geomatics Technician Apprentice - Survey and Mapping](https://careers.sam.biz/jobs/7780?icims=1) — Warner Robins, GA _(caught 12h ago)_
-- 👀 **[0]** [AARP — Data Analyst Intern - Advocacy Data and Technology](https://careers.aarp.org/jobs/7355?icims=1) — Washington, DC _(caught 12h ago)_
-- 👀 **[0]** [AARP — Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1) — Washington, DC _(caught 12h ago)_
-- 👀 **[0]** [Pacific Northwest National Laboratory — Masters Intern - Detection Physics](https://careers.pnnl.gov/jobs/11986?icims=1) — United States _(caught 12h ago)_
-- 👀 **[0]** [Pacific Northwest National Laboratory — Undergraduate Technical Intern - Nuclear Facility](https://careers.pnnl.gov/jobs/12027?icims=1) — Richland, WA _(caught 12h ago)_
-- 👀 **[0]** [Urban Science — Data Driven Analysis Intern - Fall 2026](https://careers-urbanscience.icims.com/jobs/5219/job?mobile=true&needsRedirect=false) — Long Beach, CA _(caught 12h ago)_
-- 👀 **[0]** [KeyBank — 2027 Summer Risk Management Internship Program- Cleveland](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Risk-Management-Internship-Program--Cleveland_R-41378) — Cleveland, OH _(caught 15h ago)_
-- 👀 **[0]** [NielsenIQ — Apprentice - Data Operations Analyst](https://jobs.smartrecruiters.com/NielsenIQ/744000143438839) — Vadodara, GJ, in _(caught 15h ago)_
-- 👀 **[0]** [Bosch Home Comfort — [Internship] Logistics Cost Clearance](https://jobs.smartrecruiters.com/BoschGroup/744000143439189) — Thu Duc City, vn _(caught 15h ago)_
-- 👀 **[0]** [Bosch Home Comfort — [Internship] IT Support Intern](https://jobs.smartrecruiters.com/BoschGroup/744000143439069) — Đồng Nai, vn _(caught 15h ago)_
-- 👀 **[0]** [Bosch Home Comfort — Internship in Quality Management](https://jobs.smartrecruiters.com/BoschGroup/744000143434864) — Penang, my _(caught 15h ago)_
-- 👀 **[0]** [ServiceNow — Intern - Marketing Associate](https://jobs.smartrecruiters.com/ServiceNow/744000143436369) — Sydney, au _(caught 15h ago)_
-- 👀 **[0]** [SchoolMint — Marketing Technology & Analytics Intern](https://job-boards.greenhouse.io/schoolmint/jobs/8697562002) — Lafayette, LA _(caught 19h ago)_
-- 👀 **[0]** [Altera Corporation — Embedded Solutions Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R02832) — Toronto, ON, Canada _(caught 19h ago)_
-- 👀 **[0]** [National Laboratory of the Rockies — Transportation Systems Analysis Intern - Year-Round](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14385) — Golden, CO _(caught 19h ago)_
-- 👀 **[0]** [Vertiv — Sales Data Analytics Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293) — Westerville, OH _(caught 19h ago)_
-- 👀 **[0]** [Vertiv — Sales Data Analytics Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279291) — Westerville, OH _(caught 19h ago)_
-- 👀 **[0]** [Vertiv — Operations Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279223) — Westerville, OH _(caught 19h ago)_
-- 👀 **[0]** [JINGDONG — JD Young Human Resources Internship](https://jd.wd103.myworkdayjobs.com/en-US/Campus_Career_Site/job/USA-Georgia-Atlanta/JD-Young-Human-Resources-Internship_JR103101) — USA-Georgia-Atlanta _(caught 21h ago)_
-- 👀 **[0]** [Nationwide Children's Hospital — Content Intern](https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/255-E-Main-St-Columbus-OH/Content-Intern_R-27393) — 255 E. Main St, Columbus, OH _(caught 23h ago)_
-- 👀 **[0]** [University of Virginia — Federal Work-Study Internship:  Digital Production Group Student Assistant (Student Wage)](https://uva.wd1.myworkdayjobs.com/en-US/uvastudentjobs/job/Charlottesville-VA/Federal-Work-Study-Internship---Digital-Production-Group-Student-Assistant--Student-Wage-_R0086293) — Charlottesville, VA _(caught 23h ago)_
-- 👀 **[0]** [Valeo — Human Resources Intern](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Reno-NV/Human-Resources-Intern_REQ2026079685) — Reno, NV _(caught 23h ago)_
-- 👀 **[0]** [Nationwide Children's Hospital — Marketing-Email Intern](https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/255-E-Main-St-Columbus-OH/Marketing-Email-Intern_R-26990-1) — 255 E. Main St, Columbus, OH _(caught 24h ago)_
-- 👀 **[0]** [Johnson & Johnson — Strategy & Execution, Prostate Co-op](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Toronto-Ontario-Canada/Strategy---Execution--Prostate-Co-op_R-092218) — Toronto, Ontario, Canada _(caught 24h ago)_
-- 👀 **[0]** [DreamWorks Animation — NBC Chicago Community Relations and Special Events Intern - Academic Year 2026-2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000143385279) — Chicago, ILLINOIS, us _(caught 24h ago)_
+- 👀 **[0]** [CSL — Intern (m/f/x) - Marketing Analytics & Forecasting HUB, International I&A](https://csl.wd1.myworkdayjobs.com/en-US/CSL_External/job/EMEA-PL-Warsaw-CSL-Behring/Intern--m-f-x----Marketing-Analytics---Forecasting-HUB--International-I-A_R-283209) — EMEA, PL, Warsaw, CSL Behring _(caught 13h ago)_
+- 👀 **[0]** [Bosch Home Comfort — C# Developer - Internship (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000143454572) — Ovar, pt _(caught 13h ago)_
+- 👀 **[0]** [KPMG — Product Specialist Intern Co-op - Asset Management Digital Solutions](https://careers.kpmg.ca/jobs/33301?icims=1) — Toronto, ON, Canada _(caught 13h ago)_
+- 👀 **[0]** [KPMG — Technical Consultant Intern Co-op - Global Compliance and Transformation](https://careers.kpmg.ca/jobs/33307?icims=1) — Toronto, ON, Canada _(caught 13h ago)_
+- 👀 **[0]** [PIMCO — Client Solutions & Analytics Analyst Intern](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605) — Newport Beach, CA _(caught 13h ago)_
+- 👀 **[0]** [Reyes Beverage Group — Commercial Analytics Intern - Beverage Alliance Support](https://jobportal.reyesbeveragegroup.com/jobs/34578?icims=1) — Irvine, CA _(caught 13h ago)_
+- 👀 **[0]** [Magnera — Data Analyst Intern - Information Technology](https://careers-magnera.icims.com/jobs/27241/job?mobile=true&needsRedirect=false) — Evansville, IN _(caught 13h ago)_
+- 👀 **[0]** [FAST Enterprises — Implementation Intern](https://careers.fastenterprises.com/jobs/1594?icims=1) — United States _(caught 13h ago)_
+- 👀 **[0]** [Analysis Group — Research Professional Intern - Generalist](https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false) — Montreal, QC, Canada, Toronto, ON, Canada _(caught 13h ago)_
+- 👀 **[0]** [Arlington County VA — Business Intelligence Intern](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1727) — Arlington County, Arlington, VA _(caught 13h ago)_
+- 👀 **[0]** [SAM — Geomatics Technician Apprentice - Survey and Mapping](https://careers.sam.biz/jobs/7674?icims=1) — Knoxville, TN _(caught 13h ago)_
+- 👀 **[0]** [SAM — Geomatics Technician Apprentice - Survey and Mapping](https://careers.sam.biz/jobs/7782?icims=1) — Atlanta, GA _(caught 13h ago)_
+- 👀 **[0]** [SAM — Geomatics Technician Apprentice - Survey and Mapping](https://careers.sam.biz/jobs/7780?icims=1) — Warner Robins, GA _(caught 13h ago)_
+- 👀 **[0]** [AARP — Data Analyst Intern - Advocacy Data and Technology](https://careers.aarp.org/jobs/7355?icims=1) — Washington, DC _(caught 13h ago)_
+- 👀 **[0]** [AARP — Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1) — Washington, DC _(caught 13h ago)_
+- 👀 **[0]** [Pacific Northwest National Laboratory — Masters Intern - Detection Physics](https://careers.pnnl.gov/jobs/11986?icims=1) — United States _(caught 13h ago)_
+- 👀 **[0]** [Pacific Northwest National Laboratory — Undergraduate Technical Intern - Nuclear Facility](https://careers.pnnl.gov/jobs/12027?icims=1) — Richland, WA _(caught 13h ago)_
+- 👀 **[0]** [Urban Science — Data Driven Analysis Intern - Fall 2026](https://careers-urbanscience.icims.com/jobs/5219/job?mobile=true&needsRedirect=false) — Long Beach, CA _(caught 13h ago)_
+- 👀 **[0]** [KeyBank — 2027 Summer Risk Management Internship Program- Cleveland](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Risk-Management-Internship-Program--Cleveland_R-41378) — Cleveland, OH _(caught 16h ago)_
+- 👀 **[0]** [NielsenIQ — Apprentice - Data Operations Analyst](https://jobs.smartrecruiters.com/NielsenIQ/744000143438839) — Vadodara, GJ, in _(caught 16h ago)_
+- 👀 **[0]** [Bosch Home Comfort — [Internship] Logistics Cost Clearance](https://jobs.smartrecruiters.com/BoschGroup/744000143439189) — Thu Duc City, vn _(caught 16h ago)_
+- 👀 **[0]** [Bosch Home Comfort — [Internship] IT Support Intern](https://jobs.smartrecruiters.com/BoschGroup/744000143439069) — Đồng Nai, vn _(caught 16h ago)_
+- 👀 **[0]** [Bosch Home Comfort — Internship in Quality Management](https://jobs.smartrecruiters.com/BoschGroup/744000143434864) — Penang, my _(caught 16h ago)_
+- 👀 **[0]** [ServiceNow — Intern - Marketing Associate](https://jobs.smartrecruiters.com/ServiceNow/744000143436369) — Sydney, au _(caught 16h ago)_
+- 👀 **[0]** [SchoolMint — Marketing Technology & Analytics Intern](https://job-boards.greenhouse.io/schoolmint/jobs/8697562002) — Lafayette, LA _(caught 20h ago)_
+- 👀 **[0]** [Altera Corporation — Embedded Solutions Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R02832) — Toronto, ON, Canada _(caught 20h ago)_
+- 👀 **[0]** [National Laboratory of the Rockies — Transportation Systems Analysis Intern - Year-Round](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14385) — Golden, CO _(caught 20h ago)_
+- 👀 **[0]** [Vertiv — Sales Data Analytics Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293) — Westerville, OH _(caught 20h ago)_
+- 👀 **[0]** [Vertiv — Sales Data Analytics Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279291) — Westerville, OH _(caught 20h ago)_
+- 👀 **[0]** [Vertiv — Operations Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279223) — Westerville, OH _(caught 20h ago)_
+- 👀 **[0]** [JINGDONG — JD Young Human Resources Internship](https://jd.wd103.myworkdayjobs.com/en-US/Campus_Career_Site/job/USA-Georgia-Atlanta/JD-Young-Human-Resources-Internship_JR103101) — USA-Georgia-Atlanta _(caught 22h ago)_
+- 👀 **[0]** [Nationwide Children's Hospital — Content Intern](https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/255-E-Main-St-Columbus-OH/Content-Intern_R-27393) — 255 E. Main St, Columbus, OH _(caught 24h ago)_
+- 👀 **[0]** [University of Virginia — Federal Work-Study Internship:  Digital Production Group Student Assistant (Student Wage)](https://uva.wd1.myworkdayjobs.com/en-US/uvastudentjobs/job/Charlottesville-VA/Federal-Work-Study-Internship---Digital-Production-Group-Student-Assistant--Student-Wage-_R0086293) — Charlottesville, VA _(caught 24h ago)_
+- 👀 **[0]** [Valeo — Human Resources Intern](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Reno-NV/Human-Resources-Intern_REQ2026079685) — Reno, NV _(caught 24h ago)_
+- 👀 **[0]** [Nationwide Children's Hospital — Marketing-Email Intern](https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/255-E-Main-St-Columbus-OH/Marketing-Email-Intern_R-26990-1) — 255 E. Main St, Columbus, OH _(caught 25h ago)_
+- 👀 **[0]** [Johnson & Johnson — Strategy & Execution, Prostate Co-op](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Toronto-Ontario-Canada/Strategy---Execution--Prostate-Co-op_R-092218) — Toronto, Ontario, Canada _(caught 25h ago)_
+- 👀 **[0]** [DreamWorks Animation — NBC Chicago Community Relations and Special Events Intern - Academic Year 2026-2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000143385279) — Chicago, ILLINOIS, us _(caught 25h ago)_
 - 👀 **[0]** [National Laboratory of the Rockies — Graduate (Year-Round) Intern - Transportation Systems Analysis](https://nrel.wd5.myworkdayjobs.com/en-US/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14385) — Golden, CO _(caught 25h ago)_
 - 👀 **[0]** [Dexterra Group — Organizational Development CO-OP Student](https://jobs.smartrecruiters.com/Dexterra/744000143383669) — Mississauga, Ontario, ca _(caught 25h ago)_
 - 👀 **[0]** [Micron Technology — Intern - DRAM Process Integration](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Process-Integration_JR108075) — Boise, ID - Main Site _(caught 27h ago)_
@@ -244,19 +246,18 @@ _Generated 2026-08-14 20:29. Best-scored first. ✅ = you were pinged, 👀 = di
 - 👀 **[0]** [Picton Mahoney Asset Management — Business Data Analyst Intern](https://pictonmahoney.bamboohr.com/careers/356/) — Toronto, ON, Canada _(caught 35h ago)_
 - 👀 **[0]** [Specter Aerospace — Image Processing Co-op](https://specteraerospace.bamboohr.com/careers/121/) — Boston, MA _(caught 35h ago)_
 - 👀 **[0]** [TikTok — Data Science Intern - Advertisement Team](https://lifeattiktok.com/search/7673226686054107445) — San Jose, CA _(caught 35h ago)_
-- 👀 **[0]** [Eurofins — Internship - Field Work](https://jobs.smartrecruiters.com/Eurofins/744000143249559) — Johor Bahru, Johor, my _(caught 36h ago)_
-- 👀 **[0]** [ConnectPrep — Data Analyst Internship](https://apply.workable.com/connectprep/j/D1C67258C0/) — Washington, District of Columbia, United States _(caught 39h ago)_
-- 👀 **[0]** [Continental — Internship Student (Supply Chain APAC) - นักศึกษาฝึกงาน](https://jobs.smartrecruiters.com/Continental/744000143203767) — Tambon Thapma, จ.ระยอง, th _(caught 41h ago)_
-- 👀 **[0]** [Bosch Home Comfort — [BD] Internship - SAP Developer (JS, Java, ABAP, Fiori, BTP)](https://jobs.smartrecruiters.com/BoschGroup/744000143222859) — Ho Chi Minh city, vn _(caught 41h ago)_
-- 👀 **[0]** [Bosch Home Comfort — [FCM] Operation Admin Intern (Non-Tech Background)](https://jobs.smartrecruiters.com/BoschGroup/744000143216983) — Ho Chi Minh, Tan Binh, vn _(caught 41h ago)_
-- 👀 **[0]** [Eurofins — [Tan Phu, HCM] SL - Intern Lab Assistant / Thực tập sinh Phòng thí nghiệm ](https://jobs.smartrecruiters.com/Eurofins/744000143221199) — Ho Chi Minh, Tan Phu, vn _(caught 41h ago)_
-- 👀 **[0]** [Navy Federal — Data Scientist Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/31873) — Pensacola, FL, Vienna, VA _(caught 41h ago)_
-- 👀 **[0]** [Heidelberg Materials — Master Data Intern - Service & Support](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Master-Data-Intern_JR10017954-1) — Irving, TX _(caught 41h ago)_
-- 👀 **[0]** [IES Holdings — Data Analytics Intern](https://joinus.ies-co.com/jobs/24176?icims=1) — Manitowoc, WI _(caught 41h ago)_
-- 👀 **[0]** [Epic Games — Gameplay Programmer Intern](https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004) — Cary, NC _(caught 41h ago)_
+- 👀 **[0]** [Eurofins — Internship - Field Work](https://jobs.smartrecruiters.com/Eurofins/744000143249559) — Johor Bahru, Johor, my _(caught 37h ago)_
+- 👀 **[0]** [ConnectPrep — Data Analyst Internship](https://apply.workable.com/connectprep/j/D1C67258C0/) — Washington, District of Columbia, United States _(caught 40h ago)_
+- 👀 **[0]** [Continental — Internship Student (Supply Chain APAC) - นักศึกษาฝึกงาน](https://jobs.smartrecruiters.com/Continental/744000143203767) — Tambon Thapma, จ.ระยอง, th _(caught 42h ago)_
+- 👀 **[0]** [Bosch Home Comfort — [BD] Internship - SAP Developer (JS, Java, ABAP, Fiori, BTP)](https://jobs.smartrecruiters.com/BoschGroup/744000143222859) — Ho Chi Minh city, vn _(caught 42h ago)_
+- 👀 **[0]** [Bosch Home Comfort — [FCM] Operation Admin Intern (Non-Tech Background)](https://jobs.smartrecruiters.com/BoschGroup/744000143216983) — Ho Chi Minh, Tan Binh, vn _(caught 42h ago)_
+- 👀 **[0]** [Eurofins — [Tan Phu, HCM] SL - Intern Lab Assistant / Thực tập sinh Phòng thí nghiệm ](https://jobs.smartrecruiters.com/Eurofins/744000143221199) — Ho Chi Minh, Tan Phu, vn _(caught 42h ago)_
+- 👀 **[0]** [Navy Federal — Data Scientist Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/31873) — Pensacola, FL, Vienna, VA _(caught 42h ago)_
+- 👀 **[0]** [Heidelberg Materials — Master Data Intern - Service & Support](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Master-Data-Intern_JR10017954-1) — Irving, TX _(caught 42h ago)_
+- 👀 **[0]** [IES Holdings — Data Analytics Intern](https://joinus.ies-co.com/jobs/24176?icims=1) — Manitowoc, WI _(caught 42h ago)_
+- 👀 **[0]** [Epic Games — Gameplay Programmer Intern](https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004) — Cary, NC _(caught 42h ago)_
 - 👀 **[0]** [Rocket Lab USA — Supply Chain Intern Fall 2026](https://job-boards.greenhouse.io/rocketlab/jobs/7728092003) — Long Beach, CA _(caught 45h ago)_
 - 👀 **[0]** [nVent — SHE Intern](https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Matamoros-MX/SHE-Intern_R22867) — Matamoros, MX _(caught 45h ago)_
-- 👀 **[0]** [Vertiv — IT Systems Product Management Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239) — Westerville, OH _(caught 46h ago)_
-- 👀 **[0]** [Vertiv — Product Management Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958) — Delaware, OH _(caught 46h ago)_
-- 👀 **[0]** [Micron Technology — Surface Scientist Intern - Corporate Labs](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Corporate-Labs_JR108442) — Boise, ID _(caught 46h ago)_
-- 👀 **[0]** [Ameren — CAD Technician Co-op](https://ameren.wd1.myworkdayjobs.com/en-US/External/job/St-Louis-MO/CAD-Technician-Co-op_033920-1) — St. Louis, MO _(caught 48h ago)_
+- 👀 **[0]** [Vertiv — IT Systems Product Management Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239) — Westerville, OH _(caught 47h ago)_
+- 👀 **[0]** [Vertiv — Product Management Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958) — Delaware, OH _(caught 47h ago)_
+- 👀 **[0]** [Micron Technology — Surface Scientist Intern - Corporate Labs](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Corporate-Labs_JR108442) — Boise, ID _(caught 47h ago)_
