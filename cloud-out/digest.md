@@ -582,3 +582,7 @@
 ## 2026-08-14 10:32 — 1 new postings
 
 - [0] Accenture — Workplace Support Intern (part-time for students) — https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bratislava/Workplace-Support-Intern--part-time-for-students-_R00351141-1
+
+## 2026-08-14 11:27 — 1 new postings
+
+- [0] Bosch Home Comfort — Internship Sales Development Europe (Stuttgart, BW, de) — https://jobs.smartrecruiters.com/BoschGroup/744000143491499
