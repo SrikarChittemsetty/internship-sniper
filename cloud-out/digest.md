@@ -551,3 +551,30 @@
 - [0] Bosch Home Comfort — [Internship] IT Support Intern (Đồng Nai, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143439069
 - [0] Bosch Home Comfort — Internship in Quality Management (Penang, my) — https://jobs.smartrecruiters.com/BoschGroup/744000143434864
 - [0] ServiceNow — Intern - Marketing Associate (Sydney, au) — https://jobs.smartrecruiters.com/ServiceNow/744000143436369
+
+## 2026-08-14 08:09 — 24 new postings
+
+- [4] MaxLinear — AI Intern (Carlsbad, CA) — https://careersus-maxlinear.icims.com/jobs/3049/job?mobile=true&needsRedirect=false
+- [4] GSK — AI Commercial Strategy & Activation Co-op - AI Strike Team (Durham, NC) — https://gsk-us-earlytalent.icims.com/jobs/10444/job?mobile=true&needsRedirect=false
+- [1] Bank of China USA — Data Analytics Audit Intern (NYC) — https://careers-bocusa.icims.com/jobs/4114/job?mobile=true&needsRedirect=false
+- [1] Bank of China USA — Enterprise Risk Management Risk Data Aggregation Intern (NYC) — https://careers-bocusa.icims.com/jobs/4326/job?mobile=true&needsRedirect=false
+- [1] Bank of China USA — Risk Data Aggregation Intern - Enterprise Risk Management Department (NYC) — https://careers-bocusa.icims.com/jobs/4470/job?mobile=true&needsRedirect=false
+- [1] KeyBank — Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling (Cleveland, OH) — https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380
+- [0] CSL — Intern (m/f/x) - Marketing Analytics & Forecasting HUB, International I&A (EMEA, PL, Warsaw, CSL Behring) — https://csl.wd1.myworkdayjobs.com/en-US/CSL_External/job/EMEA-PL-Warsaw-CSL-Behring/Intern--m-f-x----Marketing-Analytics---Forecasting-HUB--International-I-A_R-283209
+- [0] Bosch Home Comfort — C# Developer - Internship (f/m/div.) (Ovar, pt) — https://jobs.smartrecruiters.com/BoschGroup/744000143454572
+- [0] KPMG — Product Specialist Intern Co-op - Asset Management Digital Solutions (Toronto, ON, Canada) — https://careers.kpmg.ca/jobs/33301?icims=1
+- [0] KPMG — Technical Consultant Intern Co-op - Global Compliance and Transformation (Toronto, ON, Canada) — https://careers.kpmg.ca/jobs/33307?icims=1
+- [0] PIMCO — Client Solutions & Analytics Analyst Intern (Newport Beach, CA) — https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605
+- [0] Reyes Beverage Group — Commercial Analytics Intern - Beverage Alliance Support (Irvine, CA) — https://jobportal.reyesbeveragegroup.com/jobs/34578?icims=1
+- [0] Magnera — Data Analyst Intern - Information Technology (Evansville, IN) — https://careers-magnera.icims.com/jobs/27241/job?mobile=true&needsRedirect=false
+- [0] FAST Enterprises — Implementation Intern (United States) — https://careers.fastenterprises.com/jobs/1594?icims=1
+- [0] Analysis Group — Research Professional Intern - Generalist (Montreal, QC, Canada, Toronto, ON, Canada) — https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false
+- [0] Arlington County VA — Business Intelligence Intern (Arlington County, Arlington, VA) — https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1727
+- [0] SAM — Geomatics Technician Apprentice - Survey and Mapping (Knoxville, TN) — https://careers.sam.biz/jobs/7674?icims=1
+- [0] SAM — Geomatics Technician Apprentice - Survey and Mapping (Atlanta, GA) — https://careers.sam.biz/jobs/7782?icims=1
+- [0] SAM — Geomatics Technician Apprentice - Survey and Mapping (Warner Robins, GA) — https://careers.sam.biz/jobs/7780?icims=1
+- [0] AARP — Data Analyst Intern - Advocacy Data and Technology (Washington, DC) — https://careers.aarp.org/jobs/7355?icims=1
+- [0] AARP — Data Science and Advanced Analytics Intern (Washington, DC) — https://careers.aarp.org/jobs/7437?icims=1
+- [0] Pacific Northwest National Laboratory — Masters Intern - Detection Physics (United States) — https://careers.pnnl.gov/jobs/11986?icims=1
+- [0] Pacific Northwest National Laboratory — Undergraduate Technical Intern - Nuclear Facility (Richland, WA) — https://careers.pnnl.gov/jobs/12027?icims=1
+- [0] Urban Science — Data Driven Analysis Intern - Fall 2026 (Long Beach, CA) — https://careers-urbanscience.icims.com/jobs/5219/job?mobile=true&needsRedirect=false
