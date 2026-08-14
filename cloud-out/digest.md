@@ -602,3 +602,10 @@
 - [0] Johnson Controls — HVAC Truck Based Apprentice (un) (Rockville-Virginia-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Rockville-Virginia-United-States-of-America/HVAC-Truck-Based-Apprentice--un-_WD30277093
 - [0] Wabtec — Intern, Finance (Contagem, MG, br) — https://jobs.smartrecruiters.com/Wabtec/3743990014600799
 - [0] MSX International — Warranty Assessor Apprentice (Colchester, gb) — https://jobs.smartrecruiters.com/MSXInternational/3743990014600236
+
+## 2026-08-14 14:39 — 4 new postings
+
+- [3] GE Healthcare — Client Service Technician Apprentice (Remote) — https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043136-1
+- [0] Autodesk — Intern, Research Associate (HCI) (Toronto, ON, CAN) — https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--Research-Associate--HCI-_26WD100593-1
+- [0] Nationwide Children's Hospital — Marketing Fall Intern-Population Health (255 E. Main St, Columbus, OH) — https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/255-E-Main-St-Columbus-OH/Marketing-Fall-Intern-Population-Health_R-27485-1
+- [0] MultiCare Health System — RN Resident/Fellow - Medical/Onc (Nights) Deaconess October 6th cohort — https://multicare.wd1.myworkdayjobs.com/en-US/multicare/job/Spokane-Washington/RN-Resident-Fellow---Medical-Deaconess-November-18th-cohort_JR31209-1
