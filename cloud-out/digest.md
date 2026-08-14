@@ -660,3 +660,8 @@
 
 - [4] The Nuclear Company — Spring 2027 AI Applied Research Internship (Washington, DC) — https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008
 - [0] GenScript — Payroll Tax Intern (Piscataway, New Jersey, United States) — https://job-boards.greenhouse.io/genscript/jobs/5212805007
+
+## 2026-08-14 21:20 — 2 new postings
+
+- [4] The Nuclear Company — Summer 2027 AI Applied Research Internship (Washington, DC) — https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008
+- [0] Live Nation Entertainment — Brand Partnerships Intern (Fall 2026) (Toronto, ON) — https://livenation.wd503.myworkdayjobs.com/en-US/LNExternalSite/job/Toronto-ON/Brand-Partnerships-Intern--Fall-2026-_JR-92460
