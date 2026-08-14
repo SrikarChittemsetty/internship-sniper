@@ -649,3 +649,9 @@
 - [4] CCC Intelligent Solutions — AI Enablement Intern (Chicago (Green St), IL) — https://cccis.wd1.myworkdayjobs.com/en-US/broadbean_external/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014851
 - [0] University of Pikeville — Economic Development and Tourism Assistant Intern (Pikeville, KY) — https://upike.bamboohr.com/careers/491/
 - [0] PGIM — Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group (Newark, NJ) — https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835
+
+## 2026-08-14 20:29 — 3 new postings
+
+- [0] Bank of Montreal — Commercial Banking Credit Analyst Internship, Summer 2027 (Co-op/Internship) - 4 months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Commercial-Banking-Credit-Analyst-Internship--Summer-2027--Co-op-Internship----4-months_R260022353
+- [0] Heidelberg Materials — Corporate Controller Intern (Irving, TX) — https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Irving-TX/Corporate-Controller-Intern_JR10018017
+- [0] Corewell Health — RN OR Intern — https://spectrumhealth.wd5.myworkdayjobs.com/en-US/CorewellHealthCareers/job/Royal-Oak-MI/RN-OR-Intern_R222155
