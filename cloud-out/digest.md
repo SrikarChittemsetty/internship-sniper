@@ -586,3 +586,11 @@
 ## 2026-08-14 11:27 — 1 new postings
 
 - [0] Bosch Home Comfort — Internship Sales Development Europe (Stuttgart, BW, de) — https://jobs.smartrecruiters.com/BoschGroup/744000143491499
+
+## 2026-08-14 12:07 — 5 new postings
+
+- [3] Allstate Insurance Company — Pricing Actuarial Analyst Intern (USA - IL (Remote)) — https://allstate.wd5.myworkdayjobs.com/en-US/sourcing_event/job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1
+- [0] MSX International — Warranty Assessor Apprentice (Colchester, gb) — https://jobs.smartrecruiters.com/MSXInternational/3743990014600006
+- [0] TikTok — Product Manager Intern - Content and Services (San Jose, CA) — https://lifeattiktok.com/search/7673337777708550405
+- [0] TikTok — Product Manager Intern - Scaled Growth (San Jose, CA) — https://lifeattiktok.com/search/7673559305519794437
+- [0] TikTok — Product Solutions and Operations Intern - Commerce Ads (San Jose, CA) — https://lifeattiktok.com/search/7673340525029673221
