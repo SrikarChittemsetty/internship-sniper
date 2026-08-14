@@ -643,3 +643,9 @@
 - [0] Red Bull — 2026 Internship, Fall - Game Presentation & Entertainment (Harrison, NJ, us) — https://jobs.smartrecruiters.com/RedBull/744000143582954
 - [0] Red Bull — 2026 Internship, Fall - Youth Programs Marketing (Harrison, NJ, us) — https://jobs.smartrecruiters.com/RedBull/744000143581479
 - [0] Boston Medical Center — Student Intern High School (Boston) — https://bmc.wd1.myworkdayjobs.com/en-US/BMC/job/Boston/Student-Intern-High-School_50672
+
+## 2026-08-14 19:58 — 3 new postings
+
+- [4] CCC Intelligent Solutions — AI Enablement Intern (Chicago (Green St), IL) — https://cccis.wd1.myworkdayjobs.com/en-US/broadbean_external/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014851
+- [0] University of Pikeville — Economic Development and Tourism Assistant Intern (Pikeville, KY) — https://upike.bamboohr.com/careers/491/
+- [0] PGIM — Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group (Newark, NJ) — https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835
