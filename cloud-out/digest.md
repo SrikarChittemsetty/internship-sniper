@@ -665,3 +665,18 @@
 
 - [4] The Nuclear Company — Summer 2027 AI Applied Research Internship (Washington, DC) — https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008
 - [0] Live Nation Entertainment — Brand Partnerships Intern (Fall 2026) (Toronto, ON) — https://livenation.wd503.myworkdayjobs.com/en-US/LNExternalSite/job/Toronto-ON/Brand-Partnerships-Intern--Fall-2026-_JR-92460
+
+## 2026-08-14 23:24 — 12 new postings
+
+- [4] The Nuclear Company — Data Science & Machine Learning Fellow Intern (Washington, DC) — https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008
+- [4] The Nuclear Company — AI Applied Research Intern (Washington, DC) — https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008
+- [4] onsemi — Tax AI and Automation Intern (Scottsdale, AZ) — https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506307
+- [0] Arevon — Data Science Intern - Interconnection & Transmission (Scottsdale, AZ) — https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5211455007
+- [0] BP — Geoscience Intern - Geoscientist (Houston, TX) — https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Geoscientist---Houston-TX_RQ114816
+- [0] WEC Energy Group — Renewables Data Analytics Intern (Milwaukee, WI, Green Bay, WI) — https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Intern-Renewables-Data-Analytics-WI-53203/1419740100/?ats=successfactors
+- [0] Snap — Research Scientist Intern - User Modeling and Personalization (LA, Bellevue, WA) — https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Bellevue-Washington/Research-Intern--User-Modeling-and-Personalization_R0046464-1
+- [0] Prudential Financial — Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group (Newark, NJ) — https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835-2
+- [0] Vertiv — Planning Analytics Intern - Summer 2027 (Westerville, OH) — https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279236
+- [0] Hershey — Product Development Intern - R&D (Hershey, PA) — https://careers.thehersheycompany.com/job/Hershey-Future-Opportunities-Product-Development-Intern-R&D-(Summer-2027)-PA-17033/1419784700/?ats=successfactors
+- [0] BerryDunn — Consulting Intern - Healthcare Data Management and Strategy (Portland, ME) — https://careers-berrydunn.icims.com/jobs/3973/job?mobile=true&needsRedirect=false
+- [0] GuideWell Mutual — Enterprise Analytics Intern (Jacksonville, FL) — http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41879
