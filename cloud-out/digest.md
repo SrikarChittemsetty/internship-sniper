@@ -633,3 +633,7 @@
 - [0] AECOM — Inspection Intern (Springfield, MA, us) — https://jobs.smartrecruiters.com/AECOM2/744000143560665
 - [0] AECOM — Inspection Intern (New Haven, CT, us) — https://jobs.smartrecruiters.com/AECOM2/744000143560894
 - [0] AECOM — Inspection Intern (Rocky Hill, CT, us) — https://jobs.smartrecruiters.com/AECOM2/744000143560500
+
+## 2026-08-14 18:14 — 1 new postings
+
+- [0] EisnerAmper — 2027 Assurance Summer Intern (Boston) — https://eisneramper.wd1.myworkdayjobs.com/en-US/EisnerAmperEarlyCareers/job/Boston/XMLNAME-2027-Assurance-Summer-Intern_Req-8560
