@@ -578,3 +578,7 @@
 - [0] Pacific Northwest National Laboratory — Masters Intern - Detection Physics (United States) — https://careers.pnnl.gov/jobs/11986?icims=1
 - [0] Pacific Northwest National Laboratory — Undergraduate Technical Intern - Nuclear Facility (Richland, WA) — https://careers.pnnl.gov/jobs/12027?icims=1
 - [0] Urban Science — Data Driven Analysis Intern - Fall 2026 (Long Beach, CA) — https://careers-urbanscience.icims.com/jobs/5219/job?mobile=true&needsRedirect=false
+
+## 2026-08-14 10:32 — 1 new postings
+
+- [0] Accenture — Workplace Support Intern (part-time for students) — https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bratislava/Workplace-Support-Intern--part-time-for-students-_R00351141-1
