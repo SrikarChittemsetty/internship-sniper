@@ -613,3 +613,13 @@
 ## 2026-08-14 15:33 — 1 new postings
 
 - [0] Société Générale de Surveillance (SGS) — Summer Internship - Lab Technician (Appleton, WI, us) — https://jobs.smartrecruiters.com/SGS/744000143536639
+
+## 2026-08-14 16:26 — 7 new postings
+
+- [1] TD Bank — 2027 Intern (New York, New York) — https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Intern_R_1504375
+- [1] Vendelux — Fall Data Intern (New York, NY) — https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd
+- [0] CNO Financial Group — Summer 2027 Commercial Mortgage and Real Estate Intern - ONSITE Carmel, IN (Carmel, IN) — https://cnoinc.wd5.myworkdayjobs.com/en-US/Careers/job/Carmel-IN/Summer-2027-Commercial-Mortgage-and-Real-Estate-Intern---ONSITE-Carmel--IN_JR170427
+- [0] Carnegie Mellon University — Gilman Archive Intern (Non-CMU student) - Archives Department - UEIS (Pittsburgh, PA) — https://cmu.wd5.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/Gilman-Archive-Intern--Non-CMU-student----Archives-Department---UEIS_2024942
+- [0] Fidelity Investments — Developing Investors Student Experience Internship - Summer 2027 (Boston, MA) — https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Developing-Investors-Student-Experience-Internship---Summer-2027_2126946
+- [0] DreamWorks Animation — NBCU Local Chicago News Intern – Academic Year 2026-2027 (Chicago, ILLINOIS, us) — https://jobs.smartrecruiters.com/NBCUniversal3/744000143548059
+- [0] New Balance — Numeric Footwear Design Apprentice (Long Beach, CA) — https://newbalance.wd1.myworkdayjobs.com/en-US/careers/job/Long-Beach-CA/Numeric-Footwear-Design-Apprentice_R39666
