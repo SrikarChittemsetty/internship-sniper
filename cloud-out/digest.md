@@ -699,3 +699,9 @@
 ## 2026-08-15 05:39 — 1 new postings
 
 - [1] Human Computer Lab — Intern - Animator and Rigging Artist (San Francisco, Toronto) — https://jobs.ashbyhq.com/human-computer-lab/6f3e8185-eb3a-42c3-b8c4-1c2837d5e9e1
+
+## 2026-08-15 15:56 — 3 new postings
+
+- [2] Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats (NYC) — https://higher.gs.com/roles/171535?type=students
+- [2] Goldman Sachs — Quantitative Strategist Intern - Multiple Teams (NYC) — https://higher.gs.com/roles/171563?type=students
+- [0] Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading (West Palm Beach, FL) — https://higher.gs.com/roles/181628?type=students
