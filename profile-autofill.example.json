@@ -1,0 +1,19 @@
+{
+ "first_name": "FILL_ME",
+ "last_name": "FILL_ME",
+ "full_name": "FILL_ME",
+ "email": "FILL_ME",
+ "phone": "FILL_ME",
+ "linkedin": "FILL_ME (full URL)",
+ "github": "FILL_ME (full URL)",
+ "school": "FILL_ME (exact official university name)",
+ "grad_year": "FILL_ME (e.g. 2028)",
+ "location": "FILL_ME (City, ST)",
+ "us_state": "FILL_ME (e.g. California)",
+ "pronouns": "FILL_ME (or 'decline')",
+ "us_work_authorized": true,
+ "needs_sponsorship": false,
+ "has_relevant_internship": true,
+ "resume_path": "FILL_ME (~/path/to/resume.pdf)",
+ "major": "FILL_ME (e.g. Computer Science)"
+}

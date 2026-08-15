@@ -6,3 +6,4 @@ err*.log
 state/
 out/
 profile.md
+profile-autofill.json
