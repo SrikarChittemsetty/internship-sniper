@@ -691,3 +691,7 @@
 - [0] Crowe — Data Analytics Developer Intern - Consulting Practice (Chicago, IL) — https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041
 - [0] Crowe — NetSuite Implementation Intern - Consulting Practice (Chicago, IL) — https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/NetSuite-Implementation-Intern_R-71040
 - [0] Dallas College — SAS Intern (El Centro, CA) — https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers/job/El-Centro-Campus-R-Building/SAS-Intern_R13709
+
+## 2026-08-15 05:04 — 1 new postings
+
+- [1] Goldman Sachs — Summer Associate Intern - Multiple Teams (NYC) — https://higher.gs.com/roles/171566?type=students
