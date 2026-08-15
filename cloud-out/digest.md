@@ -680,3 +680,14 @@
 - [0] Hershey — Product Development Intern - R&D (Hershey, PA) — https://careers.thehersheycompany.com/job/Hershey-Future-Opportunities-Product-Development-Intern-R&D-(Summer-2027)-PA-17033/1419784700/?ats=successfactors
 - [0] BerryDunn — Consulting Intern - Healthcare Data Management and Strategy (Portland, ME) — https://careers-berrydunn.icims.com/jobs/3973/job?mobile=true&needsRedirect=false
 - [0] GuideWell Mutual — Enterprise Analytics Intern (Jacksonville, FL) — http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41879
+
+## 2026-08-15 02:46 — 8 new postings
+
+- [1] Vendelux — Data Intern (NYC) — https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd/application?embed=true
+- [0] AltaGas — Data Science and Analytics Co-op (Calgary, AB, Canada) — https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/Data-Science-and-Analytics-Co-op-Student_R7171
+- [0] Crowe — Data Consultant Intern (Chicago, IL) — https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Consultant-Intern_R-71042
+- [0] Crowe — D365 ERP Technical Intern - Consulting Practice (Chicago, IL) — https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/D365-ERP-Technical-Intern_R-71039
+- [0] Crowe — ServiceNow Implementation Intern - ServiceNow Cloud Solutions (Chicago, IL) — https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/ServiceNow-Implementation-Intern_R-71036
+- [0] Crowe — Data Analytics Developer Intern - Consulting Practice (Chicago, IL) — https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041
+- [0] Crowe — NetSuite Implementation Intern - Consulting Practice (Chicago, IL) — https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/NetSuite-Implementation-Intern_R-71040
+- [0] Dallas College — SAS Intern (El Centro, CA) — https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers/job/El-Centro-Campus-R-Building/SAS-Intern_R13709
