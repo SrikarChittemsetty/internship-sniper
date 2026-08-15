@@ -1,0 +1,1 @@
+- **2026-08-15 10:59** [Microsoft Explore (underclassmen)] page text now mentions *application/applications/apply/applying*: “explore program internships software engineer ii data intelligence united states washington redmond days week in office lt gt overview lt gt lt br gt lt gt microsoft digital msd bu…” — [check](https://careers.microsoft.com/v2/global/en/exploremicrosoft)
