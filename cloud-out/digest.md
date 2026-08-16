@@ -713,3 +713,7 @@
 ## 2026-08-16 07:09 — 1 new postings
 
 - [0] Micron Technology — Intern - DRAM PI (Boise, ID - Main Site) — https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-PI_JR107483
+
+## 2026-08-16 17:35 — 1 new postings
+
+- [1] Clera — Founder Associate Intern (San Francisco) — https://jobs.ashbyhq.com/clera/370fcfdb-d43c-4b57-913f-b1f93cf073d4
