@@ -705,3 +705,7 @@
 - [2] Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats (NYC) — https://higher.gs.com/roles/171535?type=students
 - [2] Goldman Sachs — Quantitative Strategist Intern - Multiple Teams (NYC) — https://higher.gs.com/roles/171563?type=students
 - [0] Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading (West Palm Beach, FL) — https://higher.gs.com/roles/181628?type=students
+
+## 2026-08-16 04:59 — 1 new postings
+
+- [0] Occidental Petroleum Corporation (Oxy) — Geophysics Intern (Houston, TX, The Woodlands, TX, Denver, CO) — https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geophysics-Intern_JR110203
