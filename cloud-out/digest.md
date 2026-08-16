@@ -709,3 +709,7 @@
 ## 2026-08-16 04:59 — 1 new postings
 
 - [0] Occidental Petroleum Corporation (Oxy) — Geophysics Intern (Houston, TX, The Woodlands, TX, Denver, CO) — https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geophysics-Intern_JR110203
+
+## 2026-08-16 07:09 — 1 new postings
+
+- [0] Micron Technology — Intern - DRAM PI (Boise, ID - Main Site) — https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-PI_JR107483
