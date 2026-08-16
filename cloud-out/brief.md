@@ -1,13 +1,13 @@
 # Morning brief — new postings, last 48h
 
-_Generated 2026-08-16 21:57. Best-scored first. ✅ = you were pinged, 👀 = digest-only (below threshold)._
+_Generated 2026-08-16 22:15. Best-scored first. ✅ = you were pinged, 👀 = digest-only (below threshold)._
 
 - ✅ **[12]** [Photon — Software Engineering Intern - AI](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738) — Remote in USA _(caught 17h ago)_
 - ✅ **[9]** [ByteDance — Software Engineer Intern - Global Payment Infra and SRE](https://jobs.bytedance.com/en/position/7668315137242351925/detail) — San Jose, CA _(caught 43h ago)_
 - ✅ **[9]** [ByteDance — Software Engineer Intern - Traffic Infrastructure](https://jobs.bytedance.com/en/position/7672626707586746629/detail) — San Jose, CA _(caught 43h ago)_
 - ✅ **[9]** [Motorola — Android Platform Software Engineer Intern - Summer 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1) — Schaumburg, IL, Plantation, FL _(caught 47h ago)_
 - ✅ **[8]** [First American — Software Engineering Intern](https://firstam.wd1.myworkdayjobs.com/en-US/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260) — USA, California, Remote _(caught 47h ago)_
-- ✅ **[8]** [First American — Software Engineering Intern](https://firstam.wd1.myworkdayjobs.com/en-US/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058261) — USA, California, Remote _(caught 47h ago)_
+- ✅ **[8]** [First American — Software Engineering Intern](https://firstam.wd1.myworkdayjobs.com/en-US/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058261) — USA, California, Remote _(caught 48h ago)_
 - ✅ **[6]** [Abridge — Software Engineer Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true) — SF, NYC _(caught 41h ago)_
 - ✅ **[6]** [Notion — Software Engineer Intern - Winter 2027](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application?embed=true) — SF, NYC _(caught 43h ago)_
 - ✅ **[6]** [Notion — Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true) — SF, NYC _(caught 43h ago)_
@@ -50,8 +50,8 @@ _Generated 2026-08-16 21:57. Best-scored first. ✅ = you were pinged, 👀 = di
 - 👀 **[4]** [onsemi — Tax AI and Automation Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506307) — Scottsdale, AZ _(caught 47h ago)_
 - 👀 **[2]** [Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171535?type=students) — NYC _(caught 30h ago)_
 - 👀 **[2]** [Goldman Sachs — Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/171563?type=students) — NYC _(caught 30h ago)_
-- 👀 **[1]** [Clera — Founder Associate Intern](https://jobs.ashbyhq.com/clera/370fcfdb-d43c-4b57-913f-b1f93cf073d4) — San Francisco _(caught 4h ago)_
-- 👀 **[1]** [Human Computer Lab — Intern - Animator and Rigging Artist](https://jobs.ashbyhq.com/human-computer-lab/6f3e8185-eb3a-42c3-b8c4-1c2837d5e9e1) — San Francisco, Toronto _(caught 40h ago)_
+- 👀 **[1]** [Clera — Founder Associate Intern](https://jobs.ashbyhq.com/clera/370fcfdb-d43c-4b57-913f-b1f93cf073d4) — San Francisco _(caught 5h ago)_
+- 👀 **[1]** [Human Computer Lab — Intern - Animator and Rigging Artist](https://jobs.ashbyhq.com/human-computer-lab/6f3e8185-eb3a-42c3-b8c4-1c2837d5e9e1) — San Francisco, Toronto _(caught 41h ago)_
 - 👀 **[1]** [Goldman Sachs — Summer Associate Intern - Multiple Teams](https://higher.gs.com/roles/171566?type=students) — NYC _(caught 41h ago)_
 - 👀 **[1]** [Vendelux — Data Intern](https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd/application?embed=true) — NYC _(caught 43h ago)_
 - 👀 **[0]** [Micron Technology — Intern - DRAM PI](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-PI_JR107483) — Boise, ID - Main Site _(caught 15h ago)_
