@@ -1,6 +1,6 @@
 # Morning brief — new postings, last 48h
 
-_Generated 2026-08-16 19:42. Best-scored first. ✅ = you were pinged, 👀 = digest-only (below threshold)._
+_Generated 2026-08-16 19:54. Best-scored first. ✅ = you were pinged, 👀 = digest-only (below threshold)._
 
 - ✅ **[12]** [Photon — Software Engineering Intern - AI](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738) — Remote in USA _(caught 15h ago)_
 - ✅ **[9]** [ByteDance — Software Engineer Intern - Global Payment Infra and SRE](https://jobs.bytedance.com/en/position/7668315137242351925/detail) — San Jose, CA _(caught 41h ago)_
@@ -45,12 +45,12 @@ _Generated 2026-08-16 19:42. Best-scored first. ✅ = you were pinged, 👀 = di
 - ✅ **[5]** [RTX — Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Software-Engineering-Intern--Summer-2027-_01866619) — El Segundo, CA _(caught 44h ago)_
 - ✅ **[5]** [RTX — Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Software-Engineering-Intern--Summer-2027-_01866681) — Burnsville, MN _(caught 44h ago)_
 - ✅ **[5]** [RTX — Electrical Computer-Aided Design Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1) — Tucson, AZ _(caught 44h ago)_
-- ✅ **[5]** [Envista — Process Engineering Intern](https://envista.wd1.myworkdayjobs.com/en-US/envistacareers/job/United-States-of-America--California--Yorba-Linda/Process-Engineering-Intern_R5026778) — United States of America,  California,  Yorba Linda _(caught 46h ago)_
+- ✅ **[5]** [Envista — Process Engineering Intern](https://envista.wd1.myworkdayjobs.com/en-US/envistacareers/job/United-States-of-America--California--Yorba-Linda/Process-Engineering-Intern_R5026778) — United States of America,  California,  Yorba Linda _(caught 47h ago)_
 - ✅ **[5]** [Schweitzer Engineering Laboratories — Test Engineer Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-22411) — Pullman, WA _(caught 48h ago)_
 - 👀 **[4]** [The Nuclear Company — Data Science & Machine Learning Fellow Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008) — Washington, DC _(caught 44h ago)_
 - 👀 **[4]** [The Nuclear Company — AI Applied Research Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008) — Washington, DC _(caught 44h ago)_
 - 👀 **[4]** [onsemi — Tax AI and Automation Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506307) — Scottsdale, AZ _(caught 44h ago)_
-- 👀 **[4]** [The Nuclear Company — Summer 2027 AI Applied Research Internship](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008) — Washington, DC _(caught 46h ago)_
+- 👀 **[4]** [The Nuclear Company — Summer 2027 AI Applied Research Internship](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008) — Washington, DC _(caught 47h ago)_
 - 👀 **[4]** [The Nuclear Company — Spring 2027 AI Applied Research Internship](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008) — Washington, DC _(caught 47h ago)_
 - 👀 **[4]** [CCC Intelligent Solutions — AI Enablement Intern](https://cccis.wd1.myworkdayjobs.com/en-US/broadbean_external/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014851) — Chicago (Green St), IL _(caught 48h ago)_
 - 👀 **[2]** [Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171535?type=students) — NYC _(caught 28h ago)_
@@ -79,7 +79,7 @@ _Generated 2026-08-16 19:42. Best-scored first. ✅ = you were pinged, 👀 = di
 - 👀 **[0]** [Hershey — Product Development Intern - R&D](https://careers.thehersheycompany.com/job/Hershey-Future-Opportunities-Product-Development-Intern-R&D-(Summer-2027)-PA-17033/1419784700/?ats=successfactors) — Hershey, PA _(caught 44h ago)_
 - 👀 **[0]** [BerryDunn — Consulting Intern - Healthcare Data Management and Strategy](https://careers-berrydunn.icims.com/jobs/3973/job?mobile=true&needsRedirect=false) — Portland, ME _(caught 44h ago)_
 - 👀 **[0]** [GuideWell Mutual — Enterprise Analytics Intern](http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41879) — Jacksonville, FL _(caught 44h ago)_
-- 👀 **[0]** [Live Nation Entertainment — Brand Partnerships Intern (Fall 2026)](https://livenation.wd503.myworkdayjobs.com/en-US/LNExternalSite/job/Toronto-ON/Brand-Partnerships-Intern--Fall-2026-_JR-92460) — Toronto, ON _(caught 46h ago)_
+- 👀 **[0]** [Live Nation Entertainment — Brand Partnerships Intern (Fall 2026)](https://livenation.wd503.myworkdayjobs.com/en-US/LNExternalSite/job/Toronto-ON/Brand-Partnerships-Intern--Fall-2026-_JR-92460) — Toronto, ON _(caught 47h ago)_
 - 👀 **[0]** [GenScript — Payroll Tax Intern](https://job-boards.greenhouse.io/genscript/jobs/5212805007) — Piscataway, New Jersey, United States _(caught 47h ago)_
 - 👀 **[0]** [Bank of Montreal — Commercial Banking Credit Analyst Internship, Summer 2027 (Co-op/Internship) - 4 months](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Commercial-Banking-Credit-Analyst-Internship--Summer-2027--Co-op-Internship----4-months_R260022353) — Toronto, ON, CAN _(caught 47h ago)_
 - 👀 **[0]** [Heidelberg Materials — Corporate Controller Intern](https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Irving-TX/Corporate-Controller-Intern_JR10018017) — Irving, TX _(caught 47h ago)_
