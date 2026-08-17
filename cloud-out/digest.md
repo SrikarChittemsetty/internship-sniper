@@ -750,3 +750,7 @@
 - [0] Bosch Home Comfort — [EAE] Intern for Embedded System (Thành phố Hồ Chí Minh, Hồ Chí Minh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143758799
 - [0] Bosch Home Comfort — [EMC] Intern for Admin / Training Support (HN) (Japanese Speaking) (Hanoi, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143757989
 - [0] Bosch Home Comfort — [EMC] Intern for Admin / Training Support (Tân Bình, Thành phố Hồ Chí Minh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143754545
+
+## 2026-08-17 10:16 — 1 new postings
+
+- [0] Bosch Home Comfort — [SX/EIT-MM] UI/UX Designer Intern (Tân Bình, Thành phố Hồ Chí Minh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143792579
