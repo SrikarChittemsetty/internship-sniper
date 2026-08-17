@@ -774,3 +774,11 @@
 - [0] KBR — Intern (Cooperative Training Program) (Corniche, Al Khobar, Eastern Region, Saudi Arabia) — https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Corniche-Al-Khobar-Eastern-Region-Saudi-Arabia/Intern--Cooperative-Training-Program-_R2128401
 - [0] Smiths Detection Group — Graduate Apprentice Trainee (Pune, MH, in) — https://jobs.smartrecruiters.com/SmithsGroup2/744000143811129
 - [0] Parsons — CO-OP Intern - Finance  - Saudi National — https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Riyadh/CO-OP-Intern---Finance----Saudi-National_R184879
+
+## 2026-08-17 13:17 — 5 new postings
+
+- [0] Capital One — Strategy Consulting Intern - Summer 2027 (McLean, VA) — https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Strategy-Consulting-Intern---Summer-2027_R244315-1
+- [0] Brunswick — Trade Compliance Intern (Fond du Lac, WI) — https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Trade-Compliance-Intern_JR-051093
+- [0] Smiths Detection Group — Commercial Intern – Commercial Tools & Business Intelligence (Slough, England, gb) — https://jobs.smartrecruiters.com/SmithsGroup2/744000143823899
+- [0] Red Bull — Intern Customer Service  (Munich, BY, de) — https://jobs.smartrecruiters.com/RedBull/744000143825049
+- [0] Bosch Home Comfort — Mandatory Internship Customer Strategy & Experience - Technical Acquisition Management (Leonberg, BW, de) — https://jobs.smartrecruiters.com/BoschGroup/744000143821556
