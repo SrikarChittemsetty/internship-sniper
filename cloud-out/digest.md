@@ -767,3 +767,10 @@
 
 - [0] Levi Strauss & Co. — Analytics Intern — https://levistraussandco.wd5.myworkdayjobs.com/en-US/external/job/London-United-Kingdom/Analytics-Intern_R-0155618-1
 - [0] Continental — Internship - Test Stand Development for Tire Manufacturing (m/f/d) - REF98008V (Hannover, NDS, de) — https://jobs.smartrecruiters.com/Continental/744000143807432
+
+## 2026-08-17 12:27 — 4 new postings
+
+- [3] CNO Financial Group — Accounting Operations Intern 2027- REMOTE (Carmel, IN) — https://cnoinc.wd5.myworkdayjobs.com/en-US/Careers/job/Carmel-IN/Accounting-Operations-Intern-2027--REMOTE_JR170430
+- [0] KBR — Intern (Cooperative Training Program) (Corniche, Al Khobar, Eastern Region, Saudi Arabia) — https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Corniche-Al-Khobar-Eastern-Region-Saudi-Arabia/Intern--Cooperative-Training-Program-_R2128401
+- [0] Smiths Detection Group — Graduate Apprentice Trainee (Pune, MH, in) — https://jobs.smartrecruiters.com/SmithsGroup2/744000143811129
+- [0] Parsons — CO-OP Intern - Finance  - Saudi National — https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Riyadh/CO-OP-Intern---Finance----Saudi-National_R184879
