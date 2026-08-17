@@ -738,3 +738,7 @@
 ## 2026-08-17 05:31 — 1 new postings
 
 - [1] Belvedere Trading — Quantitative Trading Intern (Chicago, IL) — https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab
+
+## 2026-08-17 07:15 — 1 new postings
+
+- [0] Micron Technology — Intern - EUV & Materials Lithography (Boise, ID - Main Site) — https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---EUV---Materials-Lithography_JR108053
