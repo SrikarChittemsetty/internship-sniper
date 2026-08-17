@@ -782,3 +782,8 @@
 - [0] Smiths Detection Group — Commercial Intern – Commercial Tools & Business Intelligence (Slough, England, gb) — https://jobs.smartrecruiters.com/SmithsGroup2/744000143823899
 - [0] Red Bull — Intern Customer Service  (Munich, BY, de) — https://jobs.smartrecruiters.com/RedBull/744000143825049
 - [0] Bosch Home Comfort — Mandatory Internship Customer Strategy & Experience - Technical Acquisition Management (Leonberg, BW, de) — https://jobs.smartrecruiters.com/BoschGroup/744000143821556
+
+## 2026-08-17 14:00 — 2 new postings
+
+- [0] Royal Bank of Canada — 2027 Wealth Management, Winter Advisor Channel Sales Co-op (8 month) (TORONTO, Ontario, Canada) — https://rbc.wd3.myworkdayjobs.com/en-US/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Wealth-Management--Winter-Advisor-Channel-Sales-Co-op--8-month-_R-0000184172
+- [0] Johnson & Johnson — US Surgery Demand Planning Co-Op (Raritan, New Jersey, United States of America) — https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/US-Surgery-Demand-Planning-Co-Op_R-094088-1
