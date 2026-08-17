@@ -851,3 +851,7 @@
 
 - [0] General Motors — 2027 Summer Intern – Finance Operations (Warren, Michigan, United States of America) — https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Finance-Operations_JR-202618055
 - [0] thyssenkrupp — Customer Support Specialist Internship (Southfield, Michigan USA) — https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/en-US/1/job/Southfield-Michigan-USA/Customer-Support-Specialist-Internship_JR105749
+
+## 2026-08-17 19:40 — 1 new postings
+
+- [0] Avery Dennison — Environmental Health & Safety Intern - Summer 2027 (Mentor, OH, us) — https://jobs.smartrecruiters.com/AveryDennison/744000143915149
