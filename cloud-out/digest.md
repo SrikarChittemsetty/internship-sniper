@@ -818,3 +818,13 @@
 - [0] KeyBank — 2027 Summer Key Technology & Services: Security, Business & Strategy Track Internship- Cleveland (Brooklyn, OH) — https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Security--Business---Strategy-Track-Internship--Cleveland_R-41390
 - [0] KeyBank — 2027 Summer Key Technology & Services: Cyber/Information Security Track Internship- Cleveland (Brooklyn, OH) — https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384
 - [0] KeyBank — 2027 Summer Key Technology & Services: Technology Track Internship- Cleveland (Brooklyn, OH) — https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Technology-Track-Internship--Cleveland_R-41382
+
+## 2026-08-17 16:53 — 7 new postings
+
+- [0] SharkNinja — Fall 2026: Digital/Sharks, Sales Associate Co-op, Marketplaces (August to December) (Mississauga, Ontario, Canada) — https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703765006
+- [0] Johnson & Johnson — Operations Co-Op (Athens, Georgia, United States of America) — https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Athens-Georgia-United-States-of-America/Operations-Co-Op_R-093947
+- [0] Motorola — Operations - 2027 Summer Internship (Chicago, IL) — https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Operations---2027-Summer-Internship_R67655
+- [0] CACI — GMU Scholar Program - Summer 2027 Internship (Sterling, VA, US) — https://caci.wd1.myworkdayjobs.com/en-US/external/job/Sterling-VA-US/GMU-Scholar-Program---Summer-2027-Internship_330557
+- [0] CACI — VT Scholar Program - Summer 2027 Internship (Aberdeen Proving Ground, MD, US) — https://caci.wd1.myworkdayjobs.com/en-US/external/job/Aberdeen-Proving-Ground-MD-US/VT-Scholar-Program---Summer-2027-Internship_330555
+- [0] CACI — VT Scholar Program - Summer 2027 Internship (Sterling, VA, US) — https://caci.wd1.myworkdayjobs.com/en-US/external/job/Sterling-VA-US/VT-Scholar-Program---Summer-2027-Internship_330553
+- [0] Curtiss-Wright — Co-Op (US-PA-Bethlehem (EPD)) — https://curtisswright.wd1.myworkdayjobs.com/en-US/cw_external_career_site/job/US-PA-Bethlehem-EPD/Co-Op_JR13160
