@@ -722,3 +722,7 @@
 
 - [0] Bosch Home Comfort — Internship in Human Resources (Pulau Pinang, my) — https://jobs.smartrecruiters.com/BoschGroup/744000143732650
 - [0] Bosch Home Comfort — Internship in Administration (Pulau Pinang, my) — https://jobs.smartrecruiters.com/BoschGroup/744000143732709
+
+## 2026-08-17 03:12 — 1 new postings
+
+- [0] Bosch Home Comfort — [Internship] Logistics Cost Clearance (Japanese speaking) (Thu Duc City, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143734059
