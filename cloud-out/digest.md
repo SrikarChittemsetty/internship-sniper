@@ -828,3 +828,8 @@
 - [0] CACI — VT Scholar Program - Summer 2027 Internship (Aberdeen Proving Ground, MD, US) — https://caci.wd1.myworkdayjobs.com/en-US/external/job/Aberdeen-Proving-Ground-MD-US/VT-Scholar-Program---Summer-2027-Internship_330555
 - [0] CACI — VT Scholar Program - Summer 2027 Internship (Sterling, VA, US) — https://caci.wd1.myworkdayjobs.com/en-US/external/job/Sterling-VA-US/VT-Scholar-Program---Summer-2027-Internship_330553
 - [0] Curtiss-Wright — Co-Op (US-PA-Bethlehem (EPD)) — https://curtisswright.wd1.myworkdayjobs.com/en-US/cw_external_career_site/job/US-PA-Bethlehem-EPD/Co-Op_JR13160
+
+## 2026-08-17 17:21 — 2 new postings
+
+- [3] KeyBank — 2027 Summer Internal Audit Internship- Remote (Remote, United States) — https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Remote-United-States/XMLNAME-2027-Summer-Internal-Audit-Inernship--Remote_R-41376
+- [0] SharkNinja — Fall 2026: Digital/Sharks, Digital Marketing Co-op, Content & Digital Shelf (August to December) (Mississauga, Ontario, Canada) — https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703705006
