@@ -730,3 +730,7 @@
 ## 2026-08-17 04:02 — 1 new postings
 
 - [0] Rocket Lab USA — Mechanical Development Intern (Auckland, NZ) — https://job-boards.greenhouse.io/rocketlab/jobs/7821134003
+
+## 2026-08-17 04:56 — 1 new postings
+
+- [0] Rocket Lab USA — Learning & Development Intern (Auckland, NZ) — https://job-boards.greenhouse.io/rocketlab/jobs/7829985003
