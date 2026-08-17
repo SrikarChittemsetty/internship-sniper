@@ -734,3 +734,7 @@
 ## 2026-08-17 04:56 — 1 new postings
 
 - [0] Rocket Lab USA — Learning & Development Intern (Auckland, NZ) — https://job-boards.greenhouse.io/rocketlab/jobs/7829985003
+
+## 2026-08-17 05:31 — 1 new postings
+
+- [1] Belvedere Trading — Quantitative Trading Intern (Chicago, IL) — https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab
