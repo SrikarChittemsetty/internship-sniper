@@ -866,3 +866,7 @@
 - [0] Copart — Aspire Internship (Boston North, MA) — https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Boston-North-MA/Aspire-Internship_JR110580
 - [0] Live Nation Entertainment — Insomniac - Paid Fall Public Relations Intern (Calabasas, CA, USA) — https://livenation.wd503.myworkdayjobs.com/en-US/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Paid-Fall-Public-Relations-Intern_JR-92533-1
 - [0] Carrier Global — Operations Intern - Fall (CAN82: AL N Carolina (CLT), 5900 Northwoods Business Parkway, Charlotte, NC, 28269 USA) — https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN82-AL-N-Carolina-CLT-5900-Northwoods-Business-Parkway-Charlotte-NC-28269-USA/Operations-Intern---Fall_30215486
+
+## 2026-08-17 21:19 — 1 new postings
+
+- [0] SharkNinja — Digital/Sharks, Co-op d'affiliation Marketplace (août à décembre)/Digital/Sharks, Marketplace Affiliates Co-op (August to December) (Canada) — https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703781006
