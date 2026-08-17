@@ -762,3 +762,8 @@
 ## 2026-08-17 11:19 — 1 new postings
 
 - [0] Wabtec — Intern: Financial Accountant (Kempton Park, GT, za) — https://jobs.smartrecruiters.com/Wabtec/3743990014618255
+
+## 2026-08-17 11:49 — 2 new postings
+
+- [0] Levi Strauss & Co. — Analytics Intern — https://levistraussandco.wd5.myworkdayjobs.com/en-US/external/job/London-United-Kingdom/Analytics-Intern_R-0155618-1
+- [0] Continental — Internship - Test Stand Development for Tire Manufacturing (m/f/d) - REF98008V (Hannover, NDS, de) — https://jobs.smartrecruiters.com/Continental/744000143807432
