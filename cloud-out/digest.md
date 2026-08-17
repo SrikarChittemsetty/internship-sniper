@@ -841,3 +841,8 @@
 - [0] Johnson & Johnson — Analytical Chemistry Summer Intern (Raritan, New Jersey, United States of America) — https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Analytical-Chemistry-Summer-Intern_R-093897
 - [0] AssetWorks — IT/Security Intern (United States - TX) — https://volarisgroup.wd3.myworkdayjobs.com/en-US/GoAssetWorks/job/United-States---TX/IT-Security-Intern_R69295
 - [0] Curtiss-Wright — Co-Op (US-PA-Bethlehem (EPD)) — https://curtisswright.wd1.myworkdayjobs.com/en-US/cw_external_career_site/job/US-PA-Bethlehem-EPD/Co-Op_JR13161
+
+## 2026-08-17 18:28 — 2 new postings
+
+- [2] Point72 — Quantitative Developer Intern (New York) — https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002
+- [1] DV Trading — Trading Intern - Summer 2027 (DV Commodities) (New York) — https://job-boards.greenhouse.io/dvtrading/jobs/4719134005
