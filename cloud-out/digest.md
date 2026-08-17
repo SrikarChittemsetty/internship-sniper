@@ -799,3 +799,12 @@
 - [0] Jefferson Health — Student Intern - Health System Marketing (Philadelphia, PA) — https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Philadelphia-PA/Student-Intern---Health-System-Marketing_REQ-0035292
 - [0] Wabtec — Internship in Accounting and Controlling (Contagem, MG, br) — https://jobs.smartrecruiters.com/Wabtec/3743990014622256
 - [0] MultiCare Health System — RN Resident/Fellow PICU Mary Bridge October 5th Cohort — https://multicare.wd1.myworkdayjobs.com/en-US/multicare/job/Tacoma-Washington/RN-Resident-Fellow-PICU-Mary-Bridge-February-24th-cohort_JR35827-1
+
+## 2026-08-17 15:49 — 6 new postings
+
+- [1] Datadog — Product Management Intern (NYC) — https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241
+- [1] Ryan Companies — Business Intelligence Intern - Mission Critical (Des Moines, IA, Austin, TX, Tampa, FL, Dallas, TX, Chicago, IL, Minneapolis, MN, Atlanta, GA) — https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961
+- [0] Toyota Research Institute — Robotics Research Intern - Post-Training (Los Altos, CA) — https://jobs.lever.co/tri/186808f9-464c-4f22-9d7d-4372ef272ff0
+- [0] W.W. Grainger — Business Systems Analyst Intern (Chicago, IL) — https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Business-Systems-Analyst-IL-60654-4203/1419931200/?ats=successfactors
+- [0] W.W. Grainger — Business Intelligence 1 Intern (Chicago, IL) — https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Business-Intelligence-1-IL-60661-4555/1419931300/?ats=successfactors
+- [0] FAST Enterprises — Implementation Intern (United States) — https://careers.fastenterprises.com/jobs/1709?icims=1
