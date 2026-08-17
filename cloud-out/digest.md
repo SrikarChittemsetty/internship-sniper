@@ -889,3 +889,7 @@
 
 - [0] University of British Columbia — Co-op Career Advisor and Industry Partner (UBC Vancouver Campus - Vancouver, BC, Canada) — https://ubc.wd10.myworkdayjobs.com/en-US/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Co-op-Career-Advisor-and-Industry-Partner_JR25678
 - [0] MultiCare Health System — RN Resident/Fellow Valley Acute Care Respiratory  October 5th cohort — https://multicare.wd1.myworkdayjobs.com/en-US/multicare/job/Spokane-Valley-Washington/RN-Resident-Fellow-Valley-Acute-Care-Respiratory-February-10th-cohort_JR36486
+
+## 2026-08-17 23:16 — 1 new postings
+
+- [0] Eversource Energy — 2027: Transmission System Planning Co-op (Hartford, CT) — https://eversource.wd1.myworkdayjobs.com/en-US/ExternalSite/job/Hartford-CT/XMLNAME-2026-Transmission-System-Planning-Intern_R-029918
