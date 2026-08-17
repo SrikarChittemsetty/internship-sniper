@@ -742,3 +742,11 @@
 ## 2026-08-17 07:15 — 1 new postings
 
 - [0] Micron Technology — Intern - EUV & Materials Lithography (Boise, ID - Main Site) — https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---EUV---Materials-Lithography_JR108053
+
+## 2026-08-17 08:02 — 5 new postings
+
+- [0] Smiths Detection Group — Graduate Apprentice Trainee (Bengaluru, KA, in) — https://jobs.smartrecruiters.com/SmithsGroup2/744000143764069
+- [0] Smiths Detection Group — Graduate Apprentice Trainee (Pune, MH, in) — https://jobs.smartrecruiters.com/SmithsGroup2/744000143763669
+- [0] Bosch Home Comfort — [EAE] Intern for Embedded System (Thành phố Hồ Chí Minh, Hồ Chí Minh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143758799
+- [0] Bosch Home Comfort — [EMC] Intern for Admin / Training Support (HN) (Japanese Speaking) (Hanoi, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143757989
+- [0] Bosch Home Comfort — [EMC] Intern for Admin / Training Support (Tân Bình, Thành phố Hồ Chí Minh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143754545
