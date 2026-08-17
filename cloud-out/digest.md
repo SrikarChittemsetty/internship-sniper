@@ -855,3 +855,7 @@
 ## 2026-08-17 19:40 — 1 new postings
 
 - [0] Avery Dennison — Environmental Health & Safety Intern - Summer 2027 (Mentor, OH, us) — https://jobs.smartrecruiters.com/AveryDennison/744000143915149
+
+## 2026-08-17 19:59 — 1 new postings
+
+- [0] Solenis — Sales and Technical Intern (Mississauga, Ontario, Canada) — https://solenis.wd1.myworkdayjobs.com/en-US/Solenis/job/Mississauga-Ontario-Canada/Sales-and-Technical-Intern_R0032141
