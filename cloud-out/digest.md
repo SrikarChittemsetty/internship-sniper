@@ -893,3 +893,37 @@
 ## 2026-08-17 23:16 — 1 new postings
 
 - [0] Eversource Energy — 2027: Transmission System Planning Co-op (Hartford, CT) — https://eversource.wd1.myworkdayjobs.com/en-US/ExternalSite/job/Hartford-CT/XMLNAME-2026-Transmission-System-Planning-Intern_R-029918
+
+## 2026-08-17 23:45 — 31 new postings
+
+- [4] Centific — Research Intern - Healthcare AI (Palo Alto, CA, Redmond, WA) — https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/Research-Intern_JR108155-1
+- [4] American Fidelity — Agentic AI Intern (Oklahoma City, OK) — https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/IT-Intern-1_JR1016
+- [4] Royal Bank of Canada — Data Analyst Co-op - AI Business Enablement (Toronto, ON, Canada) — https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---AI-Data-Analyst---8-Months_R-0000184505
+- [4] Thomson Reuters — Applied Research Intern - NLP/ML/GenAI (Toronto, ON, Canada) — https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812
+- [2] Point72 — Quantitative Developer Intern (NYC) — https://boards.greenhouse.io/point72/jobs/8721562002
+- [1] Deutsche Bank — Technology, Data and Innovation Intern - Technology, Data and Innovation (NYC) — https://db.recsolu.com/external/requisitions/utrM7YhSIN2pudx_g6Rh2w
+- [1] DV Trading — Trading Intern - Summer 2027 - DV Commodities (NYC) — https://job-boards.greenhouse.io/dvtrading/jobs/4719134005
+- [0] GE Aerospace — Digital Technology Intern - Multiple Teams (Atlanta, GA) — https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078
+- [0] RTX — Quality Project Management and Data Analysis Tool Development Intern (Longueuil, QC, Canada) — https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-de-projets-et-dveloppement-d-outils-d-analyse-en-qualit---Internship---Winter-2027---Quality-Project-management-and-data-analysis-tool-development_01863188
+- [0] Pelmorex — Product Co-op - Digital Product (Oakville, ON, Canada) — https://jobs.lever.co/pelmorex/014cd116-08b8-44d5-bf80-8f6494eb3bc0/apply
+- [0] GE Aerospace — Digital Technology Intern - Multiple Teams (Evendale, OH) — https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Intern---US---Cincinnati--OH---Summer-2027_R5029739-1
+- [0] GE Aerospace — Digital Technology Intern - Summer 2027 (Livonia, MI) — https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Livonia/Digital-Technology-Intern---US---Livonia--MI---Summer-2027_R5038079-1
+- [0] SharkNinja — Performance Data Co-op - Marketplace Intelligence (Needham, MA) — https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703756006
+- [0] Vanguard — Data Analysis Intern (Malvern, PA) — https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Analysis--PA-_177679-1
+- [0] Vanguard — Data Science Intern - Information Technology (Malvern, PA) — https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_177680-1
+- [0] Vanguard — Data Science Intern - College to Corporate IT (Charlotte, NC) — https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_177682-1
+- [0] Vanguard — Data Analyst Intern - College to Corporate IT (Charlotte, NC) — https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_177677-1
+- [0] KeyBank — Data Intern - Key Technology & Services - Data Track (Brooklyn, OH) — https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385
+- [0] KeyBank — Technology Track Intern - Key Technology and Services (Brooklyn, OH) — https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Technology-Track-Internship--Cleveland_R-41382
+- [0] CACI — GMU Scholar Program Intern (Sterling, VA) — https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/GMU-Scholar-Program---Summer-2027-Internship_330557
+- [0] WEC Energy Group — Energy Analytics Intern (Milwaukee, WI) — https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Intern-Energy-Analytics-WI-53203/1420267800/?ats=successfactors
+- [0] American Fidelity — Data Intern (Oklahoma City, OK) — https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Data-Internship--Okalhoma-City-Local-Only-_JR1024
+- [0] General Motors — Battery and Sustainability Intern - Battery Research and Development (Warren, MI) — https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Fall-2026-PhD-Battery---Sustainability-Intern---Battery-Research-and-Development_JR-202618049
+- [0] Royal Bank of Canada — Developer Co-op - Multiple Teams (Toronto, ON, Canada, Calgary, AB, Canada) — https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---Software-Developer--4-8-Months_R-0000184501-1
+- [0] General Motors — Battery & Sustainability Intern - Battery Research and Development (Warren, MI) — https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Fall-2026-PhD-Battery---Sustainability-Intern----Battery-Research-and-Development_JR-202618053
+- [0] Royal Bank of Canada — Technical Systems Analyst Co-op - Technology & Operations (Toronto, ON, Canada) — https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Technical-Systems-Analyst--4-12-Months_R-0000184552-1
+- [0] Royal Bank of Canada — Credit Model Analyst Intern - Group Risk Management (Toronto, ON, Canada) — https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Winter-2027---GRM--CMM-Analyst-Intern--4-Months-_R-0000184636-1
+- [0] Royal Bank of Canada — Developer Co-op - Technology & Operations (Toronto, ON, Canada) — https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--4-Months_R-0000184555-1
+- [0] Royal Bank of Canada — Data Analyst Co-op - Personal Banking (Toronto, ON, Canada) — https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking--4--8--12-months-_R-0000184514
+- [0] Arthur J. Gallagher & Co. — Data Analytics Intern (Rolling Meadows, IL) — https://jobs.ajg.com/jobs/57701?icims=1
+- [0] Readystate Asset Management — Investment Intern - Summer 2027 & 2028 (Chicago, IL) — https://job-boards.greenhouse.io/readystate/jobs/4171077008
