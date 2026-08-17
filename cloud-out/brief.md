@@ -1,54 +1,51 @@
 # Morning brief — new postings, last 48h
 
-_Generated 2026-08-17 00:46. Best-scored first. ✅ = you were pinged, 👀 = digest-only (below threshold)._
+_Generated 2026-08-17 02:10. Best-scored first. ✅ = you were pinged, 👀 = digest-only (below threshold)._
 
-- ✅ **[12]** [Photon — Software Engineering Intern - AI](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738) — Remote in USA _(caught 20h ago)_
-- ✅ **[9]** [ByteDance — Software Engineer Intern - Global Payment Infra and SRE](https://jobs.bytedance.com/en/position/7668315137242351925/detail) — San Jose, CA _(caught 46h ago)_
-- ✅ **[9]** [ByteDance — Software Engineer Intern - Traffic Infrastructure](https://jobs.bytedance.com/en/position/7672626707586746629/detail) — San Jose, CA _(caught 46h ago)_
-- ✅ **[6]** [Abridge — Software Engineer Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true) — SF, NYC _(caught 44h ago)_
-- ✅ **[6]** [Notion — Software Engineer Intern - Winter 2027](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application?embed=true) — SF, NYC _(caught 46h ago)_
-- ✅ **[6]** [Notion — Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true) — SF, NYC _(caught 46h ago)_
-- ✅ **[6]** [Interdigital — Wireless Engineering Intern - 6G Wireless Systems](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Conshohocken-PA/PhD-Intern--6G-Wireless-Systems---Sept-2026_REQ26-1135-1) — Manhattan, NYC, Melville, NY, Conshohocken, PA _(caught 46h ago)_
-- ✅ **[6]** [Interdigital — Wireless Engineering Intern - 6G Wireless Systems](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/PhD-Intern--6G-Wireless-Systems---Sept-2026_REQ26-1135) — Manhattan, NYC, Melville, NY, Conshohocken, PA _(caught 46h ago)_
-- ✅ **[6]** [Astranis — CAD Engineer/Librarian Intern (Spring 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704740006) — San Francisco _(caught 47h ago)_
-- ✅ **[6]** [Astranis — CAD Engineer/Librarian Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704742006) — San Francisco _(caught 47h ago)_
-- ✅ **[6]** [Astranis — CAD Engineer/Librarian Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704748006) — San Francisco _(caught 47h ago)_
-- ✅ **[6]** [Astranis — Mechanical Engineer Intern (Spring 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704602006) — San Francisco _(caught 47h ago)_
-- ✅ **[6]** [Astranis — Mechanical Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704601006) — San Francisco _(caught 47h ago)_
-- ✅ **[6]** [Astranis — Mechanical Engineer Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704600006) — San Francisco _(caught 47h ago)_
-- 👀 **[5]** [Hermeus — Manufacturing Engineering Intern - Fall 2026](https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae) — Los Angeles, CA _(caught 1h ago)_
-- ✅ **[5]** [AECOM — Fire Safety Engineering Intern (Nov 2026)](https://jobs.smartrecruiters.com/AECOM2/744000143704059) — Sydney, NSW, au _(caught 2h ago)_
-- ✅ **[5]** [Replit — Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true) — Foster City, CA _(caught 26h ago)_
-- ✅ **[5]** [RTX — Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392) — San Jose, CA _(caught 38h ago)_
-- ✅ **[5]** [Epia Neuro — Hardware Engineer Intern](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true) — Alameda, CA _(caught 46h ago)_
-- ✅ **[5]** [ONEOK — Engineering Intern](https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Sidney-MT/Engineering-Intern---Sidney--MT_R8601) — Sidney, MT _(caught 46h ago)_
-- ✅ **[5]** [ByteDance — Software Engineer Intern - Global Traffic Architecture](https://jobs.bytedance.com/en/position/7672557061679483189/detail) — San Jose, CA _(caught 46h ago)_
-- ✅ **[5]** [ONEOK — Engineering Intern](https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Dallas-TX/Engineering-Intern---Dallas--TX_R8156) — Dallas, TX _(caught 46h ago)_
-- ✅ **[5]** [ONEOK — Engineering Intern](https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Tulsa-OK/Engineering-Intern---Tulsa--OK_R8155) — Tulsa, OK _(caught 46h ago)_
-- ✅ **[5]** [Valeo — Software Engineer Intern](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575) — Troy, MI _(caught 46h ago)_
-- ✅ **[5]** [Crowe — Machine Learning Intern](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Machine-Learning-Intern_R-71013) — Lexington, KY, Boston, MA, Indianapolis, IN, Houston, TX, Louisville, KY, Knoxvi _(caught 46h ago)_
-- ✅ **[5]** [Crowe — Machine Learning Intern](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Machine-Learning-Intern_R-71005) — Lexington, KY, Boston, MA, Indianapolis, IN, Houston, TX, Louisville, KY, Knoxvi _(caught 46h ago)_
-- ✅ **[5]** [RTX — Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineering-Intern--Summer-2027-_01866777) — Tucson, AZ _(caught 46h ago)_
-- ✅ **[5]** [RTX — Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineering-Intern--Summer-2027-_01865808) — East Hartford, CT _(caught 46h ago)_
-- ✅ **[5]** [RTX — Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136) — Cedar Rapids, IA _(caught 46h ago)_
-- ✅ **[5]** [RTX — Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineering-Intern--Summer-2027-_01867439) — Fullerton, CA _(caught 46h ago)_
-- ✅ **[5]** [RTX — Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01865952) — West Valley City, UT _(caught 46h ago)_
-- ✅ **[5]** [RTX — Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129) — Cedar Rapids, IA _(caught 46h ago)_
-- ✅ **[5]** [Freeform — Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) — Los Angeles, CA (On-site) _(caught 47h ago)_
-- 👀 **[2]** [Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171535?type=students) — NYC _(caught 33h ago)_
-- 👀 **[2]** [Goldman Sachs — Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/171563?type=students) — NYC _(caught 33h ago)_
-- 👀 **[1]** [Clera — Founder Associate Intern](https://jobs.ashbyhq.com/clera/370fcfdb-d43c-4b57-913f-b1f93cf073d4) — San Francisco _(caught 7h ago)_
-- 👀 **[1]** [Human Computer Lab — Intern - Animator and Rigging Artist](https://jobs.ashbyhq.com/human-computer-lab/6f3e8185-eb3a-42c3-b8c4-1c2837d5e9e1) — San Francisco, Toronto _(caught 43h ago)_
-- 👀 **[1]** [Goldman Sachs — Summer Associate Intern - Multiple Teams](https://higher.gs.com/roles/171566?type=students) — NYC _(caught 44h ago)_
-- 👀 **[1]** [Vendelux — Data Intern](https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd/application?embed=true) — NYC _(caught 46h ago)_
-- 👀 **[0]** [Micron Technology — Intern - DRAM PI](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-PI_JR107483) — Boise, ID - Main Site _(caught 18h ago)_
-- 👀 **[0]** [Occidental Petroleum Corporation (Oxy) — Geophysics Intern](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geophysics-Intern_JR110203) — Houston, TX, The Woodlands, TX, Denver, CO _(caught 20h ago)_
-- 👀 **[0]** [Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading](https://higher.gs.com/roles/181628?type=students) — West Palm Beach, FL _(caught 33h ago)_
-- 👀 **[0]** [Kraft Heinz — 2027 US Manufacturing Internship Program – Manufacturing Facility Garland, Texas](https://heinz.wd1.myworkdayjobs.com/en-US/KraftHeinz_Careers_UR/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352) — Garland, TX _(caught 41h ago)_
-- 👀 **[0]** [AltaGas — Data Science and Analytics Co-op](https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/Data-Science-and-Analytics-Co-op-Student_R7171) — Calgary, AB, Canada _(caught 46h ago)_
-- 👀 **[0]** [Crowe — Data Consultant Intern](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Consultant-Intern_R-71042) — Chicago, IL _(caught 46h ago)_
-- 👀 **[0]** [Crowe — D365 ERP Technical Intern - Consulting Practice](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/D365-ERP-Technical-Intern_R-71039) — Chicago, IL _(caught 46h ago)_
-- 👀 **[0]** [Crowe — ServiceNow Implementation Intern - ServiceNow Cloud Solutions](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/ServiceNow-Implementation-Intern_R-71036) — Chicago, IL _(caught 46h ago)_
-- 👀 **[0]** [Crowe — Data Analytics Developer Intern - Consulting Practice](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041) — Chicago, IL _(caught 46h ago)_
-- 👀 **[0]** [Crowe — NetSuite Implementation Intern - Consulting Practice](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/NetSuite-Implementation-Intern_R-71040) — Chicago, IL _(caught 46h ago)_
-- 👀 **[0]** [Dallas College — SAS Intern](https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers/job/El-Centro-Campus-R-Building/SAS-Intern_R13709) — El Centro, CA _(caught 46h ago)_
+- ✅ **[12]** [Photon — Software Engineering Intern - AI](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738) — Remote in USA _(caught 21h ago)_
+- ✅ **[9]** [ByteDance — Software Engineer Intern - Global Payment Infra and SRE](https://jobs.bytedance.com/en/position/7668315137242351925/detail) — San Jose, CA _(caught 47h ago)_
+- ✅ **[9]** [ByteDance — Software Engineer Intern - Traffic Infrastructure](https://jobs.bytedance.com/en/position/7672626707586746629/detail) — San Jose, CA _(caught 47h ago)_
+- ✅ **[6]** [Abridge — Software Engineer Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true) — SF, NYC _(caught 45h ago)_
+- ✅ **[6]** [Notion — Software Engineer Intern - Winter 2027](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application?embed=true) — SF, NYC _(caught 47h ago)_
+- ✅ **[6]** [Notion — Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true) — SF, NYC _(caught 47h ago)_
+- ✅ **[6]** [Interdigital — Wireless Engineering Intern - 6G Wireless Systems](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Conshohocken-PA/PhD-Intern--6G-Wireless-Systems---Sept-2026_REQ26-1135-1) — Manhattan, NYC, Melville, NY, Conshohocken, PA _(caught 47h ago)_
+- ✅ **[6]** [Interdigital — Wireless Engineering Intern - 6G Wireless Systems](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/PhD-Intern--6G-Wireless-Systems---Sept-2026_REQ26-1135) — Manhattan, NYC, Melville, NY, Conshohocken, PA _(caught 47h ago)_
+- ✅ **[5]** [Bosch Home Comfort — [SX/BSV-VN] HMI Test Engineer Intern (Automotive Domain)](https://jobs.smartrecruiters.com/BoschGroup/744000143732500) — Ha Noi, vn _(caught 0h ago)_
+- ✅ **[5]** [Boom Supersonic — Engineering and Tech Intern](https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf) — Centennial, CO _(caught 0h ago)_
+- 👀 **[5]** [Hermeus — Manufacturing Engineering Intern - Fall 2026](https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae) — Los Angeles, CA _(caught 3h ago)_
+- ✅ **[5]** [AECOM — Fire Safety Engineering Intern (Nov 2026)](https://jobs.smartrecruiters.com/AECOM2/744000143704059) — Sydney, NSW, au _(caught 3h ago)_
+- ✅ **[5]** [Replit — Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true) — Foster City, CA _(caught 27h ago)_
+- ✅ **[5]** [RTX — Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392) — San Jose, CA _(caught 39h ago)_
+- ✅ **[5]** [Epia Neuro — Hardware Engineer Intern](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true) — Alameda, CA _(caught 47h ago)_
+- ✅ **[5]** [ONEOK — Engineering Intern](https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Sidney-MT/Engineering-Intern---Sidney--MT_R8601) — Sidney, MT _(caught 47h ago)_
+- ✅ **[5]** [ByteDance — Software Engineer Intern - Global Traffic Architecture](https://jobs.bytedance.com/en/position/7672557061679483189/detail) — San Jose, CA _(caught 47h ago)_
+- ✅ **[5]** [ONEOK — Engineering Intern](https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Dallas-TX/Engineering-Intern---Dallas--TX_R8156) — Dallas, TX _(caught 47h ago)_
+- ✅ **[5]** [ONEOK — Engineering Intern](https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Tulsa-OK/Engineering-Intern---Tulsa--OK_R8155) — Tulsa, OK _(caught 47h ago)_
+- ✅ **[5]** [Valeo — Software Engineer Intern](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575) — Troy, MI _(caught 47h ago)_
+- ✅ **[5]** [Crowe — Machine Learning Intern](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Machine-Learning-Intern_R-71013) — Lexington, KY, Boston, MA, Indianapolis, IN, Houston, TX, Louisville, KY, Knoxvi _(caught 47h ago)_
+- ✅ **[5]** [Crowe — Machine Learning Intern](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Machine-Learning-Intern_R-71005) — Lexington, KY, Boston, MA, Indianapolis, IN, Houston, TX, Louisville, KY, Knoxvi _(caught 47h ago)_
+- ✅ **[5]** [RTX — Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineering-Intern--Summer-2027-_01866777) — Tucson, AZ _(caught 47h ago)_
+- ✅ **[5]** [RTX — Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineering-Intern--Summer-2027-_01865808) — East Hartford, CT _(caught 47h ago)_
+- ✅ **[5]** [RTX — Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136) — Cedar Rapids, IA _(caught 47h ago)_
+- ✅ **[5]** [RTX — Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineering-Intern--Summer-2027-_01867439) — Fullerton, CA _(caught 47h ago)_
+- ✅ **[5]** [RTX — Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01865952) — West Valley City, UT _(caught 47h ago)_
+- ✅ **[5]** [RTX — Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129) — Cedar Rapids, IA _(caught 47h ago)_
+- 👀 **[2]** [Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171535?type=students) — NYC _(caught 34h ago)_
+- 👀 **[2]** [Goldman Sachs — Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/171563?type=students) — NYC _(caught 34h ago)_
+- 👀 **[1]** [Clera — Founder Associate Intern](https://jobs.ashbyhq.com/clera/370fcfdb-d43c-4b57-913f-b1f93cf073d4) — San Francisco _(caught 9h ago)_
+- 👀 **[1]** [Human Computer Lab — Intern - Animator and Rigging Artist](https://jobs.ashbyhq.com/human-computer-lab/6f3e8185-eb3a-42c3-b8c4-1c2837d5e9e1) — San Francisco, Toronto _(caught 45h ago)_
+- 👀 **[1]** [Goldman Sachs — Summer Associate Intern - Multiple Teams](https://higher.gs.com/roles/171566?type=students) — NYC _(caught 45h ago)_
+- 👀 **[1]** [Vendelux — Data Intern](https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd/application?embed=true) — NYC _(caught 47h ago)_
+- 👀 **[0]** [Bosch Home Comfort — Internship in Human Resources](https://jobs.smartrecruiters.com/BoschGroup/744000143732650) — Pulau Pinang, my _(caught 0h ago)_
+- 👀 **[0]** [Bosch Home Comfort — Internship in Administration](https://jobs.smartrecruiters.com/BoschGroup/744000143732709) — Pulau Pinang, my _(caught 0h ago)_
+- 👀 **[0]** [Micron Technology — Intern - DRAM PI](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-PI_JR107483) — Boise, ID - Main Site _(caught 19h ago)_
+- 👀 **[0]** [Occidental Petroleum Corporation (Oxy) — Geophysics Intern](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geophysics-Intern_JR110203) — Houston, TX, The Woodlands, TX, Denver, CO _(caught 21h ago)_
+- 👀 **[0]** [Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading](https://higher.gs.com/roles/181628?type=students) — West Palm Beach, FL _(caught 34h ago)_
+- 👀 **[0]** [Kraft Heinz — 2027 US Manufacturing Internship Program – Manufacturing Facility Garland, Texas](https://heinz.wd1.myworkdayjobs.com/en-US/KraftHeinz_Careers_UR/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352) — Garland, TX _(caught 42h ago)_
+- 👀 **[0]** [AltaGas — Data Science and Analytics Co-op](https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/Data-Science-and-Analytics-Co-op-Student_R7171) — Calgary, AB, Canada _(caught 47h ago)_
+- 👀 **[0]** [Crowe — Data Consultant Intern](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Consultant-Intern_R-71042) — Chicago, IL _(caught 47h ago)_
+- 👀 **[0]** [Crowe — D365 ERP Technical Intern - Consulting Practice](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/D365-ERP-Technical-Intern_R-71039) — Chicago, IL _(caught 47h ago)_
+- 👀 **[0]** [Crowe — ServiceNow Implementation Intern - ServiceNow Cloud Solutions](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/ServiceNow-Implementation-Intern_R-71036) — Chicago, IL _(caught 47h ago)_
+- 👀 **[0]** [Crowe — Data Analytics Developer Intern - Consulting Practice](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041) — Chicago, IL _(caught 47h ago)_
+- 👀 **[0]** [Crowe — NetSuite Implementation Intern - Consulting Practice](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/NetSuite-Implementation-Intern_R-71040) — Chicago, IL _(caught 47h ago)_
+- 👀 **[0]** [Dallas College — SAS Intern](https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers/job/El-Centro-Campus-R-Building/SAS-Intern_R13709) — El Centro, CA _(caught 47h ago)_

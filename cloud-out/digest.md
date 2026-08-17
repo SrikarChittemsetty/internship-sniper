@@ -717,3 +717,8 @@
 ## 2026-08-16 17:35 — 1 new postings
 
 - [1] Clera — Founder Associate Intern (San Francisco) — https://jobs.ashbyhq.com/clera/370fcfdb-d43c-4b57-913f-b1f93cf073d4
+
+## 2026-08-17 02:10 — 2 new postings
+
+- [0] Bosch Home Comfort — Internship in Human Resources (Pulau Pinang, my) — https://jobs.smartrecruiters.com/BoschGroup/744000143732650
+- [0] Bosch Home Comfort — Internship in Administration (Pulau Pinang, my) — https://jobs.smartrecruiters.com/BoschGroup/744000143732709
