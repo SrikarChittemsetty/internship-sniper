@@ -884,3 +884,8 @@
 - [0] Brunswick — Brunswick Boat Group Technology Center-Advanced Research & Storytelling Intern (Edgewater, FL) — https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Edgewater-FL/Brunswick-Boat-Group-Technology-Center-Advanced-Research---Storytelling-Intern_JR-051131
 - [0] Conagra Brands — FP&A Internship - Sales & Trade Finance - Summer 2026 (Chicago, Illinois) — https://conagrabrands.wd1.myworkdayjobs.com/en-US/Careers_US/job/Chicago-Illinois/FP-A-Internship---Sales---Trade-Finance---Summer-2026_Req-039795
 - [0] Conagra Brands — FP&A Internship - Finance Modernization - Summer 2027 (Chicago, Illinois) — https://conagrabrands.wd1.myworkdayjobs.com/en-US/Careers_US/job/Chicago-Illinois/FP-A-Internship---Finance-Modernization---Summer-2027_Req-039794
+
+## 2026-08-17 22:48 — 2 new postings
+
+- [0] University of British Columbia — Co-op Career Advisor and Industry Partner (UBC Vancouver Campus - Vancouver, BC, Canada) — https://ubc.wd10.myworkdayjobs.com/en-US/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Co-op-Career-Advisor-and-Industry-Partner_JR25678
+- [0] MultiCare Health System — RN Resident/Fellow Valley Acute Care Respiratory  October 5th cohort — https://multicare.wd1.myworkdayjobs.com/en-US/multicare/job/Spokane-Valley-Washington/RN-Resident-Fellow-Valley-Acute-Care-Respiratory-February-10th-cohort_JR36486
