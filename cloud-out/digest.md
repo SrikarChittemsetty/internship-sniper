@@ -859,3 +859,10 @@
 ## 2026-08-17 19:59 — 1 new postings
 
 - [0] Solenis — Sales and Technical Intern (Mississauga, Ontario, Canada) — https://solenis.wd1.myworkdayjobs.com/en-US/Solenis/job/Mississauga-Ontario-Canada/Sales-and-Technical-Intern_R0032141
+
+## 2026-08-17 20:25 — 4 new postings
+
+- [1] Guidepoint — Business Development Intern (Class of 2028) (New York, New York, United States) — https://job-boards.greenhouse.io/guidepoint/jobs/8716357002
+- [0] Copart — Aspire Internship (Boston North, MA) — https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Boston-North-MA/Aspire-Internship_JR110580
+- [0] Live Nation Entertainment — Insomniac - Paid Fall Public Relations Intern (Calabasas, CA, USA) — https://livenation.wd503.myworkdayjobs.com/en-US/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Paid-Fall-Public-Relations-Intern_JR-92533-1
+- [0] Carrier Global — Operations Intern - Fall (CAN82: AL N Carolina (CLT), 5900 Northwoods Business Parkway, Charlotte, NC, 28269 USA) — https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN82-AL-N-Carolina-CLT-5900-Northwoods-Business-Parkway-Charlotte-NC-28269-USA/Operations-Intern---Fall_30215486
