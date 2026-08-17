@@ -870,3 +870,11 @@
 ## 2026-08-17 21:19 — 1 new postings
 
 - [0] SharkNinja — Digital/Sharks, Co-op d'affiliation Marketplace (août à décembre)/Digital/Sharks, Marketplace Affiliates Co-op (August to December) (Canada) — https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703781006
+
+## 2026-08-17 21:49 — 5 new postings
+
+- [0] Airbus — Long-term Internship - Technical Product Marketing (Grand Prairie, TX) — https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Grand-Prairie-TX/Long-term-Internship---Technical-Product-Marketing_JR10435485
+- [0] Rocket Lab USA — Electron Configuration Management Intern (Auckland, NZ) — https://job-boards.greenhouse.io/rocketlab/jobs/7821142003
+- [0] DreamWorks Animation — LATAM Regional Intern (CDMX, mx) — https://jobs.smartrecruiters.com/NBCUniversal3/744000143933029
+- [0] Eurofins — Packaging Intern (San Jose, CA, us) — https://jobs.smartrecruiters.com/Eurofins/744000143932076
+- [0] Veolia — Intern - Maintenance (West Orange, TX, us) — https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000143931547
