@@ -833,3 +833,11 @@
 
 - [3] KeyBank — 2027 Summer Internal Audit Internship- Remote (Remote, United States) — https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Remote-United-States/XMLNAME-2027-Summer-Internal-Audit-Inernship--Remote_R-41376
 - [0] SharkNinja — Fall 2026: Digital/Sharks, Digital Marketing Co-op, Content & Digital Shelf (August to December) (Mississauga, Ontario, Canada) — https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703705006
+
+## 2026-08-17 17:54 — 5 new postings
+
+- [4] Thomson Reuters — Applied Research Intern (NLP/ML/GenAI) — https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812
+- [3] TruStage — Actuarial Internship (Remote) (Wisconsin - Remote) — https://trustage.wd1.myworkdayjobs.com/en-US/TruStage/job/Wisconsin---Remote/Actuarial-Internship--Remote-_R-012110
+- [0] Johnson & Johnson — Analytical Chemistry Summer Intern (Raritan, New Jersey, United States of America) — https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Analytical-Chemistry-Summer-Intern_R-093897
+- [0] AssetWorks — IT/Security Intern (United States - TX) — https://volarisgroup.wd3.myworkdayjobs.com/en-US/GoAssetWorks/job/United-States---TX/IT-Security-Intern_R69295
+- [0] Curtiss-Wright — Co-Op (US-PA-Bethlehem (EPD)) — https://curtisswright.wd1.myworkdayjobs.com/en-US/cw_external_career_site/job/US-PA-Bethlehem-EPD/Co-Op_JR13161
