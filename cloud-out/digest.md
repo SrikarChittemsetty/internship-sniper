@@ -754,3 +754,7 @@
 ## 2026-08-17 10:16 — 1 new postings
 
 - [0] Bosch Home Comfort — [SX/EIT-MM] UI/UX Designer Intern (Tân Bình, Thành phố Hồ Chí Minh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143792579
+
+## 2026-08-17 10:56 — 1 new postings
+
+- [0] Wabtec — Intern: Information Technology (IT) (Kempton Park, GT, za) — https://jobs.smartrecruiters.com/Wabtec/3743990014618165
