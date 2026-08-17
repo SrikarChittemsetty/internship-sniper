@@ -878,3 +878,9 @@
 - [0] DreamWorks Animation — LATAM Regional Intern (CDMX, mx) — https://jobs.smartrecruiters.com/NBCUniversal3/744000143933029
 - [0] Eurofins — Packaging Intern (San Jose, CA, us) — https://jobs.smartrecruiters.com/Eurofins/744000143932076
 - [0] Veolia — Intern - Maintenance (West Orange, TX, us) — https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000143931547
+
+## 2026-08-17 22:17 — 3 new postings
+
+- [0] Brunswick — Brunswick Boat Group Technology Center-Advanced Research & Storytelling Intern (Edgewater, FL) — https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Edgewater-FL/Brunswick-Boat-Group-Technology-Center-Advanced-Research---Storytelling-Intern_JR-051131
+- [0] Conagra Brands — FP&A Internship - Sales & Trade Finance - Summer 2026 (Chicago, Illinois) — https://conagrabrands.wd1.myworkdayjobs.com/en-US/Careers_US/job/Chicago-Illinois/FP-A-Internship---Sales---Trade-Finance---Summer-2026_Req-039795
+- [0] Conagra Brands — FP&A Internship - Finance Modernization - Summer 2027 (Chicago, Illinois) — https://conagrabrands.wd1.myworkdayjobs.com/en-US/Careers_US/job/Chicago-Illinois/FP-A-Internship---Finance-Modernization---Summer-2027_Req-039794
