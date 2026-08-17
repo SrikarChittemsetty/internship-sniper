@@ -808,3 +808,13 @@
 - [0] W.W. Grainger — Business Systems Analyst Intern (Chicago, IL) — https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Business-Systems-Analyst-IL-60654-4203/1419931200/?ats=successfactors
 - [0] W.W. Grainger — Business Intelligence 1 Intern (Chicago, IL) — https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Business-Intelligence-1-IL-60661-4555/1419931300/?ats=successfactors
 - [0] FAST Enterprises — Implementation Intern (United States) — https://careers.fastenterprises.com/jobs/1709?icims=1
+
+## 2026-08-17 16:18 — 7 new postings
+
+- [0] HUB International — Summer Intern (HUB Internship Program) — https://hubinternational.wd1.myworkdayjobs.com/en-US/HUBInternational/job/Summer-Intern--HUB-Internship-Program-_R0038198
+- [0] Integrity — Intern (Decatur, IL) — https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Decatur-IL/Intern_JR4450
+- [0] KeyBank — 2027 Summer Key Technology & Services: Data Track Internship- Cleveland (Brooklyn, OH) — https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385
+- [0] KeyBank — 2027 Summer Key Technology & Services: Operations Track Internship- Cleveland (Brooklyn, OH) — https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Operations-Track-Internship--Cleveland_R-41383
+- [0] KeyBank — 2027 Summer Key Technology & Services: Security, Business & Strategy Track Internship- Cleveland (Brooklyn, OH) — https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Security--Business---Strategy-Track-Internship--Cleveland_R-41390
+- [0] KeyBank — 2027 Summer Key Technology & Services: Cyber/Information Security Track Internship- Cleveland (Brooklyn, OH) — https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384
+- [0] KeyBank — 2027 Summer Key Technology & Services: Technology Track Internship- Cleveland (Brooklyn, OH) — https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Technology-Track-Internship--Cleveland_R-41382
