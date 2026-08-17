@@ -1,59 +1,63 @@
 # Morning brief — new postings, last 48h
 
-_Generated 2026-08-17 14:31. Best-scored first. ✅ = you were pinged, 👀 = digest-only (below threshold)._
+_Generated 2026-08-17 14:56. Best-scored first. ✅ = you were pinged, 👀 = digest-only (below threshold)._
 
 - ✅ **[12]** [Photon — Software Engineering Intern - AI](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738) — Remote in USA _(caught 34h ago)_
 - ✅ **[9]** [Capital One — Intern, Backend Software Engineer - Team Interstellar - Winter 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022) — Toronto, ON _(caught 0h ago)_
 - ✅ **[9]** [Capital One — Intern, Full Stack Software Engineer - Team Integrated Sprout - Winter 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010) — Toronto, ON _(caught 0h ago)_
 - ✅ **[9]** [Capital One — Intern, Full Stack Software Engineer - Team Pickle - Winter 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013) — Toronto, ON _(caught 0h ago)_
+- ✅ **[5]** [Smiths Detection Group — Mechanical Engineering Apprentice](https://jobs.smartrecruiters.com/SmithsGroup2/744000143854176) — Slough, England, gb _(caught 0h ago)_
 - ✅ **[5]** [Capital One — Intern, Mobile Software Engineer - Team Gringotts North - Winter 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015) — Toronto, ON _(caught 0h ago)_
 - ✅ **[5]** [SharkNinja — Digital/Sharks - Performance Data Associate Co-op - Marketplace Intelligence (Early Careers)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703756006) — Needham, MA, United States _(caught 1h ago)_
 - ✅ **[5]** [Vishay Intertechnology — Intern/Coop (Engineering)](https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Niagara-Falls-NY/Intern-Coop--Engineering-_JR-19565) — Niagara Falls, NY _(caught 1h ago)_
-- ✅ **[5]** [Bosch Home Comfort — [EDA] Intern for Embedded Software](https://jobs.smartrecruiters.com/BoschGroup/744000143758952) — Hanoi, vn _(caught 6h ago)_
-- ✅ **[5]** [Bosch Home Comfort — [EPM] Intern for DevOps Engineer](https://jobs.smartrecruiters.com/BoschGroup/744000143757219) — Tân Bình, Thành phố Hồ Chí Minh, vn _(caught 6h ago)_
-- ✅ **[5]** [Bosch Home Comfort — [EEC] Intern for Embedded Software](https://jobs.smartrecruiters.com/BoschGroup/744000143756274) — Ho Chi Minh city, Ho Chi Minh City, vn _(caught 6h ago)_
-- ✅ **[5]** [Micron Technology — Intern - DRAM Design Engineer](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458) — Boise, ID - Main Site _(caught 7h ago)_
-- ✅ **[5]** [Micron Technology — Intern - Process Development Engineer, Thin Films](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Thin-Films_JR107323) — Boise, ID - Main Site _(caught 7h ago)_
-- ✅ **[5]** [Micron Technology — Intern - Wet Etch Process Development Engineer](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Wet-Etch-Process-Development-Engineer_JR108050) — Boise, ID - Main Site _(caught 7h ago)_
-- ✅ **[5]** [Bosch Home Comfort — [SX/BSV-VN] HMI Test Engineer Intern (Automotive Domain)](https://jobs.smartrecruiters.com/BoschGroup/744000143732500) — Ha Noi, vn _(caught 12h ago)_
-- ✅ **[5]** [Boom Supersonic — Engineering and Tech Intern](https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf) — Centennial, CO _(caught 12h ago)_
+- ✅ **[5]** [Bosch Home Comfort — [EDA] Intern for Embedded Software](https://jobs.smartrecruiters.com/BoschGroup/744000143758952) — Hanoi, vn _(caught 7h ago)_
+- ✅ **[5]** [Bosch Home Comfort — [EPM] Intern for DevOps Engineer](https://jobs.smartrecruiters.com/BoschGroup/744000143757219) — Tân Bình, Thành phố Hồ Chí Minh, vn _(caught 7h ago)_
+- ✅ **[5]** [Bosch Home Comfort — [EEC] Intern for Embedded Software](https://jobs.smartrecruiters.com/BoschGroup/744000143756274) — Ho Chi Minh city, Ho Chi Minh City, vn _(caught 7h ago)_
+- ✅ **[5]** [Micron Technology — Intern - DRAM Design Engineer](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458) — Boise, ID - Main Site _(caught 8h ago)_
+- ✅ **[5]** [Micron Technology — Intern - Process Development Engineer, Thin Films](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Thin-Films_JR107323) — Boise, ID - Main Site _(caught 8h ago)_
+- ✅ **[5]** [Micron Technology — Intern - Wet Etch Process Development Engineer](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Wet-Etch-Process-Development-Engineer_JR108050) — Boise, ID - Main Site _(caught 8h ago)_
+- ✅ **[5]** [Bosch Home Comfort — [SX/BSV-VN] HMI Test Engineer Intern (Automotive Domain)](https://jobs.smartrecruiters.com/BoschGroup/744000143732500) — Ha Noi, vn _(caught 13h ago)_
+- ✅ **[5]** [Boom Supersonic — Engineering and Tech Intern](https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf) — Centennial, CO _(caught 13h ago)_
 - 👀 **[5]** [Hermeus — Manufacturing Engineering Intern - Fall 2026](https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae) — Los Angeles, CA _(caught 15h ago)_
-- ✅ **[5]** [AECOM — Fire Safety Engineering Intern (Nov 2026)](https://jobs.smartrecruiters.com/AECOM2/744000143704059) — Sydney, NSW, au _(caught 15h ago)_
-- ✅ **[5]** [Replit — Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true) — Foster City, CA _(caught 39h ago)_
+- ✅ **[5]** [AECOM — Fire Safety Engineering Intern (Nov 2026)](https://jobs.smartrecruiters.com/AECOM2/744000143704059) — Sydney, NSW, au _(caught 16h ago)_
+- ✅ **[5]** [Replit — Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true) — Foster City, CA _(caught 40h ago)_
 - 👀 **[3]** [CNO Financial Group — Accounting Operations Intern 2027- REMOTE](https://cnoinc.wd5.myworkdayjobs.com/en-US/Careers/job/Carmel-IN/Accounting-Operations-Intern-2027--REMOTE_JR170430) — Carmel, IN _(caught 2h ago)_
 - 👀 **[2]** [Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171535?type=students) — NYC _(caught 47h ago)_
 - 👀 **[2]** [Goldman Sachs — Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/171563?type=students) — NYC _(caught 47h ago)_
 - 👀 **[1]** [Belvedere Trading — Quantitative Trading Intern](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) — Chicago, IL _(caught 9h ago)_
 - 👀 **[1]** [Clera — Founder Associate Intern](https://jobs.ashbyhq.com/clera/370fcfdb-d43c-4b57-913f-b1f93cf073d4) — San Francisco _(caught 21h ago)_
+- 👀 **[0]** [Jefferson Health — Student Intern - Health System Marketing](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Philadelphia-PA/Student-Intern---Health-System-Marketing_REQ-0035292) — Philadelphia, PA _(caught 0h ago)_
+- 👀 **[0]** [Wabtec — Internship in Accounting and Controlling](https://jobs.smartrecruiters.com/Wabtec/3743990014622256) — Contagem, MG, br _(caught 0h ago)_
+- 👀 **[0]** [MultiCare Health System — RN Resident/Fellow PICU Mary Bridge October 5th Cohort](https://multicare.wd1.myworkdayjobs.com/en-US/multicare/job/Tacoma-Washington/RN-Resident-Fellow-PICU-Mary-Bridge-February-24th-cohort_JR35827-1) _(caught 0h ago)_
 - 👀 **[0]** [Red Bull — Internship Editorial Research](https://jobs.smartrecruiters.com/RedBull/744000143851000) — Elsbethen, Salzburg, at _(caught 0h ago)_
 - 👀 **[0]** [NielsenIQ — Account Development Admin (Intern)](https://jobs.smartrecruiters.com/NielsenIQ/744000143847289) — Istanbul, 34, tr _(caught 0h ago)_
 - 👀 **[0]** [Bosch Home Comfort — Academic Internship in Corporate Governance (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000143849714) — Braga, Braga, pt _(caught 0h ago)_
 - 👀 **[0]** [Royal Bank of Canada — 2027 Wealth Management, Winter Advisor Channel Sales Co-op (8 month)](https://rbc.wd3.myworkdayjobs.com/en-US/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Wealth-Management--Winter-Advisor-Channel-Sales-Co-op--8-month-_R-0000184172) — TORONTO, Ontario, Canada _(caught 1h ago)_
 - 👀 **[0]** [Johnson & Johnson — US Surgery Demand Planning Co-Op](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/US-Surgery-Demand-Planning-Co-Op_R-094088-1) — Raritan, New Jersey, United States of America _(caught 1h ago)_
-- 👀 **[0]** [Capital One — Strategy Consulting Intern - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Strategy-Consulting-Intern---Summer-2027_R244315-1) — McLean, VA _(caught 1h ago)_
-- 👀 **[0]** [Brunswick — Trade Compliance Intern](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Trade-Compliance-Intern_JR-051093) — Fond du Lac, WI _(caught 1h ago)_
-- 👀 **[0]** [Smiths Detection Group — Commercial Intern – Commercial Tools & Business Intelligence](https://jobs.smartrecruiters.com/SmithsGroup2/744000143823899) — Slough, England, gb _(caught 1h ago)_
-- 👀 **[0]** [Red Bull — Intern Customer Service ](https://jobs.smartrecruiters.com/RedBull/744000143825049) — Munich, BY, de _(caught 1h ago)_
-- 👀 **[0]** [Bosch Home Comfort — Mandatory Internship Customer Strategy & Experience - Technical Acquisition Management](https://jobs.smartrecruiters.com/BoschGroup/744000143821556) — Leonberg, BW, de _(caught 1h ago)_
+- 👀 **[0]** [Capital One — Strategy Consulting Intern - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Strategy-Consulting-Intern---Summer-2027_R244315-1) — McLean, VA _(caught 2h ago)_
+- 👀 **[0]** [Brunswick — Trade Compliance Intern](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Trade-Compliance-Intern_JR-051093) — Fond du Lac, WI _(caught 2h ago)_
+- 👀 **[0]** [Smiths Detection Group — Commercial Intern – Commercial Tools & Business Intelligence](https://jobs.smartrecruiters.com/SmithsGroup2/744000143823899) — Slough, England, gb _(caught 2h ago)_
+- 👀 **[0]** [Red Bull — Intern Customer Service ](https://jobs.smartrecruiters.com/RedBull/744000143825049) — Munich, BY, de _(caught 2h ago)_
+- 👀 **[0]** [Bosch Home Comfort — Mandatory Internship Customer Strategy & Experience - Technical Acquisition Management](https://jobs.smartrecruiters.com/BoschGroup/744000143821556) — Leonberg, BW, de _(caught 2h ago)_
 - 👀 **[0]** [KBR — Intern (Cooperative Training Program)](https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Corniche-Al-Khobar-Eastern-Region-Saudi-Arabia/Intern--Cooperative-Training-Program-_R2128401) — Corniche, Al Khobar, Eastern Region, Saudi Arabia _(caught 2h ago)_
 - 👀 **[0]** [Smiths Detection Group — Graduate Apprentice Trainee](https://jobs.smartrecruiters.com/SmithsGroup2/744000143811129) — Pune, MH, in _(caught 2h ago)_
 - 👀 **[0]** [Parsons — CO-OP Intern - Finance  - Saudi National](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Riyadh/CO-OP-Intern---Finance----Saudi-National_R184879) _(caught 2h ago)_
 - 👀 **[0]** [Levi Strauss & Co. — Analytics Intern](https://levistraussandco.wd5.myworkdayjobs.com/en-US/external/job/London-United-Kingdom/Analytics-Intern_R-0155618-1) _(caught 3h ago)_
 - 👀 **[0]** [Continental — Internship - Test Stand Development for Tire Manufacturing (m/f/d) - REF98008V](https://jobs.smartrecruiters.com/Continental/744000143807432) — Hannover, NDS, de _(caught 3h ago)_
-- 👀 **[0]** [Wabtec — Intern: Financial Accountant](https://jobs.smartrecruiters.com/Wabtec/3743990014618255) — Kempton Park, GT, za _(caught 3h ago)_
+- 👀 **[0]** [Wabtec — Intern: Financial Accountant](https://jobs.smartrecruiters.com/Wabtec/3743990014618255) — Kempton Park, GT, za _(caught 4h ago)_
 - 👀 **[0]** [Wabtec — Intern: Information Technology (IT)](https://jobs.smartrecruiters.com/Wabtec/3743990014618165) — Kempton Park, GT, za _(caught 4h ago)_
-- 👀 **[0]** [Bosch Home Comfort — [SX/EIT-MM] UI/UX Designer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000143792579) — Tân Bình, Thành phố Hồ Chí Minh, vn _(caught 4h ago)_
-- 👀 **[0]** [Smiths Detection Group — Graduate Apprentice Trainee](https://jobs.smartrecruiters.com/SmithsGroup2/744000143764069) — Bengaluru, KA, in _(caught 6h ago)_
-- 👀 **[0]** [Smiths Detection Group — Graduate Apprentice Trainee](https://jobs.smartrecruiters.com/SmithsGroup2/744000143763669) — Pune, MH, in _(caught 6h ago)_
-- 👀 **[0]** [Bosch Home Comfort — [EAE] Intern for Embedded System](https://jobs.smartrecruiters.com/BoschGroup/744000143758799) — Thành phố Hồ Chí Minh, Hồ Chí Minh, vn _(caught 6h ago)_
-- 👀 **[0]** [Bosch Home Comfort — [EMC] Intern for Admin / Training Support (HN) (Japanese Speaking)](https://jobs.smartrecruiters.com/BoschGroup/744000143757989) — Hanoi, vn _(caught 6h ago)_
-- 👀 **[0]** [Bosch Home Comfort — [EMC] Intern for Admin / Training Support](https://jobs.smartrecruiters.com/BoschGroup/744000143754545) — Tân Bình, Thành phố Hồ Chí Minh, vn _(caught 6h ago)_
-- 👀 **[0]** [Micron Technology — Intern - EUV & Materials Lithography](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---EUV---Materials-Lithography_JR108053) — Boise, ID - Main Site _(caught 7h ago)_
+- 👀 **[0]** [Bosch Home Comfort — [SX/EIT-MM] UI/UX Designer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000143792579) — Tân Bình, Thành phố Hồ Chí Minh, vn _(caught 5h ago)_
+- 👀 **[0]** [Smiths Detection Group — Graduate Apprentice Trainee](https://jobs.smartrecruiters.com/SmithsGroup2/744000143764069) — Bengaluru, KA, in _(caught 7h ago)_
+- 👀 **[0]** [Smiths Detection Group — Graduate Apprentice Trainee](https://jobs.smartrecruiters.com/SmithsGroup2/744000143763669) — Pune, MH, in _(caught 7h ago)_
+- 👀 **[0]** [Bosch Home Comfort — [EAE] Intern for Embedded System](https://jobs.smartrecruiters.com/BoschGroup/744000143758799) — Thành phố Hồ Chí Minh, Hồ Chí Minh, vn _(caught 7h ago)_
+- 👀 **[0]** [Bosch Home Comfort — [EMC] Intern for Admin / Training Support (HN) (Japanese Speaking)](https://jobs.smartrecruiters.com/BoschGroup/744000143757989) — Hanoi, vn _(caught 7h ago)_
+- 👀 **[0]** [Bosch Home Comfort — [EMC] Intern for Admin / Training Support](https://jobs.smartrecruiters.com/BoschGroup/744000143754545) — Tân Bình, Thành phố Hồ Chí Minh, vn _(caught 7h ago)_
+- 👀 **[0]** [Micron Technology — Intern - EUV & Materials Lithography](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---EUV---Materials-Lithography_JR108053) — Boise, ID - Main Site _(caught 8h ago)_
 - 👀 **[0]** [Rocket Lab USA — Learning & Development Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7829985003) — Auckland, NZ _(caught 10h ago)_
-- 👀 **[0]** [Rocket Lab USA — Mechanical Development Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7821134003) — Auckland, NZ _(caught 10h ago)_
-- 👀 **[0]** [Bosch Home Comfort — [Internship] Logistics Cost Clearance (Japanese speaking)](https://jobs.smartrecruiters.com/BoschGroup/744000143734059) — Thu Duc City, vn _(caught 11h ago)_
-- 👀 **[0]** [Bosch Home Comfort — Internship in Human Resources](https://jobs.smartrecruiters.com/BoschGroup/744000143732650) — Pulau Pinang, my _(caught 12h ago)_
-- 👀 **[0]** [Bosch Home Comfort — Internship in Administration](https://jobs.smartrecruiters.com/BoschGroup/744000143732709) — Pulau Pinang, my _(caught 12h ago)_
-- 👀 **[0]** [Micron Technology — Intern - DRAM PI](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-PI_JR107483) — Boise, ID - Main Site _(caught 31h ago)_
+- 👀 **[0]** [Rocket Lab USA — Mechanical Development Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7821134003) — Auckland, NZ _(caught 11h ago)_
+- 👀 **[0]** [Bosch Home Comfort — [Internship] Logistics Cost Clearance (Japanese speaking)](https://jobs.smartrecruiters.com/BoschGroup/744000143734059) — Thu Duc City, vn _(caught 12h ago)_
+- 👀 **[0]** [Bosch Home Comfort — Internship in Human Resources](https://jobs.smartrecruiters.com/BoschGroup/744000143732650) — Pulau Pinang, my _(caught 13h ago)_
+- 👀 **[0]** [Bosch Home Comfort — Internship in Administration](https://jobs.smartrecruiters.com/BoschGroup/744000143732709) — Pulau Pinang, my _(caught 13h ago)_
+- 👀 **[0]** [Micron Technology — Intern - DRAM PI](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-PI_JR107483) — Boise, ID - Main Site _(caught 32h ago)_
 - 👀 **[0]** [Occidental Petroleum Corporation (Oxy) — Geophysics Intern](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geophysics-Intern_JR110203) — Houston, TX, The Woodlands, TX, Denver, CO _(caught 34h ago)_
 - 👀 **[0]** [Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading](https://higher.gs.com/roles/181628?type=students) — West Palm Beach, FL _(caught 47h ago)_

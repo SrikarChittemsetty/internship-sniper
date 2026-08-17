@@ -793,3 +793,9 @@
 - [0] Red Bull — Internship Editorial Research (Elsbethen, Salzburg, at) — https://jobs.smartrecruiters.com/RedBull/744000143851000
 - [0] NielsenIQ — Account Development Admin (Intern) (Istanbul, 34, tr) — https://jobs.smartrecruiters.com/NielsenIQ/744000143847289
 - [0] Bosch Home Comfort — Academic Internship in Corporate Governance (f/m/div.) (Braga, Braga, pt) — https://jobs.smartrecruiters.com/BoschGroup/744000143849714
+
+## 2026-08-17 14:56 — 3 new postings
+
+- [0] Jefferson Health — Student Intern - Health System Marketing (Philadelphia, PA) — https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Philadelphia-PA/Student-Intern---Health-System-Marketing_REQ-0035292
+- [0] Wabtec — Internship in Accounting and Controlling (Contagem, MG, br) — https://jobs.smartrecruiters.com/Wabtec/3743990014622256
+- [0] MultiCare Health System — RN Resident/Fellow PICU Mary Bridge October 5th Cohort — https://multicare.wd1.myworkdayjobs.com/en-US/multicare/job/Tacoma-Washington/RN-Resident-Fellow-PICU-Mary-Bridge-February-24th-cohort_JR35827-1
