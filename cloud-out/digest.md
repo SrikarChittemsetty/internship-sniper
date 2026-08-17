@@ -787,3 +787,9 @@
 
 - [0] Royal Bank of Canada — 2027 Wealth Management, Winter Advisor Channel Sales Co-op (8 month) (TORONTO, Ontario, Canada) — https://rbc.wd3.myworkdayjobs.com/en-US/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Wealth-Management--Winter-Advisor-Channel-Sales-Co-op--8-month-_R-0000184172
 - [0] Johnson & Johnson — US Surgery Demand Planning Co-Op (Raritan, New Jersey, United States of America) — https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/US-Surgery-Demand-Planning-Co-Op_R-094088-1
+
+## 2026-08-17 14:31 — 3 new postings
+
+- [0] Red Bull — Internship Editorial Research (Elsbethen, Salzburg, at) — https://jobs.smartrecruiters.com/RedBull/744000143851000
+- [0] NielsenIQ — Account Development Admin (Intern) (Istanbul, 34, tr) — https://jobs.smartrecruiters.com/NielsenIQ/744000143847289
+- [0] Bosch Home Comfort — Academic Internship in Corporate Governance (f/m/div.) (Braga, Braga, pt) — https://jobs.smartrecruiters.com/BoschGroup/744000143849714
