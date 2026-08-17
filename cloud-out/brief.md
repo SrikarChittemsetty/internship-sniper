@@ -1,6 +1,6 @@
 # Morning brief — new postings, last 48h
 
-_Generated 2026-08-17 10:56. Best-scored first. ✅ = you were pinged, 👀 = digest-only (below threshold)._
+_Generated 2026-08-17 11:19. Best-scored first. ✅ = you were pinged, 👀 = digest-only (below threshold)._
 
 - ✅ **[12]** [Photon — Software Engineering Intern - AI](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738) — Remote in USA _(caught 30h ago)_
 - ✅ **[5]** [Bosch Home Comfort — [EDA] Intern for Embedded Software](https://jobs.smartrecruiters.com/BoschGroup/744000143758952) — Hanoi, vn _(caught 3h ago)_
@@ -11,14 +11,14 @@ _Generated 2026-08-17 10:56. Best-scored first. ✅ = you were pinged, 👀 = di
 - ✅ **[5]** [Micron Technology — Intern - Wet Etch Process Development Engineer](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Wet-Etch-Process-Development-Engineer_JR108050) — Boise, ID - Main Site _(caught 4h ago)_
 - ✅ **[5]** [Bosch Home Comfort — [SX/BSV-VN] HMI Test Engineer Intern (Automotive Domain)](https://jobs.smartrecruiters.com/BoschGroup/744000143732500) — Ha Noi, vn _(caught 9h ago)_
 - ✅ **[5]** [Boom Supersonic — Engineering and Tech Intern](https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf) — Centennial, CO _(caught 9h ago)_
-- 👀 **[5]** [Hermeus — Manufacturing Engineering Intern - Fall 2026](https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae) — Los Angeles, CA _(caught 11h ago)_
+- 👀 **[5]** [Hermeus — Manufacturing Engineering Intern - Fall 2026](https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae) — Los Angeles, CA _(caught 12h ago)_
 - ✅ **[5]** [AECOM — Fire Safety Engineering Intern (Nov 2026)](https://jobs.smartrecruiters.com/AECOM2/744000143704059) — Sydney, NSW, au _(caught 12h ago)_
 - ✅ **[5]** [Replit — Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true) — Foster City, CA _(caught 36h ago)_
-- ✅ **[5]** [RTX — Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392) — San Jose, CA _(caught 48h ago)_
 - 👀 **[2]** [Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171535?type=students) — NYC _(caught 43h ago)_
 - 👀 **[2]** [Goldman Sachs — Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/171563?type=students) — NYC _(caught 43h ago)_
-- 👀 **[1]** [Belvedere Trading — Quantitative Trading Intern](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) — Chicago, IL _(caught 5h ago)_
-- 👀 **[1]** [Clera — Founder Associate Intern](https://jobs.ashbyhq.com/clera/370fcfdb-d43c-4b57-913f-b1f93cf073d4) — San Francisco _(caught 17h ago)_
+- 👀 **[1]** [Belvedere Trading — Quantitative Trading Intern](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) — Chicago, IL _(caught 6h ago)_
+- 👀 **[1]** [Clera — Founder Associate Intern](https://jobs.ashbyhq.com/clera/370fcfdb-d43c-4b57-913f-b1f93cf073d4) — San Francisco _(caught 18h ago)_
+- 👀 **[0]** [Wabtec — Intern: Financial Accountant](https://jobs.smartrecruiters.com/Wabtec/3743990014618255) — Kempton Park, GT, za _(caught 0h ago)_
 - 👀 **[0]** [Wabtec — Intern: Information Technology (IT)](https://jobs.smartrecruiters.com/Wabtec/3743990014618165) — Kempton Park, GT, za _(caught 0h ago)_
 - 👀 **[0]** [Bosch Home Comfort — [SX/EIT-MM] UI/UX Designer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000143792579) — Tân Bình, Thành phố Hồ Chí Minh, vn _(caught 1h ago)_
 - 👀 **[0]** [Smiths Detection Group — Graduate Apprentice Trainee](https://jobs.smartrecruiters.com/SmithsGroup2/744000143764069) — Bengaluru, KA, in _(caught 3h ago)_

@@ -758,3 +758,7 @@
 ## 2026-08-17 10:56 — 1 new postings
 
 - [0] Wabtec — Intern: Information Technology (IT) (Kempton Park, GT, za) — https://jobs.smartrecruiters.com/Wabtec/3743990014618165
+
+## 2026-08-17 11:19 — 1 new postings
+
+- [0] Wabtec — Intern: Financial Accountant (Kempton Park, GT, za) — https://jobs.smartrecruiters.com/Wabtec/3743990014618255
