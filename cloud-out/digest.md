@@ -846,3 +846,8 @@
 
 - [2] Point72 — Quantitative Developer Intern (New York) — https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002
 - [1] DV Trading — Trading Intern - Summer 2027 (DV Commodities) (New York) — https://job-boards.greenhouse.io/dvtrading/jobs/4719134005
+
+## 2026-08-17 19:08 — 2 new postings
+
+- [0] General Motors — 2027 Summer Intern – Finance Operations (Warren, Michigan, United States of America) — https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Finance-Operations_JR-202618055
+- [0] thyssenkrupp — Customer Support Specialist Internship (Southfield, Michigan USA) — https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/en-US/1/job/Southfield-Michigan-USA/Customer-Support-Specialist-Internship_JR105749
