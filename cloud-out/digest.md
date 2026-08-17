@@ -726,3 +726,7 @@
 ## 2026-08-17 03:12 — 1 new postings
 
 - [0] Bosch Home Comfort — [Internship] Logistics Cost Clearance (Japanese speaking) (Thu Duc City, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143734059
+
+## 2026-08-17 04:02 — 1 new postings
+
+- [0] Rocket Lab USA — Mechanical Development Intern (Auckland, NZ) — https://job-boards.greenhouse.io/rocketlab/jobs/7821134003
