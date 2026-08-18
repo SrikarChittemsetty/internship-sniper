@@ -1064,3 +1064,7 @@
 ## 2026-08-18 21:16 — 1 new postings
 
 - [3] First American — Product Management Intern (USA, California, Remote) — https://firstam.wd1.myworkdayjobs.com/en-US/firstamericancareers/job/USA-California-Remote/Product-Management-Intern_R058266
+
+## 2026-08-18 21:46 — 1 new postings
+
+- [0] National Laboratory of the Rockies — Post-Graduate (Year-Round) Intern - Agricultural Energy (Golden, CO) — https://nrel.wd5.myworkdayjobs.com/en-US/NLR/job/Golden-CO/Post-Graduate--Year-Round--Intern---Agricultural-Energy_R14459
