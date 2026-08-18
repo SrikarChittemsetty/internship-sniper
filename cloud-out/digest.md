@@ -961,3 +961,8 @@
 - [0] Deloitte — Forensic Analytics Summer Scholar Intern - Forensic Analytics (Atlanta, GA) — https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Forensic-Analytics/363251
 - [0] North American Construction Group — Condition Based Monitoring Co-op (Acheson, AB, Canada) — https://careers-nacg.icims.com/jobs/16942/job?mobile=true&needsRedirect=false
 - [0] University of St. Thomas — Digital Innovation & Learning Technology Intern (St Paul, MN) — https://studentemployment-stthomas.icims.com/jobs/9527/job?mobile=true&needsRedirect=false
+
+## 2026-08-18 09:24 — 2 new postings
+
+- [0] Bosch Home Comfort — Internship at Product Management in Two-wheeler&Powersports HQ office (Bosch Corporation_Internship, jp) — https://jobs.smartrecruiters.com/BoschGroup/744000144019399
+- [0] Bosch Home Comfort — [SX/EIT-MM] UI/UX Designer Intern (Tân Bình, Thành phố Hồ Chí Minh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000144017779
