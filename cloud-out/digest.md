@@ -942,3 +942,7 @@
 - [0] iFLIP4 — PHP Programmer Intern - Social Enterprise (East Hanover, NJ) — https://jobs.smartrecruiters.com/iFLIP4/75391381
 - [0] Huck Adventures — Research Analyst Intern (Boulder, CO) — https://jobs.smartrecruiters.com/HuckAdventures/743999747985535
 - [0] Riveron — Technology & Innovation Intern (SF, San Jose, CA) — https://jobs.ashbyhq.com/riveron/a1c4ef22-34a2-43b8-950d-ca6288cc17a1/application?embed=true
+
+## 2026-08-18 04:51 — 1 new postings
+
+- [0] Bosch Home Comfort — [Bosch HcP - Internship] Data Service Intern (An Phuoc Commune, Dong Nai, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143976970
