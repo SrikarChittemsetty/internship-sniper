@@ -1005,3 +1005,7 @@
 - [0] Moog — Intern, Quality (Buffalo, NY) — https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Buffalo-NY/Intern--Quality_R-26-19130
 - [0] Great American Insurance Company — Information Technology (IT) Audit Intern (Cincinnati, OH (USA)) — https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Cincinnati-OH-USA/Information-Technology--IT--Audit-Intern_R9392
 - [0] Crown Innovations — NAMS-2 Intern  (Mountain View, CA, us) — https://jobs.smartrecruiters.com/CrownInnovationsInc/744000144112445
+
+## 2026-08-18 16:22 — 1 new postings
+
+- [0] MultiCare Health System — RN Resident/Fellow Valley Spokane, ED October 5th  cohort — https://multicare.wd1.myworkdayjobs.com/en-US/multicare/job/Spokane-Valley-Washington/RN-Resident-Fellow-Valley-ED-October-5th--cohort_JR78663-1
