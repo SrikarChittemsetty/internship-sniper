@@ -994,3 +994,7 @@
 - [0] SitusAMC — Asset Management Intern - Dallas (Dallas, Tx) — https://situsamc.wd1.myworkdayjobs.com/en-US/SitusAMC/job/Dallas-Tx/Asset-Management-Intern---Dallas_JR03088
 - [0] SitusAMC — Asset Management Intern- Plymouth Meeting (Plymouth Meeting, PA) — https://situsamc.wd1.myworkdayjobs.com/en-US/SitusAMC/job/Plymouth-Meeting-PA/Asset-Management-Intern--Plymouth-Meeting_JR03086
 - [0] Wabtec — Intern, Commodity Sourcing (Contagem, MG, br) — https://jobs.smartrecruiters.com/Wabtec/3743990014644486
+
+## 2026-08-18 15:24 — 1 new postings
+
+- [0] Bosch Home Comfort — Academic Internship in Finance (f/m/div.) (Braga, Braga, pt) — https://jobs.smartrecruiters.com/BoschGroup/744000144100829
