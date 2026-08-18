@@ -1021,3 +1021,8 @@
 - [0] Wabtec — Summer 2027 Environmental Health & Safety Internship (Erie, PA, us) — https://jobs.smartrecruiters.com/Wabtec/3743990014654046
 - [0] Wabtec — Summer 2027 Manufacturing Operations/Supply Chain Internship (Erie, PA, us) — https://jobs.smartrecruiters.com/Wabtec/3743990014653896
 - [0] Wabtec — Summer 2027 LEAD Information Technology Intern (Pittsburgh, PA, us) — https://jobs.smartrecruiters.com/Wabtec/3743990014653716
+
+## 2026-08-18 18:26 — 2 new postings
+
+- [0] Sanofi — Sanofi Canada January 2027 Co-Op University Recruitment Program (Toronto, ON) — https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Toronto-ON/Sanofi-Canada-January-2027-Co-Op-University-Recruitment-Program_R2866240
+- [0] Sentara Health — CVI Tech Internship (Norfolk, VA) — https://sentara.wd1.myworkdayjobs.com/en-US/SCS/job/Norfolk-VA/CVI-Tech-Internship_JR-104558
