@@ -985,3 +985,12 @@
 - [0] Royal Bank of Canada — 2026 PCG Wealth Management Intern (Beverly Hills, California, United States of America) — https://rbc.wd3.myworkdayjobs.com/en-US/ExternalPrivatePostingStudents/job/Beverly-Hills-California-United-States-of-America/XMLNAME-2026-PCG-Wealth-Management-Intern_R-0000184630
 - [0] Red Bull — Internship Talent Acquisition Operations (Elsbethen, Salzburg, at) — https://jobs.smartrecruiters.com/RedBull/744000144075079
 - [0] Bosch Home Comfort — Supply and Demand Planner - Intern (Arabic and French language) (Beograd, rs) — https://jobs.smartrecruiters.com/BoschGroup/744000144077204
+
+## 2026-08-18 14:52 — 6 new postings
+
+- [1] SitusAMC — Debt Asset Management Intern- New York (New York, NY) — https://situsamc.wd1.myworkdayjobs.com/en-US/SitusAMC/job/New-York-NY/Debt-Asset-Management-Intern--New-York_JR03079
+- [0] Continental — IT Intern (Santiago de Querétaro, Qro., mx) — https://jobs.smartrecruiters.com/Continental/744000144094545
+- [0] SitusAMC — Asset Management Intern- Atlanta (Atlanta, GA) — https://situsamc.wd1.myworkdayjobs.com/en-US/SitusAMC/job/Atlanta-GA/Asset-Management-Intern--Atlanta_JR03084
+- [0] SitusAMC — Asset Management Intern - Dallas (Dallas, Tx) — https://situsamc.wd1.myworkdayjobs.com/en-US/SitusAMC/job/Dallas-Tx/Asset-Management-Intern---Dallas_JR03088
+- [0] SitusAMC — Asset Management Intern- Plymouth Meeting (Plymouth Meeting, PA) — https://situsamc.wd1.myworkdayjobs.com/en-US/SitusAMC/job/Plymouth-Meeting-PA/Asset-Management-Intern--Plymouth-Meeting_JR03086
+- [0] Wabtec — Intern, Commodity Sourcing (Contagem, MG, br) — https://jobs.smartrecruiters.com/Wabtec/3743990014644486
