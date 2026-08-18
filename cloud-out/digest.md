@@ -1054,3 +1054,9 @@
 - [0] Bank of Montreal — Actuarial Analyst, Corporate Actuary, Winter 2027 (Co-op/Internship) - 4 months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Actuarial-Analyst--Corporate-Actuary--Winter-2027--Co-op-Internship----4-months_R260024356
 - [0] Humana — Humana Technology Internship – Summer 2027 (Louisville, KY) — https://humana.wd5.myworkdayjobs.com/en-US/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027_R-424692-1
 - [0] Continental — 2-Year Maintenance Apprentice (Sumter, SC, us) — https://jobs.smartrecruiters.com/Continental/744000144155295
+
+## 2026-08-18 20:48 — 3 new postings
+
+- [1] Johnson Controls — HVAC Truck Based Mechanic Apprentice (union) (Farmingdale-New York-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Farmingdale-New-York-United-States-of-America/HVAC-Truck-Based-Mechanic-Apprentice--union-_WD30277196
+- [0] True Anomaly — Propulsion and Fluids Intern (Long Beach, CA) — https://job-boards.greenhouse.io/trueanomalyinc/jobs/5213706007
+- [0] Altar'd State — Fall 2026 Photography Intern (Knoxville, TN) — https://standoutforgood.wd12.myworkdayjobs.com/en-US/StandOutForGood/job/Knoxville-TN/Fall-2026-Photography-Intern_SOSJ11633
