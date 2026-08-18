@@ -966,3 +966,11 @@
 
 - [0] Bosch Home Comfort — Internship at Product Management in Two-wheeler&Powersports HQ office (Bosch Corporation_Internship, jp) — https://jobs.smartrecruiters.com/BoschGroup/744000144019399
 - [0] Bosch Home Comfort — [SX/EIT-MM] UI/UX Designer Intern (Tân Bình, Thành phố Hồ Chí Minh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000144017779
+
+## 2026-08-18 10:55 — 5 new postings
+
+- [1] TikTok — Product Manager Intern - Business Integrity (Seattle, WA) — https://lifeattiktok.com/search/7673895973460576517
+- [1] TikTok — Category Management Project Intern (Seattle, WA) — https://lifeattiktok.com/search/7674880292247406901
+- [0] Sika — Graphic Design Apprentice (Welwyn Garden City, England, gb) — https://jobs.smartrecruiters.com/SikaAG/744000144033814
+- [0] TikTok — Data Science Project Intern - Advertisement Team (San Jose, CA) — https://lifeattiktok.com/search/7675080308216154373
+- [0] National Reconnaissance Office — Summer Internship - Dr. Chris Scolese (Aurora, CO, Chantilly, VA, White Sands Missile Range, NM, Fort Belvoir, VA) — https://nro.applytojob.com/apply/oZyJp3ZEQh/2027-Dr-Chris-Scolese-Summer-Internship-Program
