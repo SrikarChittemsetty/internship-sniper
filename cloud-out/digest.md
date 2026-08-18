@@ -998,3 +998,10 @@
 ## 2026-08-18 15:24 — 1 new postings
 
 - [0] Bosch Home Comfort — Academic Internship in Finance (f/m/div.) (Braga, Braga, pt) — https://jobs.smartrecruiters.com/BoschGroup/744000144100829
+
+## 2026-08-18 15:56 — 4 new postings
+
+- [4] Royal Bank of Canada — AI Applications Intern - Group Risk Management (Toronto, ON, Canada) — https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696
+- [0] Moog — Intern, Quality (Buffalo, NY) — https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Buffalo-NY/Intern--Quality_R-26-19130
+- [0] Great American Insurance Company — Information Technology (IT) Audit Intern (Cincinnati, OH (USA)) — https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Cincinnati-OH-USA/Information-Technology--IT--Audit-Intern_R9392
+- [0] Crown Innovations — NAMS-2 Intern  (Mountain View, CA, us) — https://jobs.smartrecruiters.com/CrownInnovationsInc/744000144112445
