@@ -1072,3 +1072,27 @@
 ## 2026-08-18 22:15 — 1 new postings
 
 - [0] Uline — Business Process Analyst Internship - Summer 2027 (Pleasant Prairie, WI) — https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Process-Analyst-Internship---Summer-2027_R265666
+
+## 2026-08-18 23:27 — 21 new postings
+
+- [4] By Light Professional IT Services — AI Intern (Orlando, FL) — https://jobs-bylight.icims.com/jobs/11206/job?mobile=true&needsRedirect=false
+- [4] Royal Bank of Canada — AI Applications Intern (Toronto, ON, Canada) — https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696-1
+- [4] Foundation Finance — Full Stack Developer Intern (Rothschild, WI) — https://careers.foundationfinance.com/jobs/2097?icims=1
+- [4] Cole Engineering Services — AI Intern (Orlando, FL) — https://jobs-cesi.icims.com/jobs/11206/job?mobile=true&needsRedirect=false
+- [4] Assurant — Digital & AI Transformation Intern 1 - Internship Program (Atlanta, GA) — https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115203
+- [1] Dimensional Fund Advisors — Global Client Group Operations Insights Intern - Undergraduate & Master's (Austin, TX) — https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Insights--Undergraduate---Master-s-_2026-9002
+- [1] Dimensional Fund Advisors — Global Client Group Intern - Data and Tools - Undergraduate and Master's (Austin, TX) — https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Data-and-Tools--Undergraduate---Master-s-_2026-9003
+- [1] Royal Bank of Canada — Quantitative Technology Services Co-op - Multiple Roles (Bedford, NS, Canada) — https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/90-WESTERN-PKYBEDFORD/XMLNAME-2027-Winter-Student-Opportunities-Capital-Markets--QTS---Software-Developer--4-months--Halifax_R-0000184830-1
+- [1] American Express — Product Development Intern - Global Servicing (NYC) — https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012749
+- [1] American Express — Data Analytics Intern - Global Servicing - Financial Crimes Risk & Controls (NYC) — https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012627
+- [0] Royal Bank of Canada — Data Scientist Intern - Group Risk Management (Toronto, ON, Canada) — https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Scientist-Intern--8-Months-_R-0000184624
+- [0] Filtration Group — Product Development Intern - Material Science (Chicopee, MA) — https://careers-filtrationgroupcorp.icims.com/jobs/7379/job?mobile=true&needsRedirect=false
+- [0] Hitachi — Data Center Optimization Intern (Santa Clara, CA) — https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Intern---Data-Center-Optimization_R0142174
+- [0] Wabtec — Digital Intern (Erie, PA) — https://jobs.smartrecruiters.com/Wabtec/3743990014655843
+- [0] Royal Bank of Canada — Data Scientist Intern - Group Risk Management (Toronto, ON, Canada) — https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Scientist-Intern--8-Months-_R-0000184624-1
+- [0] RTX — Manufacturing & Quality Analyst Intern (Longueuil, QC, Canada) — https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Hiver-2027---Analyste-de-Fabrication-Qualite---Internship-Winter-2027-Winter---Manufacturing---Quality-Analyst_01864107
+- [0] National Laboratory of the Rockies — Agricultural Energy Intern - Year-Round (Golden, CO) — https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Post-Graduate--Year-Round--Intern---Agricultural-Energy_R14459
+- [0] RTX — Digital Technology Intern (East Hartford, CT) — https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Digital-Technology-Intern----Hybrid-_01867766
+- [0] Truist Bank — Technology and Operations Intern - Data (Charlotte, NC, Atlanta, GA) — https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Technology--Data--and-Operations-Internship_R0118061
+- [0] Kimley-Horn — GIS Intern (Fort Worth, TX) — https://careers-kimley-horn.icims.com/jobs/25884/job?mobile=true&needsRedirect=false
+- [0] Harris Central Appraisal District — GIS Intern (Houston, TX) — https://hcad.wd5.myworkdayjobs.com/HCADCareers/job/Houston-Texas/GIS-Intern_JR523
