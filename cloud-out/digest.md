@@ -1026,3 +1026,10 @@
 
 - [0] Sanofi — Sanofi Canada January 2027 Co-Op University Recruitment Program (Toronto, ON) — https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Toronto-ON/Sanofi-Canada-January-2027-Co-Op-University-Recruitment-Program_R2866240
 - [0] Sentara Health — CVI Tech Internship (Norfolk, VA) — https://sentara.wd1.myworkdayjobs.com/en-US/SCS/job/Norfolk-VA/CVI-Tech-Internship_JR-104558
+
+## 2026-08-18 19:07 — 4 new postings
+
+- [0] Nationwide Children's Hospital — Pharmacy Intern - Inpatient Pharmacy (Main Campus, Columbus, OH) — https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/Pharmacy-Intern---Inpatient-Pharmacy_R-27549-1
+- [0] Northrop Grumman — 2027 Guidance Navigation and Control Intern Dulles VA (United States-Virginia-Dulles) — https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322
+- [0] Wabtec — Summer 2027 Digital Internship (Erie, PA, us) — https://jobs.smartrecruiters.com/Wabtec/3743990014655843
+- [0] Heidelberg Materials — Concrete Intern (Houston, TX) — https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Houston-TX/Concrete-Intern_JR10018089
