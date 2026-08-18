@@ -1009,3 +1009,9 @@
 ## 2026-08-18 16:22 — 1 new postings
 
 - [0] MultiCare Health System — RN Resident/Fellow Valley Spokane, ED October 5th  cohort — https://multicare.wd1.myworkdayjobs.com/en-US/multicare/job/Spokane-Valley-Washington/RN-Resident-Fellow-Valley-ED-October-5th--cohort_JR78663-1
+
+## 2026-08-18 16:57 — 3 new postings
+
+- [0] General Motors — 2027 Summer Intern – Finance Controllership (Warren, Michigan, United States of America) — https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Finance-Controllership_JR-202618060
+- [0] Fermilab — UNDERGRADUATE INTERN-MS (Lead, SD) — https://fermilab.wd5.myworkdayjobs.com/en-US/FermilabCareers/job/Lead-SD/UNDERGRADUATE-INTERN-MS_R_009775
+- [0] Fifth Third Bank — Commercial Credit Internship - Summer 2027 - Charlotte (Charlotte, NC) — https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Charlotte-NC/Commercial-Credit-Internship---Summer-2027---Charlotte_R71367
