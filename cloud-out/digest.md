@@ -932,3 +932,13 @@
 
 - [0] Airbus — Summer Internship - Quality Assurance (Mobile Area, AL) — https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mobile-Area-AL/Summer-Internship---Quality-Assurance_JR10434813
 - [0] Hitachi Energy — Community Engagement Intern (Raleigh, North Carolina, United States) — https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Raleigh-North-Carolina-United-States/Community-Engagement-Intern_R0141475
+
+## 2026-08-18 03:27 — 7 new postings
+
+- [2] RegDesk — Front End Developer Intern (Philadelphia, PA) — https://jobs.smartrecruiters.com/RegDeskInc/92145731
+- [0] Fannie Mae — Business Analysis Associate Intern - Access Management (Washington, DC) — https://jobs.smartrecruiters.com/FannieMae1SB/743999744532787
+- [0] Fannie Mae — Data Science Analyst 3 Intern - Cat J (Washington, DC) — https://jobs.smartrecruiters.com/FannieMae1SB/743999731568800
+- [0] Clinical Ink — Data Management Intern (Horsham, PA) — https://jobs.smartrecruiters.com/ClinicalInk/89163444
+- [0] iFLIP4 — PHP Programmer Intern - Social Enterprise (East Hanover, NJ) — https://jobs.smartrecruiters.com/iFLIP4/75391381
+- [0] Huck Adventures — Research Analyst Intern (Boulder, CO) — https://jobs.smartrecruiters.com/HuckAdventures/743999747985535
+- [0] Riveron — Technology & Innovation Intern (SF, San Jose, CA) — https://jobs.ashbyhq.com/riveron/a1c4ef22-34a2-43b8-950d-ca6288cc17a1/application?embed=true
