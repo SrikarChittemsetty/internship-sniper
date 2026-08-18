@@ -946,3 +946,18 @@
 ## 2026-08-18 04:51 — 1 new postings
 
 - [0] Bosch Home Comfort — [Bosch HcP - Internship] Data Service Intern (An Phuoc Commune, Dong Nai, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000143976970
+
+## 2026-08-18 08:52 — 12 new postings
+
+- [4] Royal Bank of Canada — Data Analyst Co-op - AI Business Enablement (Toronto, ON, Canada) — https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---AI-Data-Analyst---8-Months_R-0000184505-2
+- [4] University of St. Thomas — Semiconductor Test AI Intern - Minnesota Semiconductor AI Hub (St Paul, MN) — https://studentemployment-stthomas.icims.com/jobs/9529/job?mobile=true&needsRedirect=false
+- [1] Praytell — Analytics & Reporting Intern (Chicago, IL, NYC) — https://apply.workable.com/praytell/j/64893520AF/apply
+- [1] Wells Fargo — Quantitative Analytics Intern - Multiple Teams (Charlotte, NC) — https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-Masters----Early-Careers_R-569402
+- [0] Bosch Home Comfort — Trade Marketing & Communication Internship (Brussels, be) — https://jobs.smartrecruiters.com/BoschGroup/744000144011669
+- [0] Bosch Home Comfort — [EMC] Intern for Admin / Training Support (Tân Bình, Thành phố Hồ Chí Minh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000144008272
+- [0] Royal Bank of Canada — Technical Systems Analyst Co-op - Technology & Operations (Toronto, ON, Canada) — https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Technical-Systems-Analyst--4-12-Months_R-0000184552
+- [0] Royal Bank of Canada — Developer Co-op - Multiple Roles (Toronto, ON, Canada, Calgary, AB, Canada) — https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---Software-Developer--4-8-Months_R-0000184501
+- [0] RTX — Modeling, Simulation & Analysis Intern - Summer 2027 (Tucson, AZ) — https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern--Summer-2027-_01867118
+- [0] Deloitte — Forensic Analytics Summer Scholar Intern - Forensic Analytics (Atlanta, GA) — https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Forensic-Analytics/363251
+- [0] North American Construction Group — Condition Based Monitoring Co-op (Acheson, AB, Canada) — https://careers-nacg.icims.com/jobs/16942/job?mobile=true&needsRedirect=false
+- [0] University of St. Thomas — Digital Innovation & Learning Technology Intern (St Paul, MN) — https://studentemployment-stthomas.icims.com/jobs/9527/job?mobile=true&needsRedirect=false
