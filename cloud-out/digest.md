@@ -1033,3 +1033,17 @@
 - [0] Northrop Grumman — 2027 Guidance Navigation and Control Intern Dulles VA (United States-Virginia-Dulles) — https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322
 - [0] Wabtec — Summer 2027 Digital Internship (Erie, PA, us) — https://jobs.smartrecruiters.com/Wabtec/3743990014655843
 - [0] Heidelberg Materials — Concrete Intern (Houston, TX) — https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Houston-TX/Concrete-Intern_JR10018089
+
+## 2026-08-18 19:39 — 11 new postings
+
+- [4] Assurant — Digital & AI Transformation Intern-1 (Atlanta, GA) — https://assurant.wd1.myworkdayjobs.com/en-US/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115202
+- [4] Assurant — Digital & AI Transformation Intern-1 (Atlanta, GA) — https://assurant.wd1.myworkdayjobs.com/en-US/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115203
+- [0] Bank of Montreal — Data Analytics Intern, Winter 2027 (Co-op/Internship) - 8 months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Data-Analytics-Intern--Winter-2027--Co-op-Internship----8-months_R260024336
+- [0] Bank of Montreal — Actuarial Analyst, Pricing (Co-op/Internship) - 4 months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Actuarial-Analyst--Pricing--Co-op-Internship----4-months_R260014092-2
+- [0] Bank of Montreal — Private Wealth Associate - Halifax, Fall 2026 (Co-op/Internship) - 4 months (Halifax, NS, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Halifax-NS-CAN/Private-Wealth-Associate---Halifax--Fall-2026--Co-op-Internship----4-months_R260014730-2
+- [0] Bank of Montreal — Business Management Coordinator, Winter 2027 (Co-op/Internship) - 4 months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Business-Management-Coordinator--Winter-2027--Co-op-Internship----4-months_R260024334
+- [0] University of Virginia — Federal Work-Study (FWS) Internship Program: Venture Support Staff (TFWS) (Charlottesville, VA) — https://uva.wd1.myworkdayjobs.com/en-US/uvastudentjobs/job/Charlottesville-VA/Federal-Work-Study--FWS--Internship-Program--Venture-Support-Staff--TFWS-_R0086216
+- [0] Avery Dennison — Accounting Co-op - Spring 2027 (Mentor, OH, us) — https://jobs.smartrecruiters.com/AveryDennison/744000144151824
+- [0] City of Philadelphia — Comp Plan Intern (Philadelphia, PA, us) — https://jobs.smartrecruiters.com/CityofPhiladelphia/744000144156200
+- [0] City of Philadelphia — Citizens Planning Institute Intern (Philadelphia, PA, us) — https://jobs.smartrecruiters.com/CityofPhiladelphia/744000144155699
+- [0] City of Philadelphia — Legislative Planning Intern - Planning and Development   (Philadelphia, PA, us) — https://jobs.smartrecruiters.com/CityofPhiladelphia/744000144155569
