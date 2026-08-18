@@ -974,3 +974,7 @@
 - [0] Sika — Graphic Design Apprentice (Welwyn Garden City, England, gb) — https://jobs.smartrecruiters.com/SikaAG/744000144033814
 - [0] TikTok — Data Science Project Intern - Advertisement Team (San Jose, CA) — https://lifeattiktok.com/search/7675080308216154373
 - [0] National Reconnaissance Office — Summer Internship - Dr. Chris Scolese (Aurora, CO, Chantilly, VA, White Sands Missile Range, NM, Fort Belvoir, VA) — https://nro.applytojob.com/apply/oZyJp3ZEQh/2027-Dr-Chris-Scolese-Summer-Internship-Program
+
+## 2026-08-18 13:25 — 1 new postings
+
+- [0] Shaw Industries Group — Tax Intern (Shaw Plant 61, 616 E Walnut Ave, Dalton, GA 30720 USA) — https://shawinc.wd1.myworkdayjobs.com/en-US/External/job/Shaw-Plant-61-616-E-Walnut-Ave-Dalton-GA-30720-USA/Tax-Intern_R-156112
