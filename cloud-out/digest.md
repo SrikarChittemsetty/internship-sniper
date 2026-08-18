@@ -978,3 +978,10 @@
 ## 2026-08-18 13:25 — 1 new postings
 
 - [0] Shaw Industries Group — Tax Intern (Shaw Plant 61, 616 E Walnut Ave, Dalton, GA 30720 USA) — https://shawinc.wd1.myworkdayjobs.com/en-US/External/job/Shaw-Plant-61-616-E-Walnut-Ave-Dalton-GA-30720-USA/Tax-Intern_R-156112
+
+## 2026-08-18 14:05 — 4 new postings
+
+- [1] Novogradac — Staff Accountant Intern (Austin) — https://novoco.wd108.myworkdayjobs.com/en-US/Novogradac/job/Austin/Staff-Accountant-Intern_JR100488
+- [0] Royal Bank of Canada — 2026 PCG Wealth Management Intern (Beverly Hills, California, United States of America) — https://rbc.wd3.myworkdayjobs.com/en-US/ExternalPrivatePostingStudents/job/Beverly-Hills-California-United-States-of-America/XMLNAME-2026-PCG-Wealth-Management-Intern_R-0000184630
+- [0] Red Bull — Internship Talent Acquisition Operations (Elsbethen, Salzburg, at) — https://jobs.smartrecruiters.com/RedBull/744000144075079
+- [0] Bosch Home Comfort — Supply and Demand Planner - Intern (Arabic and French language) (Beograd, rs) — https://jobs.smartrecruiters.com/BoschGroup/744000144077204
