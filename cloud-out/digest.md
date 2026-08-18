@@ -927,3 +927,8 @@
 - [0] Royal Bank of Canada — Data Analyst Co-op - Personal Banking (Toronto, ON, Canada) — https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking--4--8--12-months-_R-0000184514
 - [0] Arthur J. Gallagher & Co. — Data Analytics Intern (Rolling Meadows, IL) — https://jobs.ajg.com/jobs/57701?icims=1
 - [0] Readystate Asset Management — Investment Intern - Summer 2027 & 2028 (Chicago, IL) — https://job-boards.greenhouse.io/readystate/jobs/4171077008
+
+## 2026-08-18 01:22 — 2 new postings
+
+- [0] Airbus — Summer Internship - Quality Assurance (Mobile Area, AL) — https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mobile-Area-AL/Summer-Internship---Quality-Assurance_JR10434813
+- [0] Hitachi Energy — Community Engagement Intern (Raleigh, North Carolina, United States) — https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Raleigh-North-Carolina-United-States/Community-Engagement-Intern_R0141475
