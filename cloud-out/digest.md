@@ -1047,3 +1047,10 @@
 - [0] City of Philadelphia — Comp Plan Intern (Philadelphia, PA, us) — https://jobs.smartrecruiters.com/CityofPhiladelphia/744000144156200
 - [0] City of Philadelphia — Citizens Planning Institute Intern (Philadelphia, PA, us) — https://jobs.smartrecruiters.com/CityofPhiladelphia/744000144155699
 - [0] City of Philadelphia — Legislative Planning Intern - Planning and Development   (Philadelphia, PA, us) — https://jobs.smartrecruiters.com/CityofPhiladelphia/744000144155569
+
+## 2026-08-18 19:57 — 4 new postings
+
+- [0] Bank of Montreal — Private Wealth Administrative Assistant - Oakville, Winter 2027 (Co-op/Internship) - 4 months (Oakville, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Oakville-ON-CAN/Private-Wealth-Administrative-Assistant---Oakville--Winter-2027--Co-op-Internship----4-months_R260024359
+- [0] Bank of Montreal — Actuarial Analyst, Corporate Actuary, Winter 2027 (Co-op/Internship) - 4 months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Actuarial-Analyst--Corporate-Actuary--Winter-2027--Co-op-Internship----4-months_R260024356
+- [0] Humana — Humana Technology Internship – Summer 2027 (Louisville, KY) — https://humana.wd5.myworkdayjobs.com/en-US/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027_R-424692-1
+- [0] Continental — 2-Year Maintenance Apprentice (Sumter, SC, us) — https://jobs.smartrecruiters.com/Continental/744000144155295
