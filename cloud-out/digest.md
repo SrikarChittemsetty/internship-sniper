@@ -1015,3 +1015,9 @@
 - [0] General Motors — 2027 Summer Intern – Finance Controllership (Warren, Michigan, United States of America) — https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Finance-Controllership_JR-202618060
 - [0] Fermilab — UNDERGRADUATE INTERN-MS (Lead, SD) — https://fermilab.wd5.myworkdayjobs.com/en-US/FermilabCareers/job/Lead-SD/UNDERGRADUATE-INTERN-MS_R_009775
 - [0] Fifth Third Bank — Commercial Credit Internship - Summer 2027 - Charlotte (Charlotte, NC) — https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Charlotte-NC/Commercial-Credit-Internship---Summer-2027---Charlotte_R71367
+
+## 2026-08-18 17:52 — 3 new postings
+
+- [0] Wabtec — Summer 2027 Environmental Health & Safety Internship (Erie, PA, us) — https://jobs.smartrecruiters.com/Wabtec/3743990014654046
+- [0] Wabtec — Summer 2027 Manufacturing Operations/Supply Chain Internship (Erie, PA, us) — https://jobs.smartrecruiters.com/Wabtec/3743990014653896
+- [0] Wabtec — Summer 2027 LEAD Information Technology Intern (Pittsburgh, PA, us) — https://jobs.smartrecruiters.com/Wabtec/3743990014653716
