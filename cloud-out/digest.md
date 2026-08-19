@@ -1129,3 +1129,7 @@
 
 - [0] Continental Resources — Data Analyst Intern (Oklahoma City, OK) — https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1
 - [0] Continental Resources — Geoscience Intern (Oklahoma City, OK) — https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Geoscience-Intern--Summer-2027-_R02592-1
+
+## 2026-08-19 09:04 — 1 new postings
+
+- [0] DreamWorks Animation — Publicity Intern (m/w/d) (Frankfurt, de) — https://jobs.smartrecruiters.com/NBCUniversal3/744000144258149
