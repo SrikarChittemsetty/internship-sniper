@@ -1096,3 +1096,9 @@
 - [0] Truist Bank — Technology and Operations Intern - Data (Charlotte, NC, Atlanta, GA) — https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Technology--Data--and-Operations-Internship_R0118061
 - [0] Kimley-Horn — GIS Intern (Fort Worth, TX) — https://careers-kimley-horn.icims.com/jobs/25884/job?mobile=true&needsRedirect=false
 - [0] Harris Central Appraisal District — GIS Intern (Houston, TX) — https://hcad.wd5.myworkdayjobs.com/HCADCareers/job/Houston-Texas/GIS-Intern_JR523
+
+## 2026-08-19 02:09 — 3 new postings
+
+- [0] Fifth Third Bank — Finance and Accounting Leadership Program Intern:  Accounting Track - Summer 2027 (Cincinnati, OH) — https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Finance-and-Accounting-Leadership-Program-Intern---Accounting-Track---Summer-2027_R71325
+- [0] Fifth Third Bank — Finance and Accounting Leadership Program Intern:  Finance Track - Summer 2027 (Cincinnati, OH) — https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Finance-and-Accounting-Leadership-Program-Intern---Finance-Track---Summer-2027_R71324
+- [0] Magna International — Intern Finance (Nanchang, Jiangxi, CN) — https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Nanchang-Jiangxi-CN/Intern-Finance_R00257184
