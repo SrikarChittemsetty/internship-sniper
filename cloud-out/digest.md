@@ -1120,3 +1120,7 @@
 - [0] Avery Dennison — Operations Apprentice (Shah Alam, Selangor, my) — https://jobs.smartrecruiters.com/AveryDennison/744000144234730
 - [0] Nexthink — Marketing Operations Intern (6 months) (Madrid, MD, es) — https://jobs.smartrecruiters.com/Nexthink/744000144239749
 - [0] Bosch Home Comfort — [EMN] Internship – Automotive Hardware Penetration Testing (Ho Chi Minh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000144233170
+
+## 2026-08-19 07:53 — 1 new postings
+
+- [0] Continental — Internship IT Projects (UEM- 8 hours) - Tires (Timișoara, TM, ro) — https://jobs.smartrecruiters.com/Continental/744000144242540
