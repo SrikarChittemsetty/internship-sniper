@@ -1182,3 +1182,12 @@
 
 - [3] Sezzle — Product Marketing Operations Intern (Colombia, Remote) — https://job-boards.greenhouse.io/sezzle/jobs/7895790003
 - [0] Red Bull — Internship Talent Acquisition Operations (Elsbethen, Salzburg, at) — https://jobs.smartrecruiters.com/RedBull/744000144344849
+
+## 2026-08-19 15:56 — 6 new postings
+
+- [2] InfiniteQuant — Quantitative Developer Internship - Summer 2027 (Dubai - United Arab Emirates, NYC) — https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579
+- [0] Conagra Brands — FP&A Internship - Summer 2027 (Chicago, Illinois) — https://conagrabrands.wd1.myworkdayjobs.com/en-US/Careers_US/job/Chicago-Illinois/FP-A-Internship---Summer-2027_Req-039834
+- [0] Vanguard — Intern - C2C Sales (NC) (Charlotte, NC) — https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Intern---C2C-Sales--NC-_180103
+- [0] Vanguard — Intern - C2C Business Leadership (PA) (Malvern, PA) — https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Intern---C2C-Business-Leadership--PA-_180099
+- [0] Vanguard — College to Corporate Internship - Finance (Malvern, PA) — https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/College-to-Corporate-Internship---Finance_180047
+- [0] Marmon Holdings — Data & Process Automation Intern - Duty Drawback (Newark, NJ) — https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Newark-NJ/Data---Process-Automation-Intern---Duty-Drawback_JR0000045184
