@@ -1226,3 +1226,7 @@
 ## 2026-08-19 19:37 — 1 new postings
 
 - [1] OpusClip — Social Growth Intern (San Francisco) — https://jobs.ashbyhq.com/opusclip/029c9eca-cb3d-4292-bc3f-97e506046d0d
+
+## 2026-08-19 19:59 — 1 new postings
+
+- [0] Bosch Home Comfort — Electrochemistry Modeling Intern (Sunnyvale, CA) — https://jobs.smartrecruiters.com/BoschGroup/744000144370279
