@@ -1191,3 +1191,8 @@
 - [0] Vanguard — Intern - C2C Business Leadership (PA) (Malvern, PA) — https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Intern---C2C-Business-Leadership--PA-_180099
 - [0] Vanguard — College to Corporate Internship - Finance (Malvern, PA) — https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/College-to-Corporate-Internship---Finance_180047
 - [0] Marmon Holdings — Data & Process Automation Intern - Duty Drawback (Newark, NJ) — https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Newark-NJ/Data---Process-Automation-Intern---Duty-Drawback_JR0000045184
+
+## 2026-08-19 16:23 — 2 new postings
+
+- [0] American Electric Power — Transmission System Operator Intern (Corpus Christi, TX) — https://aep.wd1.myworkdayjobs.com/en-US/AEPCareerSite/job/Corpus-Christi-TX/Transmission-System-Operator-Intern_R18338
+- [0] Terex — ME Intern, Training, Part time (USA, SD, Watertown) — https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/USA-SD-Watertown/ME-Intern--Training--Part-time_REQ-14067
