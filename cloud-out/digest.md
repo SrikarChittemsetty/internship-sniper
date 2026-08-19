@@ -1113,3 +1113,10 @@
 - [0] Bosch Home Comfort — [Internship Program Q4] Automation Tester Intern (Selenium) (Ho Chi Minh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000144223980
 - [0] Humana — Technology Intern (Louisville, KY) — https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027_R-424692-1
 - [0] PricewaterhouseCoopers (PwC) — Summer Intern - SAP (Calgary, AB, Canada) — https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/May-2027---SAP---Summer-Intern---Calgary_752589WD
+
+## 2026-08-19 07:04 — 4 new postings
+
+- [0] Micron Technology — Intern - Advanced DRAM Process Integration (Boise, ID - Main Site) — https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Advanced-DRAM-Process-Integration_JR107205
+- [0] Avery Dennison — Operations Apprentice (Shah Alam, Selangor, my) — https://jobs.smartrecruiters.com/AveryDennison/744000144234730
+- [0] Nexthink — Marketing Operations Intern (6 months) (Madrid, MD, es) — https://jobs.smartrecruiters.com/Nexthink/744000144239749
+- [0] Bosch Home Comfort — [EMN] Internship – Automotive Hardware Penetration Testing (Ho Chi Minh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000144233170
