@@ -1160,3 +1160,10 @@
 
 - [0] RTX — SkillBridge Intern DoD: Information System Security Officer (ISSO) - Tucson, AZ (US-AZ-TUCSON-M05 ~ 1151 E Hermans Rd ~ BLDG M05 (External Site)) — https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M05--1151-E-Hermans-Rd--BLDG-M05-External-Site/SkillBridge-Intern-DoD--Information-System-Security-Officer--ISSO----Tucson--AZ_01867406
 - [0] Continental — Internship - Automation & Digitalization for MTA Curing & Spraying (m/w/d) -  REF98984W (Hannover, NDS, de) — https://jobs.smartrecruiters.com/Continental/744000144300100
+
+## 2026-08-19 13:27 — 4 new postings
+
+- [3] Baldwin Group — Operations Intern, MSI & LeaseTrack (Remote US) — https://baldwin.wd1.myworkdayjobs.com/en-US/Baldwin/job/Remote-US/Operations-Intern--MSI---LeaseTrack_JR110082-1
+- [3] GE Healthcare — Client Service Technician Apprentice (Remote) — https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician_R4043134-1
+- [0] Marmon Holdings — Data & Process Automation Intern - Duty Drawback (Newark, NJ) — https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_Careers/job/Newark-NJ/Data---Process-Automation-Intern---Duty-Drawback_JR0000045184
+- [0] Baldwin Group — Claims Intern, MSI (Tampa, Florida, US) — https://baldwin.wd1.myworkdayjobs.com/en-US/Baldwin/job/Tampa-Florida-US/Claims-Intern--MSI_JR110081-1
