@@ -1172,3 +1172,8 @@
 
 - [0] Johnson & Johnson — External Planning Intern (Titusville, New Jersey, United States of America) — https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/External-Planning-Intern_R-094377
 - [0] Heidelberg Materials — Corporate Real Estate Intern (Irving, TX) — https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Irving-TX/Corporate-Real-Estate-Intern_JR10018121
+
+## 2026-08-19 14:52 — 2 new postings
+
+- [0] Bosch Home Comfort — Internship in Human Resources (Tienen, Vlaanderen, be) — https://jobs.smartrecruiters.com/BoschGroup/744000144335064
+- [0] Ascensus — Actuarial Intern - Nyhart (Indianapolis, IN) — https://ascensushr.wd1.myworkdayjobs.com/en-US/ascensuscareers/job/Indianapolis-IN/Actuarial-Intern---Nyhart_R0022087
