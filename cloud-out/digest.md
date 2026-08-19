@@ -1155,3 +1155,8 @@
 - [0] NVIDIA — Ph.D. Research Hardware Intern (Santa Clara, CA) — https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855
 - [0] NVIDIA — Hardware Design for Test Intern - DFT (Santa Clara, CA) — https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1
 - [0] NVIDIA — Computer Vision and Deep Learning Intern (Santa Clara, CA) — https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833
+
+## 2026-08-19 12:30 — 2 new postings
+
+- [0] RTX — SkillBridge Intern DoD: Information System Security Officer (ISSO) - Tucson, AZ (US-AZ-TUCSON-M05 ~ 1151 E Hermans Rd ~ BLDG M05 (External Site)) — https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M05--1151-E-Hermans-Rd--BLDG-M05-External-Site/SkillBridge-Intern-DoD--Information-System-Security-Officer--ISSO----Tucson--AZ_01867406
+- [0] Continental — Internship - Automation & Digitalization for MTA Curing & Spraying (m/w/d) -  REF98984W (Hannover, NDS, de) — https://jobs.smartrecruiters.com/Continental/744000144300100
