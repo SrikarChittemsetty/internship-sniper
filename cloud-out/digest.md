@@ -1248,3 +1248,9 @@
 - [0] Humana — Actuarial Internship – Summer 2027 (Louisville, KY) — https://humana.wd5.myworkdayjobs.com/en-US/humana_external_career_site/job/Louisville-KY/Actuarial-Internship---Summer-2027_R-427297
 - [0] Regions Bank — 2027 ETP Intern - Technology, Operations, Digital, and Data - Technology (Hoover, AL - Riverchase Operations Center (Birmingham, AL)) — https://regions.wd5.myworkdayjobs.com/en-US/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Technology_R105425
 - [0] Regions Bank — 2027 ETP Intern - Technology, Operations, Digital, and Data - Analytics (Hoover, AL - Riverchase Operations Center (Birmingham, AL)) — https://regions.wd5.myworkdayjobs.com/en-US/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Analytics_R105426
+
+## 2026-08-19 21:49 — 3 new postings
+
+- [4] Autodesk — AI Developer Intern (Montreal, QC, Canada) — https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1
+- [1] Willkie Farr & Gallagher — Financial Data Analyst Intern (NYC) — https://uscareers-willkie.icims.com/jobs/2194/job?mobile=true&needsRedirect=false
+- [0] Moog — Computer Science Intern - Information Technology (Buffalo, NY) — https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378
