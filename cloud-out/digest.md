@@ -1230,3 +1230,10 @@
 ## 2026-08-19 19:59 — 1 new postings
 
 - [0] Bosch Home Comfort — Electrochemistry Modeling Intern (Sunnyvale, CA) — https://jobs.smartrecruiters.com/BoschGroup/744000144370279
+
+## 2026-08-19 20:26 — 4 new postings
+
+- [0] Teledyne — Lifesciences Coop (Canada - Waterloo, ON) — https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/Canada---Waterloo-ON/Lifesciences-Coop_REQ36056
+- [0] Fidelity Investments — Intern, Audit (Boston, MA) — https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Intern--Audit_2134125
+- [0] Elanco — Manufacturing Scientist/Technical Services Intern – Clinton, Indiana (Summer 2027) (Clinton, IN) — https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Clinton-IN/Manufacturing-Scientist-Technical-Services-Intern---Clinton--Indiana--Summer-2027-_R0026869-1
+- [0] Regions Bank — 2027 ETP Intern - Corporate Banking Group, Commercial Credit Products, Huntsville, AL (Huntsville, AL - Madison Street Branch) — https://regions.wd5.myworkdayjobs.com/en-US/regions_careers/job/Huntsville-AL---Madison-Street-Branch/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Commercial-Credit-Products--Huntsville--AL_R105416
