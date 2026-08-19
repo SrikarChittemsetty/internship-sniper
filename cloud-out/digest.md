@@ -1208,3 +1208,13 @@
 ## 2026-08-19 17:20 — 1 new postings
 
 - [0] Bosch Home Comfort — Electrochemistry Modeling Intern (Sunnyvale, CA, us) — https://jobs.smartrecruiters.com/BoschGroup/744000144370279
+
+## 2026-08-19 17:49 — 7 new postings
+
+- [4] Autodesk — Intern, AI Developer/ Stagiaire en développement IA (Montreal, QC, CAN) — https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2
+- [3] GE Vernova — GE Vernova Commercial Internship – US – Summer 2027-1 (Remote) — https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Remote/GE-Vernova-Commercial-Internship---US---Summer-2027-1_R5050686-2
+- [0] Bank of Montreal — Marketing Coordinator, Winter 2027 (Co-op/Internship) - 8 Months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Marketing-Coordinator--Winter-2027--Co-op-Internship----8-Months_R260024511
+- [0] Bank of Montreal — Workforce Analyst, Winter 2027 (Co-op/Internship) - 8 Months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513
+- [0] Moog — Intern, IT Computer Science (Buffalo, NY) — https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378
+- [0] The Federal Reserve System — Research IT Intern (Atlanta, GA) — https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/Research-IT-Intern_R-0000033090
+- [0] Wabtec — Intern - Manufacturing (London, ON, ca) — https://jobs.smartrecruiters.com/Wabtec/3743990014679659
