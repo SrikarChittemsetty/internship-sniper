@@ -1102,3 +1102,14 @@
 - [0] Fifth Third Bank — Finance and Accounting Leadership Program Intern:  Accounting Track - Summer 2027 (Cincinnati, OH) — https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Finance-and-Accounting-Leadership-Program-Intern---Accounting-Track---Summer-2027_R71325
 - [0] Fifth Third Bank — Finance and Accounting Leadership Program Intern:  Finance Track - Summer 2027 (Cincinnati, OH) — https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Finance-and-Accounting-Leadership-Program-Intern---Finance-Track---Summer-2027_R71324
 - [0] Magna International — Intern Finance (Nanchang, Jiangxi, CN) — https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Nanchang-Jiangxi-CN/Intern-Finance_R00257184
+
+## 2026-08-19 03:10 — 8 new postings
+
+- [4] PricewaterhouseCoopers (PwC) — Cloud, Data and AI Intern (Calgary, AB, Canada) — https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/May-2027---Cloud--Data-and-AI---Summer-Intern---Calgary_752586WD
+- [4] PricewaterhouseCoopers (PwC) — Cloud, Data and AI Intern - Cloud, Data and AI (Vancouver, BC, Canada) — https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Vancouver/May-2027---Cloud--Data-and-AI---Summer-Intern---Vancouver_752583WD
+- [4] PricewaterhouseCoopers (PwC) — Cloud, Data and AI Intern (Toronto, ON, Canada) — https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Toronto/May-2027---Cloud--Data-and-AI---Summer-Intern---Toronto_745713WD
+- [4] PricewaterhouseCoopers (PwC) — Cloud, Data and AI Intern (Ottawa, ON, Canada) — https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Ottawa/May-2027---Cloud--Data-and-AI---Summer-Intern---Ottawa_752827WD
+- [1] ByteDance — Immigration Data Analyst Intern - Hrops (Seattle, WA) — https://jobs.bytedance.com/en/position/7675376319236311349/detail
+- [0] Bosch Home Comfort — [Internship Program Q4] Automation Tester Intern (Selenium) (Ho Chi Minh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000144223980
+- [0] Humana — Technology Intern (Louisville, KY) — https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027_R-424692-1
+- [0] PricewaterhouseCoopers (PwC) — Summer Intern - SAP (Calgary, AB, Canada) — https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/May-2027---SAP---Summer-Intern---Calgary_752589WD
