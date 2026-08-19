@@ -1196,3 +1196,11 @@
 
 - [0] American Electric Power — Transmission System Operator Intern (Corpus Christi, TX) — https://aep.wd1.myworkdayjobs.com/en-US/AEPCareerSite/job/Corpus-Christi-TX/Transmission-System-Operator-Intern_R18338
 - [0] Terex — ME Intern, Training, Part time (USA, SD, Watertown) — https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/job/USA-SD-Watertown/ME-Intern--Training--Part-time_REQ-14067
+
+## 2026-08-19 16:55 — 5 new postings
+
+- [1] Veeda AI — Internship (Toronto, Zürich, Seattle, California) — https://jobs.ashbyhq.com/veeda-labs/31d097db-83ac-4a6d-9520-8dc29a8dbe08
+- [0] Nationwide Children's Hospital — Fellow MD (Main Campus, Columbus, OH) — https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/Fellow-MD_R-27519
+- [0] IKO — HSE/Safety Intern (Ennis, TX) — https://iko.wd3.myworkdayjobs.com/en-US/iko_careers/job/Ennis-TX/HSE-Safety-Intern_REQ-13202
+- [0] Viavi Solutions — SW Development Intern/Data Analytics (Home Office, USA) — https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Home-Office-USA/SW-Development-Intern-Data-Analytics_260005059
+- [0] Advocate Health Care — Intern - Senior (Charlotte, NC - 1110 Center Park Dr) — https://aah.wd5.myworkdayjobs.com/en-US/External/job/Charlotte-NC---1110-Center-Park-Dr/Intern---Senior_R264525
