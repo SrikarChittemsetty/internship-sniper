@@ -1137,3 +1137,21 @@
 ## 2026-08-19 10:21 — 1 new postings
 
 - [0] Egis Group — Architecture Intern (Tamheer) (Riyadh, Riyadh Province, sa) — https://jobs.smartrecruiters.com/EgisGroup/744000144278399
+
+## 2026-08-19 10:54 — 15 new postings
+
+- [4] NVIDIA — Generative AI Ph.D. Research Intern (Santa Clara, CA) — https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475
+- [2] InfiniteQuant — Quantitative Developer - Internship - Summer 2027 (New York, New York, us) — https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579
+- [0] NVIDIA — Ph.D. Research Autonomous Vehicles Intern (Santa Clara, CA) — https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838
+- [0] NVIDIA — Computer Architecture and Systems Intern - Research (Santa Clara, CA) — https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Architecture-and-Systems_JR2023854
+- [0] NVIDIA — Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries (Santa Clara, CA) — https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1
+- [0] NVIDIA — Large Language Models Intern - Research (Santa Clara, CA) — https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837
+- [0] NVIDIA — Developer and Performance Technology Intern (Santa Clara, CA) — https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499
+- [0] NVIDIA — Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation (Santa Clara, CA) — https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Graphics-and-Simulation_JR2023835
+- [0] NVIDIA — Hardware Physical Design / VLSI Intern (Santa Clara, CA) — https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501
+- [0] NVIDIA — Hardware Verification Intern (Santa Clara, CA) — https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500
+- [0] NVIDIA — Deep Learning Computer Architecture Intern (Santa Clara, CA) — https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491
+- [0] NVIDIA — Computer Architecture Intern (Santa Clara, CA) — https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489
+- [0] NVIDIA — Ph.D. Research Hardware Intern (Santa Clara, CA) — https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855
+- [0] NVIDIA — Hardware Design for Test Intern - DFT (Santa Clara, CA) — https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1
+- [0] NVIDIA — Computer Vision and Deep Learning Intern (Santa Clara, CA) — https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833
