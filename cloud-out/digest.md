@@ -1218,3 +1218,7 @@
 - [0] Moog — Intern, IT Computer Science (Buffalo, NY) — https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378
 - [0] The Federal Reserve System — Research IT Intern (Atlanta, GA) — https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/Research-IT-Intern_R-0000033090
 - [0] Wabtec — Intern - Manufacturing (London, ON, ca) — https://jobs.smartrecruiters.com/Wabtec/3743990014679659
+
+## 2026-08-19 19:02 — 1 new postings
+
+- [0] Valeo — Purchasing Intern (Year-Round) (Troy, MI) — https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Purchasing-Intern--Year-Round-_REQ2026073558
