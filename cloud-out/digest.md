@@ -1177,3 +1177,8 @@
 
 - [0] Bosch Home Comfort — Internship in Human Resources (Tienen, Vlaanderen, be) — https://jobs.smartrecruiters.com/BoschGroup/744000144335064
 - [0] Ascensus — Actuarial Intern - Nyhart (Indianapolis, IN) — https://ascensushr.wd1.myworkdayjobs.com/en-US/ascensuscareers/job/Indianapolis-IN/Actuarial-Intern---Nyhart_R0022087
+
+## 2026-08-19 15:23 — 2 new postings
+
+- [3] Sezzle — Product Marketing Operations Intern (Colombia, Remote) — https://job-boards.greenhouse.io/sezzle/jobs/7895790003
+- [0] Red Bull — Internship Talent Acquisition Operations (Elsbethen, Salzburg, at) — https://jobs.smartrecruiters.com/RedBull/744000144344849
