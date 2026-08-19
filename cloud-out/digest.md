@@ -1222,3 +1222,7 @@
 ## 2026-08-19 19:02 — 1 new postings
 
 - [0] Valeo — Purchasing Intern (Year-Round) (Troy, MI) — https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Purchasing-Intern--Year-Round-_REQ2026073558
+
+## 2026-08-19 19:37 — 1 new postings
+
+- [1] OpusClip — Social Growth Intern (San Francisco) — https://jobs.ashbyhq.com/opusclip/029c9eca-cb3d-4292-bc3f-97e506046d0d
