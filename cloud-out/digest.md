@@ -1204,3 +1204,7 @@
 - [0] IKO — HSE/Safety Intern (Ennis, TX) — https://iko.wd3.myworkdayjobs.com/en-US/iko_careers/job/Ennis-TX/HSE-Safety-Intern_REQ-13202
 - [0] Viavi Solutions — SW Development Intern/Data Analytics (Home Office, USA) — https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Home-Office-USA/SW-Development-Intern-Data-Analytics_260005059
 - [0] Advocate Health Care — Intern - Senior (Charlotte, NC - 1110 Center Park Dr) — https://aah.wd5.myworkdayjobs.com/en-US/External/job/Charlotte-NC---1110-Center-Park-Dr/Intern---Senior_R264525
+
+## 2026-08-19 17:20 — 1 new postings
+
+- [0] Bosch Home Comfort — Electrochemistry Modeling Intern (Sunnyvale, CA, us) — https://jobs.smartrecruiters.com/BoschGroup/744000144370279
