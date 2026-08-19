@@ -1241,3 +1241,10 @@
 ## 2026-08-19 20:53 — 1 new postings
 
 - [0] Sentara Health — Intern Sleep Lab (Charlottesville, VA) — https://sentara.wd1.myworkdayjobs.com/en-US/SCS/job/Charlottesville-VA/Intern-Sleep-Lab_JR-104258
+
+## 2026-08-19 21:19 — 4 new postings
+
+- [0] Humana — Humana Technology Internship - Summer 2027 (Early ID Participants) (Louisville, KY) — https://humana.wd5.myworkdayjobs.com/en-US/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027--Early-ID-Participants-_R-427451
+- [0] Humana — Actuarial Internship – Summer 2027 (Louisville, KY) — https://humana.wd5.myworkdayjobs.com/en-US/humana_external_career_site/job/Louisville-KY/Actuarial-Internship---Summer-2027_R-427297
+- [0] Regions Bank — 2027 ETP Intern - Technology, Operations, Digital, and Data - Technology (Hoover, AL - Riverchase Operations Center (Birmingham, AL)) — https://regions.wd5.myworkdayjobs.com/en-US/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Technology_R105425
+- [0] Regions Bank — 2027 ETP Intern - Technology, Operations, Digital, and Data - Analytics (Hoover, AL - Riverchase Operations Center (Birmingham, AL)) — https://regions.wd5.myworkdayjobs.com/en-US/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Analytics_R105426
