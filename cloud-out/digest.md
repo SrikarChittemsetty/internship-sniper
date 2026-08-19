@@ -1133,3 +1133,7 @@
 ## 2026-08-19 09:04 — 1 new postings
 
 - [0] DreamWorks Animation — Publicity Intern (m/w/d) (Frankfurt, de) — https://jobs.smartrecruiters.com/NBCUniversal3/744000144258149
+
+## 2026-08-19 10:21 — 1 new postings
+
+- [0] Egis Group — Architecture Intern (Tamheer) (Riyadh, Riyadh Province, sa) — https://jobs.smartrecruiters.com/EgisGroup/744000144278399
