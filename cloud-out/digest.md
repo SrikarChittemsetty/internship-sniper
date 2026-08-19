@@ -1124,3 +1124,8 @@
 ## 2026-08-19 07:53 — 1 new postings
 
 - [0] Continental — Internship IT Projects (UEM- 8 hours) - Tires (Timișoara, TM, ro) — https://jobs.smartrecruiters.com/Continental/744000144242540
+
+## 2026-08-19 08:28 — 2 new postings
+
+- [0] Continental Resources — Data Analyst Intern (Oklahoma City, OK) — https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1
+- [0] Continental Resources — Geoscience Intern (Oklahoma City, OK) — https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Geoscience-Intern--Summer-2027-_R02592-1
