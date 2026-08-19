@@ -1258,3 +1258,19 @@
 ## 2026-08-19 22:49 — 1 new postings
 
 - [1] Notion — Data Science Intern (Winter 2027) (San Francisco, California) — https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e
+
+## 2026-08-19 23:45 — 13 new postings
+
+- [4] Autodesk — Intern, Agentic Canvas Interactions (Toronto, ON, CAN) — https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--Agentic-Canvas-Interactions_26WD100616-1
+- [4] Autodesk — AI Developer Intern - Creative Technology (Montreal, QC, Canada) — https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2
+- [3] Centific — Technical Intern (Remote in USA) — https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR108144-1
+- [1] AECOM — Cost Management Intern - Quantity Surveying (Nov 2026) (Christchurch, nz) — https://jobs.smartrecruiters.com/AECOM2/744000144417338
+- [1] Citadel Securities — Fundamental Analyst Intern (NYC) — https://www.citadelsecurities.com/careers/details/trading-fundamental-analyst-intern-us/
+- [1] Detroit Lions — Quantitative Research Intern (Allen Park, MI) — https://job-boards.greenhouse.io/detroitlions/jobs/4723291005
+- [1] Verition Fund Management — Technology Intern (Greenwich, CT, Houston, TX, Miami, FL, Chicago, IL, Norwalk, CT, NYC) — https://www.verition.com/open-positions?gh_jid=5214784007
+- [0] University of Pikeville — Policy Analyst Intern - Center for Public Service (Pikeville, KY) — https://upike.bamboohr.com/careers/511/
+- [0] Regions Bank — Technology, Operations, Digital, and Data Analytics Intern (Hoover, AL) — https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Analytics_R105426
+- [0] Bank of Montreal — Workforce Analyst Co-op Intern (Toronto, ON, Canada) — https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513
+- [0] Humana — Technology Intern - Early ID Participants (Louisville, KY) — https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027--Early-ID-Participants-_R-427451
+- [0] Kensington — Data Analyst Intern - Revenue Optimization (Toronto, ON, Canada) — https://job-boards.greenhouse.io/kensingtontours/jobs/5209507007
+- [0] Allegheny County — Business Analytics Intern (Pittsburgh, PA) — https://alleghenycounty.bamboohr.com/careers/663/
