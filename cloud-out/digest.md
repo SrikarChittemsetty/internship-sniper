@@ -1254,3 +1254,7 @@
 - [4] Autodesk — AI Developer Intern (Montreal, QC, Canada) — https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1
 - [1] Willkie Farr & Gallagher — Financial Data Analyst Intern (NYC) — https://uscareers-willkie.icims.com/jobs/2194/job?mobile=true&needsRedirect=false
 - [0] Moog — Computer Science Intern - Information Technology (Buffalo, NY) — https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378
+
+## 2026-08-19 22:49 — 1 new postings
+
+- [1] Notion — Data Science Intern (Winter 2027) (San Francisco, California) — https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e
