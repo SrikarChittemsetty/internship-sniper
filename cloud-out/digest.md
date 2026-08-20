@@ -1334,3 +1334,8 @@
 
 - [0] Avery Dennison — Operations Intern - Summer 2027 (Mentor, OH, us) — https://jobs.smartrecruiters.com/AveryDennison/744000144538735
 - [0] Great American Insurance Company — Internal Audit Intern - Summer 2027 (Cincinnati, OH (USA)) — https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Cincinnati-OH-USA/Internal-Audit-Intern---Summer-2027_R9399
+
+## 2026-08-20 13:44 — 2 new postings
+
+- [0] Fifth Third Bank — IT Audit Intern - Summer 2026 (Cincinnati, OH) — https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/IT-Audit-Internship---Summer-2026_R60748
+- [0] Fifth Third Bank — Risk Internship Program - Summer 2027 (Cincinnati, OH) — https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Risk-Internship-Program---Summer-2027_R71332
