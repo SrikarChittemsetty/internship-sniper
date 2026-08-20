@@ -1278,3 +1278,7 @@
 ## 2026-08-20 01:25 — 1 new postings
 
 - [0] Bosch Home Comfort — Internship 2026, Human Resources, (Payroll) (Amata City Rayong Industrial Estate, RAYONG, th) — https://jobs.smartrecruiters.com/BoschGroup/744000144437169
+
+## 2026-08-20 02:35 — 1 new postings
+
+- [0] DreamWorks Animation — Intern - TX Station (Fort Worth, TEXAS, us) — https://jobs.smartrecruiters.com/NBCUniversal3/744000144447629
