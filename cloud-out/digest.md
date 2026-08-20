@@ -1423,3 +1423,15 @@
 ## 2026-08-20 20:21 — 1 new postings
 
 - [0] AECOM — Inspection Intern (Rocky Hill, CT, us) — https://jobs.smartrecruiters.com/AECOM2/744000144632259
+
+## 2026-08-20 20:55 — 9 new postings
+
+- [0] Royal Bank of Canada — Winter 2027 Co-op Student - Designer, Personal Banking (4 months) (TORONTO, Ontario, Canada) — https://rbc.wd3.myworkdayjobs.com/en-US/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Designer--Personal-Banking--4-months-_R-0000185212
+- [0] Bank of Montreal — Business Analyst, Winter 2027 (Co-op/Internship) - 12 Months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Business-Analyst--Winter-2027--Co-op-Internship----12-Months_R260024675-2
+- [0] Bank of Montreal — Cloud Business & Strategy Analytics Analyst, Winter 2027 (Co-op/Internship) - 4 Months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Cloud-Business---Strategy-Analytics-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024672
+- [0] Bank of Montreal — Project Coordinator, Winter 2027 (Co-op/Internship) - 4 Months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Project-Coordinator--Winter-2027--Co-op-Internship----4-Months_R260024669-1
+- [0] Elanco — Manufacturing Associate Intern – Elwood, Kansas (Summer 2027) (Elwood, KS) — https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899
+- [0] Elanco — Health, Safety, and Environment Intern – Elwood, Kansas (Summer 2027) (Elwood, KS) — https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Elwood-KS/Health--Safety--and-Environment-Intern---Elwood--Kansas--Summer-2027-_R0026900
+- [0] AECOM — Inspection Intern (Hartford, CT, us) — https://jobs.smartrecruiters.com/AECOM2/744000144632410
+- [0] AECOM — Inspection Intern (Springfield, MA, us) — https://jobs.smartrecruiters.com/AECOM2/744000144633480
+- [0] AECOM — Inspection Intern (New Haven, CT, us) — https://jobs.smartrecruiters.com/AECOM2/744000144633619
