@@ -1352,3 +1352,9 @@
 - [0] Conagra Brands — Demand Science Internship - Summer 2027 (Chicago, Illinois) — https://conagrabrands.wd1.myworkdayjobs.com/en-US/Careers_US/job/Chicago-Illinois/Demand-Science-Internship---Summer-2027_Req-039860
 - [0] Bosch Home Comfort — Internal Communications and Employer Branding Internship (Beograd, rs) — https://jobs.smartrecruiters.com/BoschGroup/744000144578799
 - [0] SitusAMC — Intern, Appraisal & Consulting (Part-Time) (West Des Moines, IA) — https://situsamc.wd1.myworkdayjobs.com/en-US/SitusAMC/job/West-Des-Moines-IA/Intern--Appraisal---Consulting--Part-Time-_JR03126
+
+## 2026-08-20 15:48 — 3 new postings
+
+- [0] Northrop Grumman — Associate Computer Systems Analyst - Linux - Pathways Program - Melbourne FL (United States-Florida-Melbourne) — https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Computer-Systems-Analyst---Linux---Pathways-Program---Melbourne-FL_R10246706
+- [0] The Campbell's Company — Community Impact Co-Op (USA - NJ - Camden) — https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Community-Impact-Co-Op_Req-67556
+- [0] Bosch Home Comfort — Academic Internship in Corporate Governance Information Security & Data Protection (f/m/div.) (Braga, Braga, pt) — https://jobs.smartrecruiters.com/BoschGroup/744000144588559
