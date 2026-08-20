@@ -1296,3 +1296,8 @@
 ## 2026-08-20 06:32 — 1 new postings
 
 - [0] Magna International — Architecture Intern (Changning, Shanghai, CN) — https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Changning-Shanghai-CN/Architecture-Intern_R00257194
+
+## 2026-08-20 07:27 — 2 new postings
+
+- [0] Red Bull — Internship Social Media & Content Creation MyGroove (Salzburg, Salzburg, at) — https://jobs.smartrecruiters.com/RedBull/744000144469365
+- [0] Bosch Home Comfort — [Bosch HcP – Internship] ISP Intern (An Phuoc Commune, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000144467936
