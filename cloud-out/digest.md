@@ -1306,3 +1306,9 @@
 
 - [1] Wells Fargo — Quantitative Analytics Intern - Risk Analytics and Decision Sciences (Charlotte, NC) — https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-PhD----Early-Careers_R-569912
 - [0] Continental — Homologation Intern (Petaling Jaya, Selangor, my) — https://jobs.smartrecruiters.com/Continental/744000144489828
+
+## 2026-08-20 09:26 — 3 new postings
+
+- [0] Red Bull — National Account Executive (Co-op) (12 Months FTC) (Multiple Locations, gb) — https://jobs.smartrecruiters.com/RedBull/744000144494009
+- [0] Continental — Mandatory Internship - Marketing Communication International / Two-Wheel Tires (Bicycle and Motorcycle) - REF99023K (Hannover, NDS, de) — https://jobs.smartrecruiters.com/Continental/744000144493915
+- [0] Continental — Internship - Automation & Digitalization for MTA Curing & Spraying (m/w/d) -  REF98984W (Hannover, NDS, de) — https://jobs.smartrecruiters.com/Continental/744000144494549
