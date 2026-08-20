@@ -1441,3 +1441,8 @@
 - [0] Royal Bank of Canada — Winter 2027 Co-op Student – Risk Governance, Personal Banking (8 months) (TORONTO, Ontario, Canada) — https://rbc.wd3.myworkdayjobs.com/en-US/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Risk-Governance--Personal-Banking--8-months-_R-0000185208
 - [0] Micron Technology — Intern - Wet Process Fab 4 EDE (Boise, ID - Main Site) — https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Wet-Process-Fab-4-EDE_JR108959
 - [0] Parsons — Landscape Architecture Intern — https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CA-Pasadena/Landscape-Architecture-Intern_R185154
+
+## 2026-08-20 21:52 — 2 new postings
+
+- [0] The Campbell's Company — R&D Food Science Co-op - Fall Term (USA - NJ - Camden) — https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/R-D-Food-Science-Co-op---Fall-Term_Req-67571
+- [0] The Campbell's Company — R&D Food Science Co-op - Spring Term (USA - NJ - Camden) — https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/R-D-Food-Science-Co-op---Spring-Term_Req-67553
