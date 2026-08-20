@@ -1388,3 +1388,15 @@
 - [0] Heidelberg Materials — Environmental Intern (Flourtown, PA) — https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Flourtown-PA/Environmental-Intern_JR10018155
 - [0] Heidelberg Materials — Environmental Intern (Allentown, PA) — https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Allentown-PA/Environmental-Intern_JR10018154
 - [0] Heidelberg Materials — Environmental Intern (Connellsville, PA) — https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Connellsville-PA/Environmental-Intern_JR10018153
+
+## 2026-08-20 18:58 — 9 new postings
+
+- [1] RSM — Federal Tax Services Intern – Winter 2028 (Austin) — https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Austin/Federal-Tax-Services-Intern---Winter-2027_JR115188
+- [1] Sony — Intern, Information Security Risk and Compliance (New York) — https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/New-York/Intern--Information-Security-Risk-and-Compliance_JR-119512
+- [1] DreamWorks Animation — NBC Bay Area - News Internship  – Fall 2026 (San Jose, CALIFORNIA, us) — https://jobs.smartrecruiters.com/NBCUniversal3/744000144616149
+- [0] Bank of Montreal — Business Analyst, Winter 2027 (Co-op/Internship) - 4 Months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Business-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024635
+- [0] Cushman & Wakefield — EIC GOS Central Summer Intern (Client Site - USA - MO - St. Louis - 575 Maryville Centre Drive) — https://cw.wd1.myworkdayjobs.com/en-US/external/job/Client-Site---USA---MO---St-Louis---575-Maryville-Centre-Drive/EIC-GOS-Central-Summer-Intern_R333458
+- [0] Cushman & Wakefield — EIC 2027 Summer Intern, Client Accounting, St. Louis (Saint Louis, Missouri, USA) — https://cw.wd1.myworkdayjobs.com/en-US/external/job/Saint-Louis-Missouri-USA/EIC-2027-Summer-Intern--Client-Accounting--St-Louis_R333460
+- [0] Bosch Home Comfort — Venture Capital Intern (Sunnyvale, CA, us) — https://jobs.smartrecruiters.com/BoschGroup/744000144612115
+- [0] Oshkosh — S2W Program - Material Support Apprentice (Clinton, Pennsylvania, United States) — https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Clinton-Pennsylvania-United-States/S2W-Program---Material-Support-Apprentice_R49555
+- [0] Heidelberg Materials — Environmental Intern (Jamesville, NY) — https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Jamesville-NY/Environmental-Intern_JR10018156
