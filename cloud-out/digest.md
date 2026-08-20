@@ -1292,3 +1292,7 @@
 ## 2026-08-20 04:09 — 1 new postings
 
 - [0] Bosch Home Comfort — [Bosch HcP – Internship] (Plant Management) Assistant Intern (An Phuoc Commune, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000144452310
+
+## 2026-08-20 06:32 — 1 new postings
+
+- [0] Magna International — Architecture Intern (Changning, Shanghai, CN) — https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Changning-Shanghai-CN/Architecture-Intern_R00257194
