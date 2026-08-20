@@ -1451,3 +1451,19 @@
 
 - [0] City of Aurora — Water GIS Intern — https://auroragov.wd1.myworkdayjobs.com/en-US/careers/job/Daniel-P-Mikesell-Building-Southeast-Area-Maintenance-Facility--SEAM/Water-GIS-Intern_JR109039
 - [0] Johnson Controls — Fitter Welder Apprentice (San Antonio-Texas-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/San-Antonio-Texas-United-States-of-America/Fitter-Welder-Apprentice_WD30277854
+
+## 2026-08-20 22:53 — 13 new postings
+
+- [4] Royal Bank of Canada — Portfolio Risk Data & AI Analyst Intern - Group Risk Management (Toronto, ON, Canada) — https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Portfolio-Risk-Data---AI-Analyst-Intern--4-Months-_R-0000185116-2
+- [4] Royal Bank of Canada — Portfolio Risk Data & AI Analyst Intern - Group Risk Management (Toronto, ON, Canada) — https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Portfolio-Risk-Data---AI-Analyst-Intern--4-Months-_R-0000185116
+- [4] onsemi — Oracle Platform Intern (Scottsdale, AZ) — https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506391
+- [3] National Laboratory of the Rockies — Graduate Energy Systems Intern (Remote in USA, Boulder, CO) — https://nrel.wd5.myworkdayjobs.com/NLR/job/Boulder-CO/Graduate-Summer-Intern---Modeling-and-Analysis-of-Distributed-Hybrid-Energy-Systems_R14469
+- [1] Integra FEC — Research Analyst Intern (Austin, TX) — https://job-boards.greenhouse.io/integrainterns/jobs/5396990008
+- [1] Integra FEC — Research Analyst Intern (Austin, TX) — https://job-boards.greenhouse.io/integra/jobs/5396947008
+- [0] Geico — Insurance Pricing Analyst Intern (Beachwood, OH, Bethesda, MD) — https://geico.wd1.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Insurance-Pricing-Analyst_R0065364
+- [0] PIMCO — Trading Analyst Intern (Newport Beach, CA) — https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763
+- [0] Philips — Data Scientist Co-op (Plymouth, MN) — https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567
+- [0] RTX — Systems Technology Intern (Tucson, AZ) — https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Systems-Technology-Intern----Summer-2027-_01868533
+- [0] McWane — Programmer Apprentice (Oskaloosa, IA) — https://jobs.smartrecruiters.com/McWaneInc/3743990014702976
+- [0] CNO Financial Group — Reporting Analyst Intern (Carmel, IN) — https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Summer-2027-Reporting-Analyst-Intern-2027---REMOTE-from-any-US-based-location_JR170455
+- [0] Catalist — Data Services Intern (Washington, DC) — https://jobs.lever.co/catalist/4300e9ab-5f6f-4b9a-8ad6-8282a34e7dec/apply
