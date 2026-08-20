@@ -1288,3 +1288,7 @@
 - [0] AbbVie — Product Specialist Internship (Pathum Wan, Bangkok, th) — https://jobs.smartrecruiters.com/AbbVie/3743990014692896
 - [0] AbbVie — Product Specialist Intern (Pathum Wan, Bangkok, th) — https://jobs.smartrecruiters.com/AbbVie/3743990014692786
 - [0] Epic Games — Tools Programmer Intern (Cary, NC) — https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004
+
+## 2026-08-20 04:09 — 1 new postings
+
+- [0] Bosch Home Comfort — [Bosch HcP – Internship] (Plant Management) Assistant Intern (An Phuoc Commune, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000144452310
