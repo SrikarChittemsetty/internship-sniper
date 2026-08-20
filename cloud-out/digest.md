@@ -1329,3 +1329,8 @@
 ## 2026-08-20 11:40 — 1 new postings
 
 - [0] Bosch Home Comfort — Extracurricular Internship: UX and Product Documentation (f/m/div.) (Aveiro, pt) — https://jobs.smartrecruiters.com/BoschGroup/744000144523649
+
+## 2026-08-20 12:58 — 2 new postings
+
+- [0] Avery Dennison — Operations Intern - Summer 2027 (Mentor, OH, us) — https://jobs.smartrecruiters.com/AveryDennison/744000144538735
+- [0] Great American Insurance Company — Internal Audit Intern - Summer 2027 (Cincinnati, OH (USA)) — https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Cincinnati-OH-USA/Internal-Audit-Intern---Summer-2027_R9399
