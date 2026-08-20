@@ -1282,3 +1282,9 @@
 ## 2026-08-20 02:35 — 1 new postings
 
 - [0] DreamWorks Animation — Intern - TX Station (Fort Worth, TEXAS, us) — https://jobs.smartrecruiters.com/NBCUniversal3/744000144447629
+
+## 2026-08-20 03:30 — 3 new postings
+
+- [0] AbbVie — Product Specialist Internship (Pathum Wan, Bangkok, th) — https://jobs.smartrecruiters.com/AbbVie/3743990014692896
+- [0] AbbVie — Product Specialist Intern (Pathum Wan, Bangkok, th) — https://jobs.smartrecruiters.com/AbbVie/3743990014692786
+- [0] Epic Games — Tools Programmer Intern (Cary, NC) — https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004
