@@ -1446,3 +1446,8 @@
 
 - [0] The Campbell's Company — R&D Food Science Co-op - Fall Term (USA - NJ - Camden) — https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/R-D-Food-Science-Co-op---Fall-Term_Req-67571
 - [0] The Campbell's Company — R&D Food Science Co-op - Spring Term (USA - NJ - Camden) — https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/R-D-Food-Science-Co-op---Spring-Term_Req-67553
+
+## 2026-08-20 22:19 — 2 new postings
+
+- [0] City of Aurora — Water GIS Intern — https://auroragov.wd1.myworkdayjobs.com/en-US/careers/job/Daniel-P-Mikesell-Building-Southeast-Area-Maintenance-Facility--SEAM/Water-GIS-Intern_JR109039
+- [0] Johnson Controls — Fitter Welder Apprentice (San Antonio-Texas-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/San-Antonio-Texas-United-States-of-America/Fitter-Welder-Apprentice_WD30277854
