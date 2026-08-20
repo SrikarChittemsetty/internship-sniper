@@ -1345,3 +1345,10 @@
 - [0] Liberty University — Apprentice - IT Helpdesk Campus Support (Lynchburg, VA) — https://liberty.wd5.myworkdayjobs.com/en-US/lu_job_board_staff/job/Lynchburg-VA/Apprentice---IT-Helpdesk-Campus-Support_R0012266
 - [0] Johnson Controls — Electrician Apprentice (San Antonio-Texas-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/San-Antonio-Texas-United-States-of-America/Electrician-Apprentice_WD30277521-1
 - [0] Thomson Reuters — Practical Law Intern - Fall 2026 — https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-New-York-New-York/Practical-Law-Intern---Fall-2026_JREQ203098
+
+## 2026-08-20 15:04 — 4 new postings
+
+- [3] Dexterra Group — Operational Analyst – Co-op Student (Remote Hospitality West) (Calgary, AB, ca) — https://jobs.smartrecruiters.com/Dexterra/744000144570769
+- [0] Conagra Brands — Demand Science Internship - Summer 2027 (Chicago, Illinois) — https://conagrabrands.wd1.myworkdayjobs.com/en-US/Careers_US/job/Chicago-Illinois/Demand-Science-Internship---Summer-2027_Req-039860
+- [0] Bosch Home Comfort — Internal Communications and Employer Branding Internship (Beograd, rs) — https://jobs.smartrecruiters.com/BoschGroup/744000144578799
+- [0] SitusAMC — Intern, Appraisal & Consulting (Part-Time) (West Des Moines, IA) — https://situsamc.wd1.myworkdayjobs.com/en-US/SitusAMC/job/West-Des-Moines-IA/Intern--Appraisal---Consulting--Part-Time-_JR03126
