@@ -1358,3 +1358,18 @@
 - [0] Northrop Grumman — Associate Computer Systems Analyst - Linux - Pathways Program - Melbourne FL (United States-Florida-Melbourne) — https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Computer-Systems-Analyst---Linux---Pathways-Program---Melbourne-FL_R10246706
 - [0] The Campbell's Company — Community Impact Co-Op (USA - NJ - Camden) — https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Community-Impact-Co-Op_Req-67556
 - [0] Bosch Home Comfort — Academic Internship in Corporate Governance Information Security & Data Protection (f/m/div.) (Braga, Braga, pt) — https://jobs.smartrecruiters.com/BoschGroup/744000144588559
+
+## 2026-08-20 16:26 — 12 new postings
+
+- [2] InfiniteQuant — Quantitative Researcher - Internship - Summer 2027 (New York, NY, us) — https://jobs.smartrecruiters.com/InfiniteQuant/744000144592181
+- [1] Integra FEC — (FALL) Research Analyst Intern  (Austin, TX) — https://job-boards.greenhouse.io/integrainterns/jobs/5396990008
+- [1] Integra FEC — (FALL) Research Analyst Intern  (Austin, Texas) — https://job-boards.greenhouse.io/integra/jobs/5396947008
+- [1] Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management (NYC) — https://higher.gs.com/roles/182389?type=students
+- [0] Northrop Grumman — 2027 Spring/Summer Chemistry Co-Op- Redondo Beach CA (United States-California-Redondo Beach) — https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Spring-Summer-Chemistry-Co-Op--Redondo-Beach-CA_R10246391
+- [0] Loblaw Companies — Co-op Student, Learning Operations (1 Presidents Choice Circle, Brampton, ON) — https://myview.wd3.myworkdayjobs.com/en-US/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Co-op-Student--Learning-Operations_R2000689307
+- [0] Accenture — Consulting & CX Intern | Song — https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Lisbon-Santos-37/Management-Consulting---Customer-Experience---Accenture-Song_R00349826
+- [0] NielsenIQ — Intern (Guayaquil, G, ec) — https://jobs.smartrecruiters.com/NielsenIQ/744000144590294
+- [0] Curtiss-Wright — Co-op/Intern (US-OH-Cincinnati (Nuclear)) — https://curtisswright.wd1.myworkdayjobs.com/en-US/cw_external_career_site/job/US-OH-Cincinnati-Nuclear/Co-op-Intern_JR13343
+- [0] Fannie Mae — Data Science Intern - Analytics & Modeling Program (Washington, DC) — https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815
+- [0] Goldman Sachs — AWM Product Management Analyst Intern (Dallas, TX) — https://higher.gs.com/roles/171513?type=students
+- [0] Pivot Robotics — Robot Operator Internship (New Boston, OH) — https://jobs.ashbyhq.com/pivotrobotics/5b7e7074-aace-4b9a-9db8-245c8ad66a69/application?embed=true
