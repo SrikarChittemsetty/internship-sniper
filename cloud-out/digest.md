@@ -1319,3 +1319,9 @@
 - [0] Smiths Detection Group — Graduate Apprentice Trainee (Pune, MH, in) — https://jobs.smartrecruiters.com/SmithsGroup2/744000144511190
 - [0] Bosch Home Comfort — [EDT] Intern for Embedded Testing (Tân Bình, Hồ Chí Minh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000144514639
 - [0] Bosch Home Comfort — [EDA] Intern for Embedded Developer (Tân Bình, Thành phố Hồ Chí Minh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000144513250
+
+## 2026-08-20 11:04 — 3 new postings
+
+- [0] Bosch Home Comfort — Extracurricular Internship: Purchasing Quality Inspection (f/m/div.) (Aveiro, pt) — https://jobs.smartrecruiters.com/BoschGroup/744000144518565
+- [0] Bosch Home Comfort — Extracurricular Internship: Purchasing Quality Reporting  (f/m/div.) (Aveiro, pt) — https://jobs.smartrecruiters.com/BoschGroup/744000144516146
+- [0] Bosch Home Comfort — Project Purchasing Intern (Šimanovci, Vojvodina, rs) — https://jobs.smartrecruiters.com/BoschGroup/744000144519259
