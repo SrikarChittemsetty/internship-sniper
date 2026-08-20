@@ -1312,3 +1312,10 @@
 - [0] Red Bull — National Account Executive (Co-op) (12 Months FTC) (Multiple Locations, gb) — https://jobs.smartrecruiters.com/RedBull/744000144494009
 - [0] Continental — Mandatory Internship - Marketing Communication International / Two-Wheel Tires (Bicycle and Motorcycle) - REF99023K (Hannover, NDS, de) — https://jobs.smartrecruiters.com/Continental/744000144493915
 - [0] Continental — Internship - Automation & Digitalization for MTA Curing & Spraying (m/w/d) -  REF98984W (Hannover, NDS, de) — https://jobs.smartrecruiters.com/Continental/744000144494549
+
+## 2026-08-20 10:33 — 4 new postings
+
+- [0] Smiths Detection Group — Graduate Apprentice Trainee (Bengaluru, KA, in) — https://jobs.smartrecruiters.com/SmithsGroup2/744000144514449
+- [0] Smiths Detection Group — Graduate Apprentice Trainee (Pune, MH, in) — https://jobs.smartrecruiters.com/SmithsGroup2/744000144511190
+- [0] Bosch Home Comfort — [EDT] Intern for Embedded Testing (Tân Bình, Hồ Chí Minh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000144514639
+- [0] Bosch Home Comfort — [EDA] Intern for Embedded Developer (Tân Bình, Thành phố Hồ Chí Minh, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000144513250
