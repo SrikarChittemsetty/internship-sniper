@@ -1325,3 +1325,7 @@
 - [0] Bosch Home Comfort — Extracurricular Internship: Purchasing Quality Inspection (f/m/div.) (Aveiro, pt) — https://jobs.smartrecruiters.com/BoschGroup/744000144518565
 - [0] Bosch Home Comfort — Extracurricular Internship: Purchasing Quality Reporting  (f/m/div.) (Aveiro, pt) — https://jobs.smartrecruiters.com/BoschGroup/744000144516146
 - [0] Bosch Home Comfort — Project Purchasing Intern (Šimanovci, Vojvodina, rs) — https://jobs.smartrecruiters.com/BoschGroup/744000144519259
+
+## 2026-08-20 11:40 — 1 new postings
+
+- [0] Bosch Home Comfort — Extracurricular Internship: UX and Product Documentation (f/m/div.) (Aveiro, pt) — https://jobs.smartrecruiters.com/BoschGroup/744000144523649
