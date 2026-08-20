@@ -1373,3 +1373,10 @@
 - [0] Fannie Mae — Data Science Intern - Analytics & Modeling Program (Washington, DC) — https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815
 - [0] Goldman Sachs — AWM Product Management Analyst Intern (Dallas, TX) — https://higher.gs.com/roles/171513?type=students
 - [0] Pivot Robotics — Robot Operator Internship (New Boston, OH) — https://jobs.ashbyhq.com/pivotrobotics/5b7e7074-aace-4b9a-9db8-245c8ad66a69/application?embed=true
+
+## 2026-08-20 17:33 — 4 new postings
+
+- [3] CNO Financial Group — Summer 2027 Reporting Analyst Intern 2027 - REMOTE from any US based location (Carmel, IN) — https://cnoinc.wd5.myworkdayjobs.com/en-US/Careers/job/Carmel-IN/Summer-2027-Reporting-Analyst-Intern-2027---REMOTE-from-any-US-based-location_JR170455
+- [0] RSM — Federal Mergers and Acquisitions Tax Intern - Summer 2027 (Boston) — https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Boston/Federal-Mergers-and-Acquisitions-Tax-Intern---Summer-2027_JR120765
+- [0] Sika — Maintenance Mechanic Apprentice (Haines City, FL, us) — https://jobs.smartrecruiters.com/SikaAG/744000144603430
+- [0] RR Donnelley — Bindery Operator 3 - Die Cutter Apprentice (Durham, NC, us) — https://jobs.smartrecruiters.com/RRDonnelley/744000144603558
