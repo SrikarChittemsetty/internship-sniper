@@ -1274,3 +1274,7 @@
 - [0] Humana — Technology Intern - Early ID Participants (Louisville, KY) — https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027--Early-ID-Participants-_R-427451
 - [0] Kensington — Data Analyst Intern - Revenue Optimization (Toronto, ON, Canada) — https://job-boards.greenhouse.io/kensingtontours/jobs/5209507007
 - [0] Allegheny County — Business Analytics Intern (Pittsburgh, PA) — https://alleghenycounty.bamboohr.com/careers/663/
+
+## 2026-08-20 01:25 — 1 new postings
+
+- [0] Bosch Home Comfort — Internship 2026, Human Resources, (Payroll) (Amata City Rayong Industrial Estate, RAYONG, th) — https://jobs.smartrecruiters.com/BoschGroup/744000144437169
