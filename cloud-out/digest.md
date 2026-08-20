@@ -1380,3 +1380,11 @@
 - [0] RSM — Federal Mergers and Acquisitions Tax Intern - Summer 2027 (Boston) — https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Boston/Federal-Mergers-and-Acquisitions-Tax-Intern---Summer-2027_JR120765
 - [0] Sika — Maintenance Mechanic Apprentice (Haines City, FL, us) — https://jobs.smartrecruiters.com/SikaAG/744000144603430
 - [0] RR Donnelley — Bindery Operator 3 - Die Cutter Apprentice (Durham, NC, us) — https://jobs.smartrecruiters.com/RRDonnelley/744000144603558
+
+## 2026-08-20 18:02 — 5 new postings
+
+- [0] Mosaic — Artificial Intelligence Co-Op/Intern - Spring 2027 (US - Tampa, FL (Lithia area)) — https://mosaic.wd5.myworkdayjobs.com/en-US/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Spring-2027_64729
+- [0] Ivy Tech Community College — IvyRoots Intern (Madison, IN) — https://ivytech.wd1.myworkdayjobs.com/en-US/ivy_tech_careers/job/Madison-IN/IvyRoots-Intern_JR0000107190
+- [0] Heidelberg Materials — Environmental Intern (Flourtown, PA) — https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Flourtown-PA/Environmental-Intern_JR10018155
+- [0] Heidelberg Materials — Environmental Intern (Allentown, PA) — https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Allentown-PA/Environmental-Intern_JR10018154
+- [0] Heidelberg Materials — Environmental Intern (Connellsville, PA) — https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Connellsville-PA/Environmental-Intern_JR10018153
