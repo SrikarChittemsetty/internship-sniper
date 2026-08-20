@@ -1411,3 +1411,11 @@
 - [0] Cushman & Wakefield — EIC Intern, Client Accounting (Saint Louis, Missouri, USA) — https://cw.wd1.myworkdayjobs.com/en-US/external/job/Saint-Louis-Missouri-USA/EIC-Intern--Client-Accounting_R333462-1
 - [0] Cushman & Wakefield — 2027 Summer Intern, Client Accounting, Tempe (Tempe, Arizona, USA) — https://cw.wd1.myworkdayjobs.com/en-US/external/job/Tempe-Arizona-USA/XMLNAME-2027-Summer-Intern--Client-Accounting--Tempe_R333480
 - [0] Shaw Industries Group — High School Work-Based Learning Intern – MakerSpace, Shaw Plant 2 (Shaw Plant 2, 2207 S Hamilton Street, Dalton, GA 30720 USA) — https://shawinc.wd1.myworkdayjobs.com/en-US/External/job/Shaw-Plant-2-2207-S-Hamilton-Street-Dalton-GA-30720-USA/High-School-Work-Based-Learning-Intern---MakerSpace--Shaw-Plant-2_R-156243
+
+## 2026-08-20 19:56 — 5 new postings
+
+- [0] Royal Bank of Canada — Winter 2027 Co-op Student - Designer, Personal Banking (4 months) (TORONTO, Ontario, Canada) — https://rbc.wd3.myworkdayjobs.com/en-US/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Designer--Personal-Banking--4-months-_R-0000185187
+- [0] Bank of Montreal — Product Control Analyst, Winter 2027 (Co-op/Internship) - 4 Months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Product-Control-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024657
+- [0] Bank of Montreal — Process Analyst, Winter 2027 (Co-op/Internship) - 4 Months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Process-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024656-2
+- [0] Johnson & Johnson — Sustainability Engagement Coop (New Brunswick, New Jersey, United States of America) — https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Sustainability-Engagement-Coop_R-093946
+- [0] Sanofi — 2027 Spring - Co-op Medicinal Chemistry, Cambridge, MA (Cambridge, MA) — https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring---Co-op-Medicinal-Chemistry--Cambridge--MA_R2851886
