@@ -1301,3 +1301,8 @@
 
 - [0] Red Bull — Internship Social Media & Content Creation MyGroove (Salzburg, Salzburg, at) — https://jobs.smartrecruiters.com/RedBull/744000144469365
 - [0] Bosch Home Comfort — [Bosch HcP – Internship] ISP Intern (An Phuoc Commune, vn) — https://jobs.smartrecruiters.com/BoschGroup/744000144467936
+
+## 2026-08-20 08:56 — 2 new postings
+
+- [1] Wells Fargo — Quantitative Analytics Intern - Risk Analytics and Decision Sciences (Charlotte, NC) — https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-PhD----Early-Careers_R-569912
+- [0] Continental — Homologation Intern (Petaling Jaya, Selangor, my) — https://jobs.smartrecruiters.com/Continental/744000144489828
