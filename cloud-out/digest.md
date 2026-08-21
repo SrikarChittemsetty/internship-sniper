@@ -1634,3 +1634,21 @@
 - [0] MSX International — Automotive Technical Operations Apprentice (Fountain Valley, CA, us) — https://jobs.smartrecruiters.com/MSXInternational/3743990014771172
 - [0] Heidelberg Materials — Safety Intern (Nazareth, PA) — https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Nazareth-PA/Safety-Intern_JR10018173
 - [0] MultiCare Health System — RN Resident/Fellow Birth Center Auburn Medical Center October 5th cohort — https://multicare.wd1.myworkdayjobs.com/en-US/multicare/job/Auburn-Washington/RN-Resident-Fellow-Birth-Center-Auburn-Medical-Center-October-5th-cohort_JR82324
+
+## 2026-08-21 20:18 — 15 new postings
+
+- [4] PricewaterhouseCoopers (PwC) — Cloud, Data and AI Intern (Montreal, QC, Canada) — https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/May-2027---Cloud--Data-and-AI---Summer-Intern---Montreal_753364WD
+- [0] Cigna Group — Technology Apprentice - Multiple Teams (St. Louis, MO) — https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Technology-Apprentice-Program---Hybrid_26010314
+- [0] Vertiv — Product Management Intern - Product Marketing (Delaware, OH) — https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279047
+- [0] Ontario Teachers' Pension Plan — Investments Intern - Total Fund Management - Global Trading (Toronto, ON, Canada) — https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Investments--Total-Fund-Management--Global-Trading--January-2027--4-Months-_7169
+- [0] Ontario Teachers' Pension Plan — Investments Intern (Toronto, ON, Canada) — https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Investments--Total-Fund-Management--Global-Trading--May-2027--4-Months-_7170
+- [0] W.W. Grainger — Data Science Intern (Chicago, IL) — https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Data-Science-IL-60661-4555/1421972400/?ats=successfactors
+- [0] The Home Depot — Co-op Intern (Atlanta, GA) — https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Co-OP-Intern_Req191014
+- [0] Nationwide Children's Hospital — IGM Research Intern - RI Miller (Columbus, OH) — https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/IGM-Research-Intern---RI-Miller_R-27625-1
+- [0] LPL Financial Holdings — Internal Audit Intern - Multiple Teams (Fort Mill, SC, Charlotte, NC) — https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Internal-Audit---Data-Analytics_R-053198
+- [0] LPL Financial Holdings — Data Analytics Intern - FAR Program (Fort Mill, SC, Charlotte, NC) — https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Data-Analytics_R-052053
+- [0] RTX — Business Systems and Transformation Intern - Analyst Business Systems and Transformation (Longueuil, QC, Canada) — https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Hiver-2027---Analyste-systmes-d-affaires-et-transformation---Internship-Winter-2027---Analyst-Business-Systems-and-Transformation_01865865
+- [0] RTX — Digital Support & Business Intelligence Intern - Computer Science (Longueuil, QC, Canada) — https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869
+- [0] BRG — Health Analytics Intern - Health Analytics Practice (Chicago, IL) — https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039
+- [0] Frost — Computer Science Intern - Digital Services (San Antonio, TX) — https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---One-Frost/College-Intern---Digital-Services_R261550
+- [0] Royal Bank of Canada — Data Analyst Co-op - Personal Banking (Toronto, ON, Canada) — https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking--4-months-_R-0000185213
