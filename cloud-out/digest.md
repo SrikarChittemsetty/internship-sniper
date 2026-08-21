@@ -1611,3 +1611,10 @@
 ## 2026-08-21 17:44 — 1 new postings
 
 - [0] Bank of Montreal — Climate Risk Reporting Analyst, Winter 2027 (Co-op/Internship) - 4 Months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Climate-Risk-Reporting-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024768
+
+## 2026-08-21 18:04 — 4 new postings
+
+- [0] Bank of Montreal — Audit Analyst, Winter 2027 (Co-op/Internship) - 4 Months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Audit-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024776
+- [0] Brunswick — Supply Chain Co-op (Fond du Lac, WI) — https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Supply-Chain-Co-op_JR-051252
+- [0] Formlabs — Print Production Intern (Somerville, MA) — https://careers.formlabs.com/job/8138459/apply/?gh_jid=8138459
+- [0] Figure — Power Systems Integration Intern (San Jose, CA) — https://job-boards.greenhouse.io/figureai/jobs/4702104006
