@@ -1661,3 +1661,13 @@
 ## 2026-08-21 21:47 — 1 new postings
 
 - [0] ASM Global — Intern Catering & Special Events Coordinator (Frisco, TX) — https://asmglobal.wd1.myworkdayjobs.com/en-US/careers/job/Frisco-TX/Intern-Catering---Special-Events-Coordinator_R100124929
+
+## 2026-08-21 22:16 — 7 new postings
+
+- [4] Bank of Montreal — Data Science Analyst Co-op Intern - Audit AI & Analytics (Toronto, ON, Canada) — https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Science-Analyst---Audit-AI---Analytics--Winter-2027--Co-op-Internship----4-Months_R260024761
+- [0] Diamondback Energy — Geoscience Intern (Midland, TX) — https://diamondbackenergy.wd12.myworkdayjobs.com/DBE/job/Midland-TX/Summer-2027-Geoscience-Intern_R100829
+- [0] H3X Technologies — Embedded Controls Intern (Louisville, CO) — https://jobs.ashbyhq.com/h3x-technologies/d406e4b4-9b48-438c-a2af-b7feb8563a40/application?embed=true
+- [0] Bank of Montreal — Climate Risk Reporting Analyst Co-op Intern - Winter 2027 - 4 Months (Toronto, ON, Canada) — https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Climate-Risk-Reporting-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024768
+- [0] Bank of Montreal — Data Science Risk Analyst Co-op Intern (Toronto, ON, Canada) — https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735
+- [0] Interdigital — Information Systems / Salesforce Intern (Conshohocken, PA) — https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/Intern--IS-Systems---Salesforce_REQ26-1133
+- [0] Mackenzie Investments — Data Science Intern (Toronto, ON, Canada) — https://careersen-mackenzieinvestments.icims.com/jobs/5977/job?mobile=true&needsRedirect=false
