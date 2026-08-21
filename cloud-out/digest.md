@@ -1516,3 +1516,7 @@
 ## 2026-08-21 05:26 — 1 new postings
 
 - [0] Ontario Teachers' Pension Plan — Intern – Real Estate, Dallas (June 2027 – 10 weeks) (Dallas, USA) — https://otppb.wd3.myworkdayjobs.com/en-US/OntarioTeachers_Careers/job/Dallas-USA/Intern---Real-Estate--Dallas--June-2027---10-weeks-_7211
+
+## 2026-08-21 07:28 — 1 new postings
+
+- [0] Magna International — Intern (Pune, IN) — https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Pune-IN/Intern_R00249640
