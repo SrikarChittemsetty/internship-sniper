@@ -1623,3 +1623,8 @@
 
 - [0] Royal Bank of Canada — Winter 2027 Co-op Student – Data Analyst, Personal Banking (4 months) (TORONTO, Ontario, Canada) — https://rbc.wd3.myworkdayjobs.com/en-US/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking--4-months-_R-0000185213
 - [0] Ankura Consulting Group — Fellow, McLarty Trade Practice (USA Washington DC 900 17th Street (McLarty)) — https://ankura.wd5.myworkdayjobs.com/en-US/ankura/job/USA-Washington-DC-900-17th-Street-McLarty/Fellow--McLarty-Trade-Practice_R104898
+
+## 2026-08-21 19:21 — 2 new postings
+
+- [0] University of Virginia — Federal Work-Study (FWS) Internship Program: Preservation Student Assistant-UVA Library (Charlottesville, VA) — https://uva.wd1.myworkdayjobs.com/en-US/uvastudentjobs/job/Charlottesville-VA/Federal-Work-Study--FWS--Internship-Program--Preservation-Student-Assistant-UVA-Library_R0086536
+- [0] MultiCare Health System — RN Resident/Fellow Birth Center Auburn Medical Center October 5th cohort — https://multicare.wd1.myworkdayjobs.com/en-US/multicare/job/Auburn-Washington/RN-Resident-Fellow-NICU-Auburn-Medical-Center-February-24th-cohort_JR35881-1
