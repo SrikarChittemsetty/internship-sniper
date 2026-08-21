@@ -1540,3 +1540,7 @@
 - [0] Bosch Home Comfort — Mandatory Internship in the Strategic Purchasing for Turned Parts (Bietigheim-Bissingen, BW, de) — https://jobs.smartrecruiters.com/BoschGroup/744000144712529
 - [0] Bosch Home Comfort — Internship in the Strategic Purchasing for Turned Parts (Elchingen, BY, de) — https://jobs.smartrecruiters.com/BoschGroup/744000144711789
 - [0] Bosch Home Comfort — Internship in Human Resources (Batu Kawan, Penang, my) — https://jobs.smartrecruiters.com/BoschGroup/744000144710279
+
+## 2026-08-21 10:02 — 1 new postings
+
+- [0] Magna International — Intern Finance (Nanchang, Jiangxi, CN) — https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Nanchang-Jiangxi-CN/Intern-Finance_R00257775
