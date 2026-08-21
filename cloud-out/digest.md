@@ -1594,3 +1594,9 @@
 - [0] Draper — Embedded Quality & Fielded Systems Intern (Cambridge, MA) — https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718
 - [0] American Express — Cybersecurity Intern (Phoenix, AZ) — https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012462
 - [0] American Express — Cybersecurity Intern (Phoenix, AZ) — https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012460
+
+## 2026-08-21 16:29 — 3 new postings
+
+- [2] Ferrovial — Webber - Intern - Estimating (The Woodlands, TX) — https://ferrovial.wd3.myworkdayjobs.com/en-US/ferrovial_career_site/job/The-Woodlands-TX/Webber---Intern---Estimating_JR18832
+- [0] Johnson Controls — HVAC Data Center Mechanical Service Apprentice Technician (Union) (Atlanta-Georgia-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Atlanta-Georgia-United-States-of-America/HVAC-Data-Center-Mechanical-Service-Apprentice-Technician--Union-_WD30277668
+- [0] RR Donnelley — Digital Press Operator Apprentice 1st shift (Cudahy, WI, us) — https://jobs.smartrecruiters.com/RRDonnelley/744000144803387
