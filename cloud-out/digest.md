@@ -1534,3 +1534,9 @@
 - [0] AMD — Data Analyst Intern/Co-op (San Jose, CA, Santa Clara, CA) — https://careers.amd.com/jobs/91179?icims=1
 - [0] Lawrence Livermore National Laboratory (LLNL) — Energy Systems Analyst Graduate Intern - Fall 2026 (Livermore, CA) — https://jobs.smartrecruiters.com/LLNL/3743990014731696
 - [0] Ontario Teachers' Pension Plan — Business Insights and Analytics Intern - Member Services (Toronto, ON, Canada) — https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Member-Services--Business-Insights-and-Analytics--January-2027---8-months-_7179
+
+## 2026-08-21 08:57 — 3 new postings
+
+- [0] Bosch Home Comfort — Mandatory Internship in the Strategic Purchasing for Turned Parts (Bietigheim-Bissingen, BW, de) — https://jobs.smartrecruiters.com/BoschGroup/744000144712529
+- [0] Bosch Home Comfort — Internship in the Strategic Purchasing for Turned Parts (Elchingen, BY, de) — https://jobs.smartrecruiters.com/BoschGroup/744000144711789
+- [0] Bosch Home Comfort — Internship in Human Resources (Batu Kawan, Penang, my) — https://jobs.smartrecruiters.com/BoschGroup/744000144710279
