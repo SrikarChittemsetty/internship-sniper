@@ -1472,3 +1472,19 @@
 
 - [0] Lawrence Livermore National Laboratory (LLNL) — Materials Science Division Graduate Intern - Winter/Spring 2027 (Livermore, CA, us) — https://jobs.smartrecruiters.com/LLNL/3743990014731026
 - [0] Lawrence Livermore National Laboratory (LLNL) — ESH Undergraduate Intern - Fall 2026 (Livermore, CA, us) — https://jobs.smartrecruiters.com/LLNL/3743990014730996
+
+## 2026-08-21 02:20 — 13 new postings
+
+- [0] Micron Technology — Intern - Yield Technology Equipment (Boise, ID - Main Site) — https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Yield-Technology-Equipment_JR109069
+- [0] Lawrence Livermore National Laboratory (LLNL) — Energy Systems Analyst Graduate Intern - Fall 2026 (Livermore, CA, us) — https://jobs.smartrecruiters.com/LLNL/3743990014731696
+- [0] KeyBank — Summer 2027 KeyBank Procurement Internship – Cleveland, OH (Brooklyn, OH) — https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/Summer-2027-KeyBank-Procurement-Internship---Cleveland--OH_R-41723
+- [0] NielsenIQ — Intern Operations (Mandarin Speaker) (KL Eco City Bangsar, 14, my) — https://jobs.smartrecruiters.com/NielsenIQ/744000144674229
+- [0] Wabtec — Intern (Shanghai, SD, cn) — https://jobs.smartrecruiters.com/Wabtec/3743990014731736
+- [0] Navy Federal — Change Management Intern (Pensacola, FL, Vienna, VA) — https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/31728
+- [0] Mosaic — Artificial Intelligence Co-op Intern (Tampa, FL) — https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Spring-2027_64729
+- [0] Vanguard — Data Science Intern - College to Corporate IT (Charlotte, NC) — https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765
+- [0] Vanguard — Data Science Intern - Information Technology (Malvern, PA) — https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766
+- [0] Vanguard — Data Analyst Intern - College to Corporate IT (Charlotte, NC) — https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767
+- [0] Auto-Owners Insurance — Predictive Modeler Intern - Summer 2027 (Lansing, MI) — https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Predictive-Modeler-Intern---Summer-2022_R_3833
+- [0] IMEG — Innovation Services Intern (St. Louis, MO) — https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Innovation-Services-Intern---St-Louis--MO_R-16449-1
+- [0] Lawrence Livermore National Laboratory (LLNL) — Environment, Safety and Health Undergraduate Intern - Fall 2026 (Livermore, CA) — https://jobs.smartrecruiters.com/LLNL/3743990014730996
