@@ -1600,3 +1600,10 @@
 - [2] Ferrovial — Webber - Intern - Estimating (The Woodlands, TX) — https://ferrovial.wd3.myworkdayjobs.com/en-US/ferrovial_career_site/job/The-Woodlands-TX/Webber---Intern---Estimating_JR18832
 - [0] Johnson Controls — HVAC Data Center Mechanical Service Apprentice Technician (Union) (Atlanta-Georgia-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Atlanta-Georgia-United-States-of-America/HVAC-Data-Center-Mechanical-Service-Apprentice-Technician--Union-_WD30277668
 - [0] RR Donnelley — Digital Press Operator Apprentice 1st shift (Cudahy, WI, us) — https://jobs.smartrecruiters.com/RRDonnelley/744000144803387
+
+## 2026-08-21 17:02 — 4 new postings
+
+- [4] Bank of Montreal — Data Science Analyst - Audit AI & Analytics, Winter 2027 (Co-op/Internship) - 4 Months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Data-Science-Analyst---Audit-AI---Analytics--Winter-2027--Co-op-Internship----4-Months_R260024761
+- [0] Royal Bank of Canada — Winter 2027 Co-op Student - Designer, Personal Banking (4 months) (TORONTO, Ontario, Canada) — https://rbc.wd3.myworkdayjobs.com/en-US/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Designer--Personal-Banking--4-months-_R-0000185211
+- [0] Interdigital — Intern, IS Systems / Salesforce (Conshohocken, PA) — https://interdigital.wd5.myworkdayjobs.com/en-US/InterDigital_Intern/job/Conshohocken-PA/Intern--IS-Systems---Salesforce_REQ26-1133
+- [0] RR Donnelley — Digital Press Operator Apprentice 3rd Shift (Cudahy, WI, us) — https://jobs.smartrecruiters.com/RRDonnelley/744000144804811
