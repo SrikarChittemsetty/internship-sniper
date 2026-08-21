@@ -1573,3 +1573,10 @@
 - [0] Bank of Montreal — Finance Analyst, Winter 2027 (Co-op/Internship) - 4 Months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Finance-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024724
 - [0] Bosch Home Comfort — Supply and Demand Planner Internship (Beograd, rs) — https://jobs.smartrecruiters.com/BoschGroup/744000144779869
 - [0] Bosch Home Comfort — Supply and Demand Planner - Intern (Arabic language) (Beograd, rs) — https://jobs.smartrecruiters.com/BoschGroup/744000144778249
+
+## 2026-08-21 15:26 — 4 new postings
+
+- [0] Bank of Montreal — Data Science Risk Analyst, Winter 2027 (Co-op/Internship) - 4 Months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735
+- [0] Bank of Montreal — Finance Analyst, Winter 2027 (Co-op/Internship) - 4 Months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Finance-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024732
+- [0] Johnson & Johnson — DePuy Synthes Commercialized Product Development Co-Op Orthopedics (Warsaw, Indiana, United States of America) — https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Warsaw-Indiana-United-States-of-America/DePuy-Synthes-Commercialized-Product-Development-Co-Op-Orthopedics_R-093662
+- [0] Continental — IT Support Intern (Sumter, SC, us) — https://jobs.smartrecruiters.com/Continental/744000144791867
