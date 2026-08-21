@@ -1607,3 +1607,7 @@
 - [0] Royal Bank of Canada — Winter 2027 Co-op Student - Designer, Personal Banking (4 months) (TORONTO, Ontario, Canada) — https://rbc.wd3.myworkdayjobs.com/en-US/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Designer--Personal-Banking--4-months-_R-0000185211
 - [0] Interdigital — Intern, IS Systems / Salesforce (Conshohocken, PA) — https://interdigital.wd5.myworkdayjobs.com/en-US/InterDigital_Intern/job/Conshohocken-PA/Intern--IS-Systems---Salesforce_REQ26-1133
 - [0] RR Donnelley — Digital Press Operator Apprentice 3rd Shift (Cudahy, WI, us) — https://jobs.smartrecruiters.com/RRDonnelley/744000144804811
+
+## 2026-08-21 17:44 — 1 new postings
+
+- [0] Bank of Montreal — Climate Risk Reporting Analyst, Winter 2027 (Co-op/Internship) - 4 Months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Climate-Risk-Reporting-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024768
