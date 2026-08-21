@@ -1657,3 +1657,7 @@
 
 - [0] Fifth Third Bank — Summer 2027 Commercial Middle Market Internship - Detroit (Detroit, MI) — https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Detroit-MI/Summer-2027-Commercial-Middle-Market-Internship---Detroit_R71892
 - [0] Heidelberg Materials — IT Intern (Irving, TX) — https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Irving-TX/IT-Intern_JR10018243
+
+## 2026-08-21 21:47 — 1 new postings
+
+- [0] ASM Global — Intern Catering & Special Events Coordinator (Frisco, TX) — https://asmglobal.wd1.myworkdayjobs.com/en-US/careers/job/Frisco-TX/Intern-Catering---Special-Events-Coordinator_R100124929
