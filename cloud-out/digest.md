@@ -1618,3 +1618,8 @@
 - [0] Brunswick — Supply Chain Co-op (Fond du Lac, WI) — https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Supply-Chain-Co-op_JR-051252
 - [0] Formlabs — Print Production Intern (Somerville, MA) — https://careers.formlabs.com/job/8138459/apply/?gh_jid=8138459
 - [0] Figure — Power Systems Integration Intern (San Jose, CA) — https://job-boards.greenhouse.io/figureai/jobs/4702104006
+
+## 2026-08-21 18:55 — 2 new postings
+
+- [0] Royal Bank of Canada — Winter 2027 Co-op Student – Data Analyst, Personal Banking (4 months) (TORONTO, Ontario, Canada) — https://rbc.wd3.myworkdayjobs.com/en-US/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking--4-months-_R-0000185213
+- [0] Ankura Consulting Group — Fellow, McLarty Trade Practice (USA Washington DC 900 17th Street (McLarty)) — https://ankura.wd5.myworkdayjobs.com/en-US/ankura/job/USA-Washington-DC-900-17th-Street-McLarty/Fellow--McLarty-Trade-Practice_R104898
