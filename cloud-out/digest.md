@@ -1556,3 +1556,10 @@
 - [0] Ontario Teachers' Pension Plan — Intern- Investments, Total Fund Management- Global Trading (January 2027- 4 Months) (Toronto, Canada) — https://otppb.wd3.myworkdayjobs.com/en-US/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Investments--Total-Fund-Management--Global-Trading--January-2027--4-Months-_7169
 - [0] Ontario Teachers' Pension Plan — Intern- Investments, Total Fund Management- Global Trading (May 2027- 4 Months) (Toronto, Canada) — https://otppb.wd3.myworkdayjobs.com/en-US/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Investments--Total-Fund-Management--Global-Trading--May-2027--4-Months-_7170
 - [0] Ontario Teachers' Pension Plan — Risk Intern - Total Fund Risk (Toronto, ON, Canada) — https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Risk--Total-Fund-Risk--May-2027--12-months-_7195
+
+## 2026-08-21 14:06 — 4 new postings
+
+- [0] Nationwide Children's Hospital — IGM Research Intern - RI Miller (Main Campus, Columbus, OH) — https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/IGM-Research-Intern---RI-Miller_R-27625-1
+- [0] Johnson Controls — Fire Sprinkler Systems Apprentice Tech (union) (Lenexa-Kansas-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Lenexa-Kansas-United-States-of-America/Fire-Sprinkler-Systems-Apprentice-Tech--union-_WD30277550
+- [0] Ontario Teachers' Pension Plan — Intern- Investments, Teachers Venture Growth (January 2027- 12 months) (Toronto, Canada) — https://otppb.wd3.myworkdayjobs.com/en-US/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Investments--Teachers-Venture-Growth--January-2027--12-months-_7165
+- [0] St. Luke's University Health Network — Radiology Student Intern (Quakertown, PA - 3000 John Fries Highway) — https://sluhn.wd1.myworkdayjobs.com/en-US/SLUHN/job/Quakertown-PA---3000-John-Fries-Highway/Radiology-Student-Intern_R144127
