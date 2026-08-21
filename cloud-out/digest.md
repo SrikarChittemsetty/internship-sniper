@@ -1520,3 +1520,17 @@
 ## 2026-08-21 07:28 — 1 new postings
 
 - [0] Magna International — Intern (Pune, IN) — https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Pune-IN/Intern_R00249640
+
+## 2026-08-21 08:07 — 11 new postings
+
+- [4] AMD — Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence (San Jose, CA, Santa Clara, CA) — https://careers.amd.com/jobs/91177?icims=1
+- [4] AMD — Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence (San Jose, CA, Santa Clara, CA) — https://careers.amd.com/jobs/90892?icims=1
+- [1] AMD — Data Analyst Intern/Co-op (Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA) — https://careers.amd.com/jobs/91183?icims=1
+- [1] AMD — Data Analyst Intern/Co-op (Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA) — https://careers.amd.com/jobs/91175?icims=1
+- [1] Ontario Teachers' Pension Plan — Capital Markets Intern - Quantitative Strategies and Research (Toronto, ON, Canada) — https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Capital-Markets--Quantitative-Strategies-and-Research--January-2027---4-months-_7167
+- [1] Ontario Teachers' Pension Plan — Capital Markets Intern - Quantitative Strategies and Research (Toronto, ON, Canada) — https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Capital-Markets--Quantitative-Strategies-and-Research--May-2027---4-months-_7168
+- [0] Avery Dennison — Internship: Procurement Finance (Oegstgeest, ZH, nl) — https://jobs.smartrecruiters.com/AveryDennison/744000144706185
+- [0] AMD — Data Analyst Intern/Co-op (San Jose, CA, Santa Clara, CA) — https://careers.amd.com/jobs/90895?icims=1
+- [0] AMD — Data Analyst Intern/Co-op (San Jose, CA, Santa Clara, CA) — https://careers.amd.com/jobs/91179?icims=1
+- [0] Lawrence Livermore National Laboratory (LLNL) — Energy Systems Analyst Graduate Intern - Fall 2026 (Livermore, CA) — https://jobs.smartrecruiters.com/LLNL/3743990014731696
+- [0] Ontario Teachers' Pension Plan — Business Insights and Analytics Intern - Member Services (Toronto, ON, Canada) — https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Member-Services--Business-Insights-and-Analytics--January-2027---8-months-_7179
