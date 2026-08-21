@@ -1628,3 +1628,9 @@
 
 - [0] University of Virginia — Federal Work-Study (FWS) Internship Program: Preservation Student Assistant-UVA Library (Charlottesville, VA) — https://uva.wd1.myworkdayjobs.com/en-US/uvastudentjobs/job/Charlottesville-VA/Federal-Work-Study--FWS--Internship-Program--Preservation-Student-Assistant-UVA-Library_R0086536
 - [0] MultiCare Health System — RN Resident/Fellow Birth Center Auburn Medical Center October 5th cohort — https://multicare.wd1.myworkdayjobs.com/en-US/multicare/job/Auburn-Washington/RN-Resident-Fellow-NICU-Auburn-Medical-Center-February-24th-cohort_JR35881-1
+
+## 2026-08-21 19:46 — 3 new postings
+
+- [0] MSX International — Automotive Technical Operations Apprentice (Fountain Valley, CA, us) — https://jobs.smartrecruiters.com/MSXInternational/3743990014771172
+- [0] Heidelberg Materials — Safety Intern (Nazareth, PA) — https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Nazareth-PA/Safety-Intern_JR10018173
+- [0] MultiCare Health System — RN Resident/Fellow Birth Center Auburn Medical Center October 5th cohort — https://multicare.wd1.myworkdayjobs.com/en-US/multicare/job/Auburn-Washington/RN-Resident-Fellow-Birth-Center-Auburn-Medical-Center-October-5th-cohort_JR82324
