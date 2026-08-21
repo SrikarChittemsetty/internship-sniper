@@ -1544,3 +1544,15 @@
 ## 2026-08-21 10:02 — 1 new postings
 
 - [0] Magna International — Intern Finance (Nanchang, Jiangxi, CN) — https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Nanchang-Jiangxi-CN/Intern-Finance_R00257775
+
+## 2026-08-21 13:28 — 9 new postings
+
+- [0] Elanco — Quality Assurance Intern – Clinton, Indiana (Summer 2027) (Clinton, IN) — https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Clinton-IN/Quality-Assurance-Intern---Clinton--Indiana--Summer-2027-_R0026895
+- [0] Elanco — Manufacturing Scientist/Quality Control Chemist Intern – Clinton, Indiana (Summer 2027) (Clinton, IN) — https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Clinton-IN/Manufacturing-Scientist-Quality-Control-Chemist-Intern---Clinton--Indiana--Summer-2027-_R0026870
+- [0] Elanco — Manufacturing Scientist/Technical Services Intern – Elanco Technology Center (Summer 2027) (Indianapolis, IN) — https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/Manufacturing-Scientist-Technical-Services-Intern---Elanco-Technology-Center--Summer-2027-_R0026897
+- [0] Bosch Home Comfort — Academic Internship in Economics/International Relations(f/m/div.) (Braga, Braga, pt) — https://jobs.smartrecruiters.com/BoschGroup/744000144762321
+- [0] Ontario Teachers' Pension Plan — Intern- Investments, Real Estate (May 2027- 4 Months) (Toronto, Canada) — https://otppb.wd3.myworkdayjobs.com/en-US/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Investments--Real-Estate--May-2027--4-Months-_7176
+- [0] Ontario Teachers' Pension Plan — Intern - Investments, Capital Markets, Developed Markets (May 2027 - 8 months) (Toronto, Canada) — https://otppb.wd3.myworkdayjobs.com/en-US/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Investments--Capital-Markets--Developed-Markets--May-2027---8-months-_7141
+- [0] Ontario Teachers' Pension Plan — Intern- Investments, Total Fund Management- Global Trading (January 2027- 4 Months) (Toronto, Canada) — https://otppb.wd3.myworkdayjobs.com/en-US/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Investments--Total-Fund-Management--Global-Trading--January-2027--4-Months-_7169
+- [0] Ontario Teachers' Pension Plan — Intern- Investments, Total Fund Management- Global Trading (May 2027- 4 Months) (Toronto, Canada) — https://otppb.wd3.myworkdayjobs.com/en-US/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Investments--Total-Fund-Management--Global-Trading--May-2027--4-Months-_7170
+- [0] Ontario Teachers' Pension Plan — Risk Intern - Total Fund Risk (Toronto, ON, Canada) — https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Risk--Total-Fund-Risk--May-2027--12-months-_7195
