@@ -1580,3 +1580,17 @@
 - [0] Bank of Montreal — Finance Analyst, Winter 2027 (Co-op/Internship) - 4 Months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Finance-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024732
 - [0] Johnson & Johnson — DePuy Synthes Commercialized Product Development Co-Op Orthopedics (Warsaw, Indiana, United States of America) — https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Warsaw-Indiana-United-States-of-America/DePuy-Synthes-Commercialized-Product-Development-Co-Op-Orthopedics_R-093662
 - [0] Continental — IT Support Intern (Sumter, SC, us) — https://jobs.smartrecruiters.com/Continental/744000144791867
+
+## 2026-08-21 15:58 — 11 new postings
+
+- [4] Epic Games — Machine Learning Research Intern (Montreal, Canada) — https://www.epicgames.com/site/careers/jobs/6138140004?gh_jid=6138140004
+- [2] Point72 — Quantitative Developer Intern (New York, NY) — https://job-boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002
+- [2] Millennium — Quantitative Developer Intern (New York, NY) — https://career.mlp.com/careers/job/755957819661
+- [1] RSM — Assurance Intern - Winter 2028 (Austin) — https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Austin/Assurance-Intern---Winter-2028_JR120826
+- [0] Bank of Montreal — Financial Governance and Controls Analyst, Winter 2027 (Co-op/Internship) - 4 Months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Financial-Governance-and-Controls-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024742
+- [0] Bank of Montreal — Business Analyst, Data and Change Management , Winter 2027 (Co-op/Internship) - 4 Months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Business-Analyst--Data-and-Change-Management---Winter-2027--Co-op-Internship----4-Months_R260024737
+- [0] Johnson Controls — HVAC PRJ Mechanic Apprentice (union) (Tempe-Arizona-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Tempe-Arizona-United-States-of-America/HVAC-PRJ-Mechanic-Apprentice--union-_WD30277807
+- [0] Epic Games — Gameplay Programmer Intern (Cary, United States) — https://www.epicgames.com/site/careers/jobs/6141180004?gh_jid=6141180004
+- [0] Draper — Embedded Quality & Fielded Systems Intern (Cambridge, MA) — https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718
+- [0] American Express — Cybersecurity Intern (Phoenix, AZ) — https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012462
+- [0] American Express — Cybersecurity Intern (Phoenix, AZ) — https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012460
