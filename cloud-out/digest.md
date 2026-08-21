@@ -1512,3 +1512,7 @@
 - [0] Ontario Teachers' Pension Plan — Intern- Investmens, Private Capital- Global Funds (January 2027- 4 Month Contract) (Toronto, Canada) — https://otppb.wd3.myworkdayjobs.com/en-US/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Investmens--Private-Capital--Global-Funds--January-2027--4-Month-Contract-_7159
 - [0] Ontario Teachers' Pension Plan — Intern- Investmens, Private Capital- Global Funds (May 2027- 4 Month Contract) (Toronto, Canada) — https://otppb.wd3.myworkdayjobs.com/en-US/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Investmens--Private-Capital--Global-Funds--May-2027--4-Month-Contract-_7160
 - [0] Ontario Teachers' Pension Plan — Intern - Investments, Capital Markets, Hedge Funds & Insurance Linked Securitites (May 2027 - 4 Months) (Toronto, Canada) — https://otppb.wd3.myworkdayjobs.com/en-US/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Investments--Capital-Markets--Hedge-Funds---Insurance-Linked-Securitites--May-2027---4-Months-_7197
+
+## 2026-08-21 05:26 — 1 new postings
+
+- [0] Ontario Teachers' Pension Plan — Intern – Real Estate, Dallas (June 2027 – 10 weeks) (Dallas, USA) — https://otppb.wd3.myworkdayjobs.com/en-US/OntarioTeachers_Careers/job/Dallas-USA/Intern---Real-Estate--Dallas--June-2027---10-weeks-_7211
