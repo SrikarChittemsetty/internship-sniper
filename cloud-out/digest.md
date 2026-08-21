@@ -1652,3 +1652,8 @@
 - [0] BRG — Health Analytics Intern - Health Analytics Practice (Chicago, IL) — https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039
 - [0] Frost — Computer Science Intern - Digital Services (San Antonio, TX) — https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---One-Frost/College-Intern---Digital-Services_R261550
 - [0] Royal Bank of Canada — Data Analyst Co-op - Personal Banking (Toronto, ON, Canada) — https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking--4-months-_R-0000185213
+
+## 2026-08-21 21:17 — 2 new postings
+
+- [0] Fifth Third Bank — Summer 2027 Commercial Middle Market Internship - Detroit (Detroit, MI) — https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Detroit-MI/Summer-2027-Commercial-Middle-Market-Internship---Detroit_R71892
+- [0] Heidelberg Materials — IT Intern (Irving, TX) — https://heidelbergmaterials.wd3.myworkdayjobs.com/en-US/global_hm_career_site/job/Irving-TX/IT-Intern_JR10018243
