@@ -1563,3 +1563,13 @@
 - [0] Johnson Controls — Fire Sprinkler Systems Apprentice Tech (union) (Lenexa-Kansas-United States of America) — https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Lenexa-Kansas-United-States-of-America/Fire-Sprinkler-Systems-Apprentice-Tech--union-_WD30277550
 - [0] Ontario Teachers' Pension Plan — Intern- Investments, Teachers Venture Growth (January 2027- 12 months) (Toronto, Canada) — https://otppb.wd3.myworkdayjobs.com/en-US/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Investments--Teachers-Venture-Growth--January-2027--12-months-_7165
 - [0] St. Luke's University Health Network — Radiology Student Intern (Quakertown, PA - 3000 John Fries Highway) — https://sluhn.wd1.myworkdayjobs.com/en-US/SLUHN/job/Quakertown-PA---3000-John-Fries-Highway/Radiology-Student-Intern_R144127
+
+## 2026-08-21 14:53 — 7 new postings
+
+- [3] Brown & Brown Insurance — Specific Stop Loss Claim Auditor Intern (Remote - USA) — https://bbinsurance.wd1.myworkdayjobs.com/en-US/careers/job/Remote---USA/Specific-Stop-Loss-Claim-Auditor-Intern_R26_0000002820
+- [3] Brown & Brown Insurance — Specific Stop Loss Claim Auditor Intern (Remote - USA) — https://bbinsurance.wd1.myworkdayjobs.com/en-US/careers/job/Remote---USA/Specific-Stop-Loss-Claim-Auditor-Intern_R26_0000002819-1
+- [3] Brown & Brown Insurance — Specific Stop Loss Claim Auditor Intern (Remote - USA) — https://bbinsurance.wd1.myworkdayjobs.com/en-US/careers/job/Remote---USA/Specific-Stop-Loss-Claim-Auditor-Intern_R26_0000002821-1
+- [0] Bank of Montreal — Process and Change Management Analyst, Winter 2027 (Co-op/Internship) - 4 Months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Process-and-Change-Management-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024728
+- [0] Bank of Montreal — Finance Analyst, Winter 2027 (Co-op/Internship) - 4 Months (Toronto, ON, CAN) — https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/Finance-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024724
+- [0] Bosch Home Comfort — Supply and Demand Planner Internship (Beograd, rs) — https://jobs.smartrecruiters.com/BoschGroup/744000144779869
+- [0] Bosch Home Comfort — Supply and Demand Planner - Intern (Arabic language) (Beograd, rs) — https://jobs.smartrecruiters.com/BoschGroup/744000144778249
