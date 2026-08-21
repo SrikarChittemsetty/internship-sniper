@@ -1467,3 +1467,8 @@
 - [0] McWane — Programmer Apprentice (Oskaloosa, IA) — https://jobs.smartrecruiters.com/McWaneInc/3743990014702976
 - [0] CNO Financial Group — Reporting Analyst Intern (Carmel, IN) — https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Summer-2027-Reporting-Analyst-Intern-2027---REMOTE-from-any-US-based-location_JR170455
 - [0] Catalist — Data Services Intern (Washington, DC) — https://jobs.lever.co/catalist/4300e9ab-5f6f-4b9a-8ad6-8282a34e7dec/apply
+
+## 2026-08-21 00:51 — 2 new postings
+
+- [0] Lawrence Livermore National Laboratory (LLNL) — Materials Science Division Graduate Intern - Winter/Spring 2027 (Livermore, CA, us) — https://jobs.smartrecruiters.com/LLNL/3743990014731026
+- [0] Lawrence Livermore National Laboratory (LLNL) — ESH Undergraduate Intern - Fall 2026 (Livermore, CA, us) — https://jobs.smartrecruiters.com/LLNL/3743990014730996
