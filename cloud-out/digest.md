@@ -1671,3 +1671,17 @@
 - [0] Bank of Montreal — Data Science Risk Analyst Co-op Intern (Toronto, ON, Canada) — https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735
 - [0] Interdigital — Information Systems / Salesforce Intern (Conshohocken, PA) — https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/Intern--IS-Systems---Salesforce_REQ26-1133
 - [0] Mackenzie Investments — Data Science Intern (Toronto, ON, Canada) — https://careersen-mackenzieinvestments.icims.com/jobs/5977/job?mobile=true&needsRedirect=false
+
+## 2026-08-22 00:00 — 11 new postings
+
+- [0] PricewaterhouseCoopers (PwC) — Data Enablement Co-op (Calgary, AB, Canada) — https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/September-2027---Data-Enablement--Non-CPA----8-month-Co-op---Calgary_754211WD-1
+- [0] PricewaterhouseCoopers (PwC) — Data Enablement Co-op - Data Enablement (Montreal, QC, Canada) — https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/September-2027---Data-Enablement--Non-CPA----8-month-Co-op---Montreal_754063WD
+- [0] PricewaterhouseCoopers (PwC) — Data Enablement Co-op (Vancouver, BC, Canada) — https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Vancouver/September-2027---Data-Enablement--CPA----8-month-Co-op---Vancouver_754069WD
+- [0] PricewaterhouseCoopers (PwC) — Data Enablement Co-op (Toronto, ON, Canada) — https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Toronto/September-2027---Data-Enablement--Non-CPA----8-month-Co-op---Toronto_754067WD
+- [0] PricewaterhouseCoopers (PwC) — Data Analyst Co-op - Data Enablement (Montreal, QC, Canada) — https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/September-2027---Data-Enablement--CPA----8-month-Co-op---Montreal_754061WD
+- [0] PricewaterhouseCoopers (PwC) — Data Enablement Co-op - Data Enablement (Toronto, ON, Canada) — https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Toronto/September-2027---Data-Enablement--CPA----8-month-Co-op---Toronto_754065WD
+- [0] PricewaterhouseCoopers (PwC) — Data Enablement Co-op - CPA (Calgary, AB, Canada) — https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/September-2027---Data-Enablement--CPA----8-month-Co-op---Calgary_754208WD
+- [0] PricewaterhouseCoopers (PwC) — Data Enablement Co-op - Data Enablement (Vancouver, BC, Canada) — https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Vancouver/September-2027---Data-Enablement--Non-CPA----8-month-Co-op---Vancouver_754085WD
+- [0] Marsh — Government Health Consulting Informatics Intern - College Program (Phoenix, AZ, Minneapolis, MN) — https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073
+- [0] Eudia — Product Intern (Palo Alto, CA) — https://job-boards.greenhouse.io/eudia/jobs/4379570009
+- [0] SimIS — Artificial Intelligence Developer Intern - Aerospace/Aviation (Suffolk, VA) — https://simisinc.applytojob.com/apply/U1yOSyvkvH/AerospaceAviation-Artificial-Intelligence-Developer-Intern
