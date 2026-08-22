@@ -1698,3 +1698,13 @@
 - [0] TikTok — Product Manager Intern - Content and Service Ads (San Jose, CA) — https://lifeattiktok.com/search/7676283436713593093
 - [0] RTX — Repair & Overhaul Intern (Saint-Hubert, Longueuil, QC, Canada) — https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Stage-Hiver-2027---Groupe-Solutions-Client--Rparation-et-Rvision-----Internship-Winter-2027---Repair---Overhaul-Customer-Solutions-Group-_01867393
 - [0] Micron Technology — Yield Enhancement Intern - Data Analysis (Boise, ID) — https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Yield-Enhancement--Data-Analysis_JR109076
+
+## 2026-08-22 15:44 — 7 new postings
+
+- [4] Springs Window Fashions — AI Analyst Intern - Consumer Business Unit (Middleton, WI) — https://careers-springswindowfashions.icims.com/jobs/12875/job?mobile=true&needsRedirect=false
+- [0] Springs Window Fashions — Product Management Intern (Long Island City, Queens, NY) — https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false
+- [0] Springs Window Fashions — Dealer Business Operations & Analytics Intern - Summer 2027 (Middleton, WI) — https://careers-springswindowfashions.icims.com/jobs/12886/job?mobile=true&needsRedirect=false
+- [0] Springs Window Fashions — Data Analyst Intern - Consumer Business Unit (Middleton, WI) — https://careers-springswindowfashions.icims.com/jobs/12874/job?mobile=true&needsRedirect=false
+- [0] Springs Window Fashions — Product Management Competitive Product Assessment Intern - Summer 2027 (Middleton, WI) — https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false
+- [0] Springs Window Fashions — Product Management Dashboard Analytics Intern (Middleton, WI) — https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false
+- [0] RTX — Industrialization Intern - Industrialization Production Readiness (Longueuil, QC, Canada) — https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Industrialisation----Internship---Winter-2027---Industrialization-Production-Readiness_01867520
