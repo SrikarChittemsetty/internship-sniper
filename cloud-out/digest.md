@@ -1685,3 +1685,7 @@
 - [0] Marsh — Government Health Consulting Informatics Intern - College Program (Phoenix, AZ, Minneapolis, MN) — https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073
 - [0] Eudia — Product Intern (Palo Alto, CA) — https://job-boards.greenhouse.io/eudia/jobs/4379570009
 - [0] SimIS — Artificial Intelligence Developer Intern - Aerospace/Aviation (Suffolk, VA) — https://simisinc.applytojob.com/apply/U1yOSyvkvH/AerospaceAviation-Artificial-Intelligence-Developer-Intern
+
+## 2026-08-22 01:15 — 1 new postings
+
+- [0] Micron Technology — Intern - Yield Enhancement, Data Analysis (Boise, ID - Main Site) — https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Yield-Enhancement--Data-Analysis_JR109076
