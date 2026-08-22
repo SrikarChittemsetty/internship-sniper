@@ -1689,3 +1689,12 @@
 ## 2026-08-22 01:15 — 1 new postings
 
 - [0] Micron Technology — Intern - Yield Enhancement, Data Analysis (Boise, ID - Main Site) — https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Yield-Enhancement--Data-Analysis_JR109076
+
+## 2026-08-22 04:04 — 6 new postings
+
+- [4] TikTok — AI Product Manager Intern - Product Social (San Jose, CA) — https://lifeattiktok.com/search/7675616554318596357
+- [4] Ecolab — Digital & AI Technology Intern (Naperville, IL, Eagan, MN, St Paul, MN) — https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249
+- [0] Hoffman Construction — Data Analyst Intern (Boise, ID) — https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1487
+- [0] TikTok — Product Manager Intern - Content and Service Ads (San Jose, CA) — https://lifeattiktok.com/search/7676283436713593093
+- [0] RTX — Repair & Overhaul Intern (Saint-Hubert, Longueuil, QC, Canada) — https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Stage-Hiver-2027---Groupe-Solutions-Client--Rparation-et-Rvision-----Internship-Winter-2027---Repair---Overhaul-Customer-Solutions-Group-_01867393
+- [0] Micron Technology — Yield Enhancement Intern - Data Analysis (Boise, ID) — https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Yield-Enhancement--Data-Analysis_JR109076
